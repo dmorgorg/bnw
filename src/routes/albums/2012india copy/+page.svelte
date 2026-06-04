@@ -4,7 +4,7 @@
 
 	import 'reveal.js/reveal.css';
 	import 'reveal.js/theme/white.css';
-	import '$lib/app.css';
+	import '$lib/app.scss';
 
 	onMount(() => {
 		const deck = new Reveal({
