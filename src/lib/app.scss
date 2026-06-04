@@ -1,0 +1,27 @@
+.controls button {
+	color: #888;
+	color: #888 !important;
+	scale: 0.5;
+}
+.controls button:hover {
+	color: #444 !important;
+}
+.progress {
+	height: 5px !important;
+	background: white !important;
+	color: #888 !important;
+}
+/* .progress span {
+	color: #888;
+} */
+
+.reveal .slides section {
+	background-color: inherit;
+
+	img {
+		// margin-top: 1.5em;
+		box-shadow: 0 0 0.35em 3px #888;
+		max-width: 80vw;
+		max-height: 70vh;
+	}
+}

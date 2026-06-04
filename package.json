@@ -1,0 +1,31 @@
+{
+	"name": "bnw",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''",
+		"lint": "prettier --check .",
+		"format": "prettier --write ."
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^7.0.1",
+		"@sveltejs/kit": "^2.57.0",
+		"@sveltejs/vite-plugin-svelte": "^7.0.0",
+		"@types/node": "^25.9.1",
+		"prettier": "^3.8.1",
+		"prettier-plugin-svelte": "^3.5.1",
+		"sass": "^1.100.0",
+		"svelte": "^5.55.2",
+		"svelte-preprocess": "^6.0.5",
+		"vite": "^8.0.7"
+	},
+	"dependencies": {
+		"@fontsource/caveat-brush": "^5.2.8",
+		"@types/reveal.js": "^5.2.2",
+		"reveal.js": "^6.0.1"
+	}
+}
