@@ -12,8 +12,8 @@
 			autoAnimateDuration: 1,
 			hash: true, // for url hash
 			controls: true, // true by default
-			progress: true, // true by default
-			disableLayout: true
+			progress: true // true by default
+			// disableLayout: true
 		});
 		deck.initialize();
 	});
@@ -24,6 +24,7 @@
 		<section>
 			<section>
 				<img src="/images/2012india/09/2012-09-11-115811_Nik.jpg" alt="" />
+				<div class="caption">Kolkata, West Bengal</div>
 			</section>
 			<section>
 				<img src="/images/2012india/09/2012-09-11-115811.jpg" alt="" />
@@ -39,7 +40,7 @@
 			</section>
 		</section>
 
-		<section>
+		<section class="outer">
 			<section>
 				<img src="/images/2012india/09/2012-09-14-130650_Nik.jpg" alt="" />
 			</section>
@@ -208,9 +209,9 @@
 	</div>
 </div>
 
-<style>
+<!-- <style>
 	section {
 		border: 2px solid green;
 		margin-top: 1rem;
 	}
-</style>
+</style> -->
