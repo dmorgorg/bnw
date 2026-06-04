@@ -12,8 +12,8 @@
 			autoAnimateDuration: 1,
 			hash: true, // for url hash
 			controls: true, // true by default
-			progress: true, // true by default
-			disableLayout: true
+			progress: true // true by default
+			// disableLayout: true
 		});
 		deck.initialize();
 	});
