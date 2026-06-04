@@ -12,7 +12,8 @@
 			autoAnimateDuration: 1,
 			hash: true, // for url hash
 			controls: true, // true by default
-			progress: true // true by default
+			progress: true, // true by default
+			disableLayout: true
 		});
 		deck.initialize();
 	});
@@ -206,3 +207,10 @@
 		</section>
 	</div>
 </div>
+
+<style>
+	section {
+		border: 2px solid green;
+		margin-top: 1rem;
+	}
+</style>
