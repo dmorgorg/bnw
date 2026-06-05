@@ -1,6 +1,6 @@
 <script>
 	import favicon from '$lib/assets/camera.png';
-	import '$lib/app.scss';
+	// import '$lib/app.scss';
 
 	let { children } = $props();
 </script>

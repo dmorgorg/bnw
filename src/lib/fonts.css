@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'Blockland';
+	src: url($lib/fonts/Blockland.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Blockline';
+	src: url($lib/fonts/Blockline.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Cordelius';
+	src: url($lib/fonts/Cordelius.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Goma';
+	src: url($lib/fonts/Goma.otf) format('truetype');
+}
+@font-face {
+	font-family: 'Nelka';
+	src: url($lib/fonts/NelkaBlock.otf) format('truetype');
+}
+@font-face {
+	font-family: 'Restone';
+	src: url($lib/fonts/Roadblock-ExtraBold.otf) format('truetype');
+}
+@font-face {
+	font-family: 'Roadblock';
+	src: url($lib/fonts/Roadblock-ExtraBold.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Struko';
+	src: url($lib/fonts/STRUKO.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: 'Waw';
+	src: url($lib/fonts/WorldsAtWarBB.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Xtreme';
+	src: url($lib/fonts/xtreme.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Bitling';
+	src: url($lib/fonts/bitlingravish.ttf) format('truetype');
+}

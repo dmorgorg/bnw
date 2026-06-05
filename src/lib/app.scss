@@ -34,17 +34,20 @@
 		box-shadow: 0 0 0.35em 2px #888;
 		margin-block: 0;
 		// width: 90%;
-		max-width: 100%;
+		max-width: 90%;
 		// max-width: 90%;
 		// max-height: 80vh;
-		max-height: 75vh;
+		max-height: 80vh;
 	}
 
 	.caption {
 		position: absolute;
 		left: 50%;
 		transform: translate(-50%, 0);
-		color: red;
-		font-size: 1rem;
+		font-size: 1.25rem;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		// font-family: Bitling;
+		font-style: italic;
+		width: 100%;
 	}
 }
