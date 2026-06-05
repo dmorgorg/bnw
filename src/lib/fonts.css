@@ -12,7 +12,7 @@
 }
 @font-face {
 	font-family: 'Goma';
-	src: url($lib/fonts/Goma.otf) format('truetype');
+	src: url($lib/fonts/Goma.ttf) format('truetype');
 }
 @font-face {
 	font-family: 'Nelka';
