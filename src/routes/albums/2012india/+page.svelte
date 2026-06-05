@@ -94,14 +94,14 @@
 			</section>
 		</section>
 
-		<section>
+		<!-- <section>
 			<section>
 				<img src="/images/2012india/09/2012-09-22-105155_Nik.jpg" alt="" />
 			</section>
 			<section>
 				<img src="/images/2012india/09/2012-09-22-105155.jpg" alt="" />
 			</section>
-		</section>
+		</section> -->
 
 		<section>
 			<section>
@@ -112,14 +112,14 @@
 			</section>
 		</section>
 
-		<section>
+		<!-- <section>
 			<section>
 				<img src="/images/2012india/09/2012-09-22-121330_Nik.jpg" alt="" />
 			</section>
 			<section>
 				<img src="/images/2012india/09/2012-09-22-121330.jpg" alt="" />
 			</section>
-		</section>
+		</section> -->
 
 		<section>
 			<section>
@@ -130,14 +130,14 @@
 			</section>
 		</section>
 
-		<section>
+		<!-- <section>
 			<section>
 				<img src="/images/2012india/09/2012-09-22-130608_Nik.jpg" alt="" />
 			</section>
 			<section>
 				<img src="/images/2012india/09/2012-09-22-130608.jpg" alt="" />
 			</section>
-		</section>
+		</section> -->
 
 		<section>
 			<section>
@@ -185,26 +185,32 @@
 		</section>
 
 		<section>
-			<img src="/images/2012india/2012-10-06-121557_Nik.jpg" alt="" />
+			<img src="/images/2012india/10/2012-10-06-121557_Nik.jpg" alt="" />
 			<!-- Monastery at -->
 		</section>
+
 		<section>
-			<img src="/images/2012india/2012-10-06-121940_Nik.jpg" alt="" />
+			<img src="/images/2012india/10/2012-10-06-121940_Nik.jpg" alt="" />
 		</section>
+
 		<section>
-			<img src="/images/2012india/2012-10-09-115350_Nik.jpg" alt="" />
+			<img src="/images/2012india/10/2012-10-09-115350_Nik.jpg" alt="" />
 		</section>
+
 		<section>
-			<img src="/images/2012india/2012-10-14-162901_Nik.jpg" alt="" />
+			<img src="/images/2012india/10/2012-10-14-162901_Nik.jpg" alt="" />
 		</section>
+
 		<section>
-			<img src="/images/2012india/2012-10-14-162952_Nik.jpg" alt="" />
+			<img src="/images/2012india/10/2012-10-14-162952_Nik.jpg" alt="" />
 		</section>
+
 		<section>
-			<img src="/images/2012india/2012-10-18-104950_Nik.jpg" alt="" />
+			<img src="/images/2012india/10/2012-10-18-104950_Nik.jpg" alt="" />
 		</section>
+
 		<section>
-			<img src="/images/2012india/2012-11-04-130636_Nik.jpg" alt="" />
+			<img src="/images/2012india/11/2012-11-04-130636_Nik.jpg" alt="" />
 		</section>
 	</div>
 </div>
