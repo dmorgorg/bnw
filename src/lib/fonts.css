@@ -22,10 +22,10 @@
 	font-family: 'Restone';
 	src: url($lib/fonts/Restone.otf) format('truetype');
 }
-@font-face {
+/* @font-face {
 	font-family: 'Roadblock';
 	src: url($lib/fonts/Roadblock-ExtraBold.ttf) format('truetype');
-}
+} */
 @font-face {
 	font-family: 'Struko';
 	src: url($lib/fonts/STRUKO.ttf) format('truetype');
