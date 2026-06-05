@@ -240,7 +240,13 @@
 		</section>
 
 		<section>
-			<img src="/images/2012india/10/2012-10-14-162901_Nik.jpg" alt="" />
+			<section>
+				<img src="/images/2012india/10/2012-10-14-162901_Nik.jpg" alt="" />
+				<div class="caption">Cheerfully at work, butchering a goat, West Bengal</div>
+			</section>
+			<section>
+				<img src="/images/2012india/10/2012-10-14-162901.jpg" alt="" />
+			</section>
 		</section>
 
 		<section>
