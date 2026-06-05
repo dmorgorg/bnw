@@ -20,7 +20,7 @@
 }
 @font-face {
 	font-family: 'Restone';
-	src: url($lib/fonts/Roadblock-ExtraBold.otf) format('truetype');
+	src: url($lib/fonts/Restone.otf) format('truetype');
 }
 @font-face {
 	font-family: 'Roadblock';
