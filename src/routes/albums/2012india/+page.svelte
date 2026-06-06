@@ -68,7 +68,7 @@
 				<div class="caption">Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-19-060801-1.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-19-060801.jpg" alt="" />
 			</section>
 		</section>
 
