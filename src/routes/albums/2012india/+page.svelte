@@ -116,7 +116,9 @@
 		<section>
 			<section>
 				<img src="/images/2012india/09/2012-09-22-112647_Nik.jpg" alt="" />
-				<div class="caption">Aloobari (Potato field) Monastery. Darjeeling, West Bengal</div>
+				<div class="caption">
+					Aloobari (meaning 'potato field') Monastery. Near Darjeeling, West Bengal
+				</div>
 			</section>
 			<section>
 				<img src="/images/2012india/09/2012-09-22-112647.jpg" alt="" />
