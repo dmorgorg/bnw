@@ -43,3 +43,8 @@
 	font-family: 'Bitling';
 	src: url($lib/fonts/bitlingravish.ttf) format('truetype');
 } */
+
+@font-face {
+	font-family: 'CandaraItalic';
+	src: url($lib/fonts/Candara_Italic.ttf) format('truetype');
+}

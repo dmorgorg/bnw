@@ -37,17 +37,18 @@
 		max-width: 90%;
 		// max-width: 90%;
 		// max-height: 80vh;
-		max-height: 60vh;
+		max-height: 85vh;
 	}
 
 	.caption {
-		position: absolute;
+		// font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		font-family: CandaraItalic;
+		font-size: 1.125rem;
+		// font-style: italic;
 		left: 50%;
+		margin-top: -0.5rem;
+		position: absolute;
 		transform: translate(-50%, 0);
-		font-size: 1.25rem;
-		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-		// font-family: Bitling;
-		font-style: italic;
 		width: 100%;
 	}
 }

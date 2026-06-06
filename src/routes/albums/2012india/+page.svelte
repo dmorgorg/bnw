@@ -154,7 +154,7 @@
 			<section>
 				<img src="/images/2012india/09/2012-09-22-132700_Nik.jpg" alt="" />
 				<div class="caption">
-					Martin Charitable Dispensary open since 1932, Darjeeling, West Bengal
+					Martin Charitable Dispensary, opened in 1932 but now derelict. Darjeeling, West Bengal
 				</div>
 			</section>
 			<section>
@@ -214,7 +214,7 @@
 		<section>
 			<section>
 				<img src="/images/2012india/10/2012-10-04-121930_Nik.jpg" alt="" />
-				<div class="caption">Darjeeling, West Bengal</div>
+				<div class="caption">Darjeeling, West Bengal.</div>
 			</section>
 			<section>
 				<img src="/images/2012india/10/2012-10-04-121930.jpg" alt="" />
@@ -224,19 +224,25 @@
 		<section>
 			<section>
 				<img src="/images/2012india/10/2012-10-06-121557_Nik.jpg" alt="" />
-				<div class="caption">At the monastery, Darjeeling, West Bengal</div>
+				<div class="caption">Darjeeling Monastery. Darjeeling, West Bengal.</div>
 			</section>
 			<section>
 				<img src="/images/2012india/10/2012-10-06-121557.jpg" alt="" />
 			</section>
 		</section>
 
-		<section>
+		<!-- <section>
 			<img src="/images/2012india/10/2012-10-06-121940_Nik.jpg" alt="" />
-		</section>
+		</section> -->
 
 		<section>
-			<img src="/images/2012india/10/2012-10-09-115350_Nik.jpg" alt="" />
+			<section>
+				<img src="/images/2012india/10/2012-10-09-115350_Nik.jpg" alt="" />
+				<div class="caption">A wandering holy man. Siliguri, West Bengal.</div>
+			</section>
+			<section>
+				<img src="/images/2012india/10/2012-10-09-115350.jpg" alt="" />
+			</section>
 		</section>
 
 		<section>
