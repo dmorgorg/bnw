@@ -64,6 +64,26 @@
 
 		<section>
 			<section>
+				<img src="/images/2012india/09/2012-09-19-091019_Nik.jpg" alt="" />
+				<div class="caption">Riding the DHR, Darjeeling, West Bengal</div>
+			</section>
+			<section>
+				<img src="/images/2012india/09/2012-09-19-091019.jpg" alt="" />
+			</section>
+		</section>
+
+		<section>
+			<section>
+				<img src="/images/2012india/09/2012-09-21-123345_Nik.jpg" alt="" />
+				<div class="caption">Darjeeling Himalayan Railway (DHR), Darjeeling, West Bengal</div>
+			</section>
+			<section>
+				<img src="/images/2012india/09/2012-09-21-123345.jpg" alt="" />
+			</section>
+		</section>
+
+		<section>
+			<section>
 				<img src="/images/2012india/09/2012-09-19-060801_Nik.jpg" alt="" />
 				<div class="caption">Darjeeling, West Bengal</div>
 			</section>
@@ -91,16 +111,6 @@
 			</section>
 			<section>
 				<img src="/images/2012india/09/2012-09-21-114512.jpg" alt="" />
-			</section>
-		</section>
-
-		<section>
-			<section>
-				<img src="/images/2012india/09/2012-09-21-123345_Nik.jpg" alt="" />
-				<div class="caption">Darjeeling Himalayan Railway (DHR), Darjeeling, West Bengal</div>
-			</section>
-			<section>
-				<img src="/images/2012india/09/2012-09-21-123345.jpg" alt="" />
 			</section>
 		</section>
 
