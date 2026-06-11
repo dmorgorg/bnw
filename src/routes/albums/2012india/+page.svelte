@@ -20,270 +20,271 @@
 	});
 </script>
 
+<!-- <div class="outer"> -->
 <div class="reveal">
 	<div class="slides">
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-11-115811_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-11-115811_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Shoeshine Man, Kolkata, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-11-115811.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-11-115811.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-11-121801_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-11-121801_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Taxi Rank, Kolkata, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-11-121801.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-11-121801.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section class="outer">
 			<section>
-				<img src="/images/2012india/09/2012-09-14-130650_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-14-130650_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Darjeeling Himalayan Railway (DHR), Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-14-130650.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-14-130650.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-14-130825_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-14-130825_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Darjeeling Himalayan Railway (DHR), Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-14-130825.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-14-130825.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-19-091019_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-19-091019_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Riding the DHR, Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-19-091019.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-19-091019.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-21-123345_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-21-123345_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Darjeeling Himalayan Railway (DHR), Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-21-123345.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-21-123345.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-19-060801_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-19-060801_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-19-060801.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-19-060801.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<!-- <section>
-			<section>
-				<img src="/images/2012india/09/2012-09-19-091019_Nik.jpg" alt="" />
-				<div class="caption">Riding the DHR, Darjeeling, West Bengal</div>
-			</section>
-			<section>
-				<img src="/images/2012india/09/2012-09-19-091019.jpg" alt="" />
-			</section>
-		</section> -->
+				<section>
+					<img src="/images/2012india/09/2012-09-19-091019_Nik.jpg" alt="" class="r-stretch" />
+					<div class="caption">Riding the DHR, Darjeeling, West Bengal</div>
+				</section>
+				<section>
+					<img src="/images/2012india/09/2012-09-19-091019.jpg" alt="" class="r-stretch" />
+				</section>
+			</section> -->
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-21-114512_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-21-114512_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">
 					Ghum Railway Station, in the monsoon clouds, nr Darjeeling, West Bengal
 				</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-21-114512.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-21-114512.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<!-- <section>
-			<section>
-				<img src="/images/2012india/09/2012-09-22-105155_Nik.jpg" alt="" />
-			</section>
-			<section>
-				<img src="/images/2012india/09/2012-09-22-105155.jpg" alt="" />
-			</section>
-		</section> -->
+				<section>
+					<img src="/images/2012india/09/2012-09-22-105155_Nik.jpg" alt="" class="r-stretch" />
+				</section>
+				<section>
+					<img src="/images/2012india/09/2012-09-22-105155.jpg" alt="" class="r-stretch" />
+				</section>
+			</section> -->
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-22-112647_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-22-112647_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">
 					Aloobari (meaning 'potato field') Monastery. Near Darjeeling, West Bengal
 				</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-22-112647.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-22-112647.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<!-- <section>
-			<section>
-				<img src="/images/2012india/09/2012-09-22-121330_Nik.jpg" alt="" />
-			</section>
-			<section>
-				<img src="/images/2012india/09/2012-09-22-121330.jpg" alt="" />
-			</section>
-		</section> -->
+				<section>
+					<img src="/images/2012india/09/2012-09-22-121330_Nik.jpg" alt="" class="r-stretch" />
+				</section>
+				<section>
+					<img src="/images/2012india/09/2012-09-22-121330.jpg" alt="" class="r-stretch" />
+				</section>
+			</section> -->
 
 		<!-- <section>
-			<section>
-				<img src="/images/2012india/09/2012-09-22-125843_Nik.jpg" alt="" />
-			</section>
-			<section>
-				<img src="/images/2012india/09/2012-09-22-125843.jpg" alt="" />
-			</section>
-		</section> -->
+				<section>
+					<img src="/images/2012india/09/2012-09-22-125843_Nik.jpg" alt="" class="r-stretch" />
+				</section>
+				<section>
+					<img src="/images/2012india/09/2012-09-22-125843.jpg" alt="" class="r-stretch" />
+				</section>
+			</section> -->
 
 		<!-- <section>
-			<section>
-				<img src="/images/2012india/09/2012-09-22-130608_Nik.jpg" alt="" />
-			</section>
-			<section>
-				<img src="/images/2012india/09/2012-09-22-130608.jpg" alt="" />
-			</section>
-		</section> -->
+				<section>
+					<img src="/images/2012india/09/2012-09-22-130608_Nik.jpg" alt="" class="r-stretch" />
+				</section>
+				<section>
+					<img src="/images/2012india/09/2012-09-22-130608.jpg" alt="" class="r-stretch" />
+				</section>
+			</section> -->
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-22-132700_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-22-132700_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">
 					Martin Charitable Dispensary, opened in 1932 but now derelict. Darjeeling, West Bengal
 				</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-22-132700.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-22-132700.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<!-- <section>
-			<section>
-				<img src="/images/2012india/09/2012-09-23-091755_Nik.jpg" alt="" />
-			</section>
-			<section>
-				<img src="/images/2012india/09/2012-09-23-091755.jpg" alt="" />
-			</section>
-		</section> -->
+				<section>
+					<img src="/images/2012india/09/2012-09-23-091755_Nik.jpg" alt="" class="r-stretch" />
+				</section>
+				<section>
+					<img src="/images/2012india/09/2012-09-23-091755.jpg" alt="" class="r-stretch" />
+				</section>
+			</section> -->
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-28-131811_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-28-131811_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Prayer Flags, Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-28-131811.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-28-131811.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-28-133018_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-28-133018_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-28-133018.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-28-133018.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-28-133656_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-28-133656_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-28-133656.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-28-133656.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/09/2012-09-28-134131_Nik.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-28-134131_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Darjeeling, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/09/2012-09-28-134131.jpg" alt="" />
+				<img src="/images/2012india/09/2012-09-28-134131.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/10/2012-10-04-121930_Nik.jpg" alt="" />
+				<img src="/images/2012india/10/2012-10-04-121930_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Darjeeling, West Bengal.</div>
 			</section>
 			<section>
-				<img src="/images/2012india/10/2012-10-04-121930.jpg" alt="" />
+				<img src="/images/2012india/10/2012-10-04-121930.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/10/2012-10-06-121557_Nik.jpg" alt="" />
+				<img src="/images/2012india/10/2012-10-06-121557_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Darjeeling Monastery. Darjeeling, West Bengal.</div>
 			</section>
 			<section>
-				<img src="/images/2012india/10/2012-10-06-121557.jpg" alt="" />
+				<img src="/images/2012india/10/2012-10-06-121557.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<!-- <section>
-			<img src="/images/2012india/10/2012-10-06-121940_Nik.jpg" alt="" />
-		</section> -->
+				<img src="/images/2012india/10/2012-10-06-121940_Nik.jpg" alt="" class="r-stretch" />
+			</section> -->
 
 		<section>
 			<section>
-				<img src="/images/2012india/10/2012-10-09-115350_Nik.jpg" alt="" />
+				<img src="/images/2012india/10/2012-10-09-115350_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">A wandering holy man. Siliguri, West Bengal.</div>
 			</section>
 			<section>
-				<img src="/images/2012india/10/2012-10-09-115350.jpg" alt="" />
+				<img src="/images/2012india/10/2012-10-09-115350.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
 			<section>
-				<img src="/images/2012india/10/2012-10-14-162901_Nik.jpg" alt="" />
+				<img src="/images/2012india/10/2012-10-14-162901_Nik.jpg" alt="" class="r-stretch" />
 				<div class="caption">Cheerfully at work, butchering a goat, West Bengal</div>
 			</section>
 			<section>
-				<img src="/images/2012india/10/2012-10-14-162901.jpg" alt="" />
+				<img src="/images/2012india/10/2012-10-14-162901.jpg" alt="" class="r-stretch" />
 			</section>
 		</section>
 
 		<section>
-			<img src="/images/2012india/10/2012-10-14-162952_Nik.jpg" alt="" />
+			<img src="/images/2012india/10/2012-10-14-162952_Nik.jpg" alt="" class="r-stretch" />
 		</section>
 
 		<section>
-			<img src="/images/2012india/10/2012-10-18-104950_Nik.jpg" alt="" />
+			<img src="/images/2012india/10/2012-10-18-104950_Nik.jpg" alt="" class="r-stretch" />
 		</section>
 
 		<section>
-			<img src="/images/2012india/11/2012-11-04-130636_Nik.jpg" alt="" />
+			<img src="/images/2012india/11/2012-11-04-130636_Nik.jpg" alt="" class="r-stretch" />
 		</section>
 	</div>
 </div>
+<!-- </div> -->
 
 <!-- <style>
-	section {
-		border: 2px solid green;
-		margin-top: 1rem;
+	.reveal img {
+		max-height: 50%;
 	}
 </style> -->
