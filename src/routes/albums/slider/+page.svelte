@@ -1,12 +1,15 @@
 <script>
 	import Slider from '$lib/components/Slider.svelte';
 	import '$lib/app.scss';
-	import img1 from '$lib/images/2012india/2012-09-11-115811_Nik.jpg';
+	// import img1 from '$lib/images/2012india/2012-09-11-115811_Nik.jpg?enhanced';
 </script>
 
 <div class="sliderWrapper">
-	<enhanced:img src={img1} alt={src} />
-	<img src="/images/large/2012india/2012-09-11-121801_Nik.jpg" alt="cab rank" />
+	<!-- <enhanced:img src={img1} alt="" /> -->
+	<!-- {src} -->
+	<enhanced:img src="$lib/images/2012india/2012-09-11-115811_Nik.jpg" alt="cab rank" />
+	<enhanced:img src="$lib/images/2012india/2012-09-11-115811.jpg" alt="cab rank" />
+	<enhanced:img src="$lib/images/2012india/2012-09-11-121801_Nik.jpg" alt="cab rank" />
 	<img src="/images/large/2012india/2012-09-14-130650_Nik.jpg" alt="dhr" />
 	<img src="/images/large/2012india/2012-09-14-130825_Nik.jpg" alt="dhr" />
 	<img src="/images/large/2012india/2012-09-19-060801_Nik.jpg" alt="dhr" />
