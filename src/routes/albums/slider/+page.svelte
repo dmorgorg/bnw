@@ -2,18 +2,32 @@
 	import Slider from '$lib/components/Slider.svelte';
 	import '$lib/app.scss';
 	// import img1 from '$lib/images/2012india/2012-09-11-115811_Nik.jpg?enhanced';
+
+	const imageModules = import.meta.glob(
+		'$lib/images/2012india/*/*.{avif,AVIF,gif,GIF,heif,HEIF,jpeg,JPEG,jpg,JPG,png,PNG,tiff,TIFF,webp,WEBP}',
+		{
+			eager: true,
+			query: {
+				enhanced: true
+			}
+		}
+	);
 </script>
 
 <div class="sliderWrapper">
-	<!-- <enhanced:img src={img1} alt="" /> -->
-	<!-- {src} -->
+	{#each Object.entries(imageModules) as [_path, module]}
+		<enhanced:img src={module.default} alt="some alt text" />
+	{/each}
+</div>
+
+<!-- <div class="sliderWrapper">
 	<enhanced:img src="$lib/images/2012india/09/2012-09-11-115811_Nik.jpg" alt="shoe repair" />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-11-115811.jpg" alt="shoe repair" />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-11-121801_Nik.jpg" alt="cab rank" />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-14-130650_Nik.jpg" alt="dhr" />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-14-130825_Nik.jpg" alt="dhr" />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-19-060801_Nik.jpg" alt="dhr" />
-</div>
+</div> -->
 
 <style lang="scss">
 	.sliderWrapper {
