@@ -1,33 +1,66 @@
 <script>
 	import Slider from '$lib/components/Slider.svelte';
 	import '$lib/app.scss';
-	// import img1 from '$lib/images/2012india/2012-09-11-115811_Nik.jpg?enhanced';
+	import bw01 from '../../../lib/images/2012india/09/2012-09-11-115811_Nik.jpg?enhanced';
+	import c01 from '../../../lib/images/2012india/09/2012-09-11-115811.jpg?enhanced';
+	import bw02 from '../../../lib/images/2012india/09/2012-09-11-121801_Nik.jpg?enhanced';
+	import c02 from '../../../lib/images/2012india/09/2012-09-11-121801.jpg?enhanced';
+	import bw03 from '../../../lib/images/2012india/09/2012-09-14-130650_Nik.jpg?enhanced';
+	import c03 from '../../../lib/images/2012india/09/2012-09-14-130650.jpg?enhanced';
+	import bw04 from '../../../lib/images/2012india/09/2012-09-14-130825_Nik.jpg?enhanced';
+	import c04 from '../../../lib/images/2012india/09/2012-09-14-130825.jpg?enhanced';
+	import bw05 from '../../../lib/images/2012india/09/2012-09-19-060801_Nik.jpg?enhanced';
+	import c05 from '../../../lib/images/2012india/09/2012-09-19-060801.jpg?enhanced';
 
-	const imageModules = import.meta.glob(
-		'$lib/images/2012india/*/*.{avif,AVIF,gif,GIF,heif,HEIF,jpeg,JPEG,jpg,JPG,png,PNG,tiff,TIFF,webp,WEBP}',
-		{
-			eager: true,
-			query: {
-				enhanced: true
-			}
-		}
-	);
+	let imagesArray = $state([
+		[
+			{ image: bw01, caption: 'Shoeshine man, Kolkata, West Bengal. September 2012' },
+			{ image: c01, caption: '' }
+		],
+		[
+			{ image: bw02, caption: 'Taxicab rank, Kolkata, West Bengal. September 2012' },
+			{ image: c02, caption: '' }
+		],
+		[
+			{
+				image: bw03,
+				caption: 'Darjeeling Himalayan Railway Station, Darjeeling, West Bengal. September 2012'
+			},
+			{ image: c03, caption: '' }
+		],
+		[
+			{
+				image: bw04,
+				caption: 'Darjeeling Himalayan Railway Station, Darjeeling, West Bengal. September 2012'
+			},
+			{ image: c04, caption: '' }
+		],
+		[
+			{
+				image: bw05,
+				caption: 'Darjeeling, West Bengal. September 2012'
+			},
+			{ image: c05, caption: '' }
+		]
+	]);
 </script>
 
 <div class="sliderWrapper">
-	{#each Object.entries(imageModules) as [_path, module]}
-		<enhanced:img src={module.default} alt="some alt text" />
+	{#each imagesArray as img, i}
+		<enhanced:img src={imagesArray[i][0].image} alt={bw01} />
+		{imagesArray[i][0].caption}
+		<enhanced:img src={imagesArray[i][1].image} alt={bw01} />
+		{imagesArray[i][1].caption}
 	{/each}
-</div>
 
-<!-- <div class="sliderWrapper">
+	<!-- <enhanced:img src={bw01} alt={c01} />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-11-115811_Nik.jpg" alt="shoe repair" />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-11-115811.jpg" alt="shoe repair" />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-11-121801_Nik.jpg" alt="cab rank" />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-14-130650_Nik.jpg" alt="dhr" />
 	<enhanced:img src="$lib/images/2012india/09/2012-09-14-130825_Nik.jpg" alt="dhr" />
-	<enhanced:img src="$lib/images/2012india/09/2012-09-19-060801_Nik.jpg" alt="dhr" />
-</div> -->
+	<enhanced:img src="$lib/images/2012india/09/2012-09-19-060801_Nik.jpg" alt="dhr" /> -->
+</div>
 
 <style lang="scss">
 	.sliderWrapper {
