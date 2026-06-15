@@ -7,10 +7,10 @@
 <div class="sliderWrapper">
 	<!-- <enhanced:img src={img1} alt="" /> -->
 	<!-- {src} -->
-	<enhanced:img src="$lib/images/2012india/2012-09-11-115811_Nik.jpg" alt="cab rank" />
-	<enhanced:img src="$lib/images/2012india/2012-09-11-115811.jpg" alt="cab rank" />
+	<enhanced:img src="$lib/images/2012india/2012-09-11-115811_Nik.jpg" alt="shoe repair" />
+	<enhanced:img src="$lib/images/2012india/2012-09-11-115811.jpg" alt="shoe repair" />
 	<enhanced:img src="$lib/images/2012india/2012-09-11-121801_Nik.jpg" alt="cab rank" />
-	<img src="/images/large/2012india/2012-09-14-130650_Nik.jpg" alt="dhr" />
+	<enhanced:img src="$lib/images/2012india/2012-09-14-130650_Nik.jpg" alt="dhr" />
 	<img src="/images/large/2012india/2012-09-14-130825_Nik.jpg" alt="dhr" />
 	<img src="/images/large/2012india/2012-09-19-060801_Nik.jpg" alt="dhr" />
 </div>
