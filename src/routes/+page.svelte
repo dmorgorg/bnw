@@ -8,7 +8,7 @@
 	<div class="container">
 		<!-- <div class="home"> -->
 		<HomeIcon />
-		<div><enhanced:img src={homePhoto} alt="" /></div>
+		<!-- <div><enhanced:img src={homePhoto} alt="" /></div> -->
 	</div>
 	<!-- </div> -->
 </div>
