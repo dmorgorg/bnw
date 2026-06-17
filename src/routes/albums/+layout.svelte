@@ -9,4 +9,13 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
-{@render children()}
+<div class="outer">
+	{@render children()}
+</div>
+
+<style lang="scss">
+	.outer {
+		background: pink;
+		border: 1px solid green;
+	}
+</style>
