@@ -1,7 +1,7 @@
 <script>
 	import favicon from '$lib/assets/camera.png';
 	import HomeIcon from '$lib/components/HomeIcon.svelte';
-	import homePhoto from '../lib/images/2012india/10/2012-10-14-162901_Nik.jpg';
+	import homePhoto from '../lib/images/2012india/10/2012-10-14-162901_Nik.jpg?enhanced';
 </script>
 
 <div class="outer">
