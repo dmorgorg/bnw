@@ -1,7 +1,7 @@
 <script>
 	import favicon from '$lib/assets/camera.png';
 	import HomeIcon from '$lib/components/HomeIcon.svelte';
-	import homePhoto from '$lib/images/2012india/10/2012-10-14-162901_Nik.jpg';
+	import homePhoto from '../lib/images/2012india/10/2012-10-14-162901_Nik.jpg';
 </script>
 
 <div class="outer">
@@ -53,4 +53,10 @@
 		max-height: 80vh;
 		width: 100%;
 	}
+	/* img {
+		box-shadow: 2px 2px 15px 5px #aaa;
+		height: auto;
+		max-height: 80vh;
+		width: 100%;
+	} */
 </style>
