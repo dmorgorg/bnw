@@ -1,8 +1,24 @@
 html,
 body {
-	// background: yellow;
-	padding: 0;
+	box-sizing: border-box;
 	margin: 0;
+	padding: 0;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+.albumTitle {
+	position: absolute;
+	font-family: cordelius;
+	font-size: 137.5%;
+	font-weight: bold;
+	top: clamp(10px, 0.875vw, 25px);
+	left: 50%;
+	transform: translate(-50%, 0);
 }
 
 .controls button {

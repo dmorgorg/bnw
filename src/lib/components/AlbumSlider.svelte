@@ -6,4 +6,6 @@
 	let numberOfSlides = imagesArray.length;
 </script>
 
-album
+album<br />
+{imagesArray.length}<br />
+{numberOfSlides}

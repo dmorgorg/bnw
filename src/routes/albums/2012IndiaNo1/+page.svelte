@@ -1,5 +1,5 @@
 <script>
-	import Album from '$lib/components/Album.svelte';
+	import AlbumSlider from '$lib/components/AlbumSlider.svelte';
 	import '$lib/app.scss';
 	import bw01 from '../../../lib/images/2012india/09/2012-09-11-115811_Nik.jpg?enhanced';
 	import c01 from '../../../lib/images/2012india/09/2012-09-11-115811.jpg?enhanced';
@@ -45,11 +45,15 @@
 	]);
 </script>
 
-<div class="header">space for header</div>
-<div class="sliderWrapper">slider goes here</div>
-<div class="caption">caption</div>
+<div class="albumTitle">This Album: India, from a cycle tour in 2012, part 1</div>
 
-<div class="footer">space for progress bar, navigation</div>
+<!-- <div class="header">space for header</div> -->
+<div class="sliderWrapper">
+	<AlbumSlider {imagesArray} />
+	<div class="caption">caption</div>
+</div>
+
+<!-- <div class="footer">space for progress bar, navigation</div> -->
 
 <!-- <div class="sliderWrapper">
 	{#each imagesArray as img, i}
@@ -70,25 +74,38 @@
 
 <style lang="scss">
 	.sliderWrapper {
-		padding: 0;
-		margin: 0;
-		margin-block: 15vh;
-		width: 90%;
-		height: 61vh;
-		// position: relative;
+		align-items: center;
+		display: flex;
+		flex-direction: column;
+		height: 80vh;
+		justify-content: center;
 		margin-inline: auto;
+		margin-top: 10vh;
+		width: 90%;
+
 		background: yellow;
 	}
-	img {
-		// margin: 0;
-		padding: 0;
-		margin: 1em;
-		width: 100%;
-		height: auto;
-		// margin-inline: auto;
-		// max-height: 50vh;
-	}
-	enhanced\:img {
-		border: 3px solid green;
+	// img {
+	// 	padding: 0;
+	// 	margin: 1em;
+	// 	width: 100%;
+	// 	height: auto;
+	// }
+
+	// .header {
+	// 	position: absolute;
+	// }
+	// .footer {
+	// 	bottom: 0;
+	// }
+
+	.albumTitle {
+		position: absolute;
+		font-family: cordelius;
+		font-size: 137.5%;
+		font-weight: bold;
+		top: clamp(10px, 0.875vw, 25px);
+		left: 50%;
+		transform: translate(-50%, 0);
 	}
 </style>
