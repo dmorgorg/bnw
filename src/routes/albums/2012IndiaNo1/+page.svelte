@@ -45,7 +45,7 @@
 	]);
 </script>
 
-<div class="albumTitle">This Album: India, from a cycle tour in 2012, part 1</div>
+<div class="albumTitle">This Album: India, from a cycle tour in 2012, part&nbsp;1</div>
 
 <!-- <div class="header">space for header</div> -->
 <div class="sliderWrapper">
@@ -104,8 +104,10 @@
 		font-family: cordelius;
 		font-size: 137.5%;
 		font-weight: bold;
-		top: clamp(10px, 0.875vw, 25px);
+		top: clamp(1%, 3vh, 4%);
 		left: 50%;
+		text-align: center;
 		transform: translate(-50%, 0);
+		width: 70%;
 	}
 </style>

@@ -17,12 +17,12 @@
 	</div>
 	{#if displayContent}
 		<ul class="list" transition:slide={{ duration: 500, axis: 'y' }}>
-			<li>
+			<div>
 				India, 2012:
 				<a href="/albums/2012IndiaNo1">#1</a>,
 				<a href="/albums/2012IndiaNo2">#2</a>,
 				<a href="/albums/2012IndiaNo3">#3</a>
-			</li>
+			</div>
 			<li><a href="/albums/2013Laos">Laos, 2013</a></li>
 			<li>India, 2012: #1, #2, #3</li>
 			<li>Laos, 2013</li>
@@ -42,8 +42,9 @@
 	.dropDown {
 		position: absolute;
 		font-size: clamp(10px, 1.25vw, 20px);
-		right: 2%;
-		top: clamp(10px, 0.875vw, 25px);
+		right: 1%;
+		top: clamp(5px, 0.875vw, 25px);
+		top: 1%;
 		text-align: right;
 		// border: 1px solid black;
 	}

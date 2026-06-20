@@ -18,7 +18,9 @@ body {
 	font-weight: bold;
 	top: clamp(10px, 0.875vw, 25px);
 	left: 50%;
+	text-align: center;
 	transform: translate(-50%, 0);
+	width: 70%;
 }
 
 .controls button {
