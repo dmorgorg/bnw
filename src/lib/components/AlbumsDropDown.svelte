@@ -18,18 +18,19 @@
 	{#if displayContent}
 		<ul class="list" transition:slide={{ duration: 500, axis: 'y' }}>
 			<div>
-				India, 2012:
+				2012, India:
 				<a href="/albums/2012IndiaNo1">#1</a>,
 				<a href="/albums/2012IndiaNo2">#2</a>,
 				<a href="/albums/2012IndiaNo3">#3</a>
 			</div>
-			<li><a href="/albums/2013Laos">Laos, 2013</a></li>
-			<li>India, 2012: #1, #2, #3</li>
-			<li>Laos, 2013</li>
-			<li>India, 2012: #1, #2, #3</li>
-			<li>Laos, 2013</li>
-			<li>India, 2012: #1, #2, #3</li>
-			<li>Laos, 2013</li>
+			<li><a href="/albums/2013Laos">2013, Laos</a></li>
+			<li>2017, Alberta, Canada</li>
+			<li>2018, US</li>
+			<li>2018/19, Mexico</li>
+			<li>2023, Spain</li>
+			<li>2024, Sri Lanka</li>
+			<li>2024, Spain</li>
+			<li>2025/26, Spain</li>
 		</ul>
 	{/if}
 </section>
@@ -42,9 +43,10 @@
 	.dropDown {
 		position: absolute;
 		font-size: clamp(10px, 1.25vw, 20px);
-		right: 1%;
+		right: 2%;
 		top: clamp(5px, 0.875vw, 25px);
 		top: 1%;
+		z-index: 2;
 		text-align: right;
 		// border: 1px solid black;
 	}
@@ -55,16 +57,20 @@
 	.list {
 		background: white;
 		margin: 0;
-		padding-bottom: 0.25em;
+		padding-block: 0.5em;
 		padding-left: 1em;
 		list-style-type: none;
 		text-align: right;
 	}
 	li {
 		margin-block: 0.5em;
-		& > a {
+	}
+	a {
+		&:visited,
+		&:link,
+		&:active {
 			color: grey;
-			text-decoration: none;
+			// text-decoration: none;
 		}
 	}
 </style>

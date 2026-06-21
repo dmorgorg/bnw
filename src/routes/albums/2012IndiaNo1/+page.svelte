@@ -45,7 +45,7 @@
 	]);
 </script>
 
-<div class="albumTitle">This Album: India, from a cycle tour in 2012, part&nbsp;1</div>
+<div class="albumTitle">This Album: India, 2012 (part&nbsp;1)</div>
 
 <!-- <div class="header">space for header</div> -->
 <div class="sliderWrapper">
