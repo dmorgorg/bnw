@@ -15,7 +15,14 @@
 		</span>
 	</div>
 	{#if displayContent}
-		<ul class="list" transition:slide={{ duration: 500, axis: 'y' }}>
+		<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
+		<ul
+			class="list"
+			transition:slide={{ duration: 500, axis: 'y' }}
+			onclick={() => {
+				displayContent = false;
+			}}
+		>
 			<div>
 				2012, India:
 				<a href="/albums/2012IndiaNo1">#1</a>,

@@ -35,8 +35,8 @@
 		{#key page.url.pathname}
 			<div
 				class="content-panel"
-				in:fade={{ duration: 1000, delay: 1500 }}
-				out:fade={{ duration: 1000 }}
+				out:fade={{ duration: 500 }}
+				in:fade={{ duration: 1000, delay: 500 }}
 			>
 				{@render children()}
 			</div>

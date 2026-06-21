@@ -19,11 +19,9 @@
 		height: 100%;
 		margin: 0;
 		padding: 0;
-		/* border: 2px solid red; */
 	}
 
 	.container {
-		/* border: 1px solid green; */
 		display: flex;
 		gap: 3em;
 		height: 79vh;
