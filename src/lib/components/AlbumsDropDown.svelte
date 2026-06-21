@@ -1,16 +1,15 @@
 <script>
 	import { slide } from 'svelte/transition';
 	let displayContent = $state(false);
-	function toggleDisplay(e) {
-		e.stopPropagation();
+	function toggleDisplay() {
 		displayContent = !displayContent;
 	}
 </script>
 
 <!-- svelte-ignore a11y_no_static_element_interactions -->
 <!-- svelte-ignore a11y_click_events_have_key_events -->
-<section class="dropDown cordelius" onclick={(e) => toggleDisplay(e)}>
-	<div class="title">
+<section class="dropDown cordelius">
+	<div class="title" onclick={toggleDisplay}>
 		Albums <span>
 			{@html displayContent ? '&#9650;' : '&#9660;'}
 		</span>

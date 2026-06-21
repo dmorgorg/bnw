@@ -7,12 +7,10 @@
 
 <div class="outer">
 	<div class="container">
-		<!-- <div class="home"> -->
 		<HomeIcon />
 		<AlbumsDropDown />
 		<div><enhanced:img src={homePhoto} alt="" /></div>
 	</div>
-	<!-- </div> -->
 </div>
 
 <style>
