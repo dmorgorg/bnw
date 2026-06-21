@@ -52,7 +52,6 @@
 		overflow: hidden;
 		position: relative;
 		padding: 0;
-		// margin: 0;
 	}
 	.content-stage {
 		height: 100%;

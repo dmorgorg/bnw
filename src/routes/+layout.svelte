@@ -18,7 +18,7 @@
 
 <div class="root-stage">
 	{#key page.url.pathname.startsWith('/albums') ? '/albums' : page.url.pathname}
-		<div class="root-panel" in:fade={{ duration: 1000, delay: 1500 }} out:fade={{ duration: 1000 }}>
+		<div class="root-panel" out:fade={{ duration: 500 }} in:fade={{ duration: 1000, delay: 500 }}>
 			{@render children()}
 		</div>
 	{/key}
