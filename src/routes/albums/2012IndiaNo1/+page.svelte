@@ -1,5 +1,6 @@
 <script>
 	import AlbumSlider from '$lib/components/AlbumSlider.svelte';
+	import NavigationController from '$lib/components/NavigationController.svelte';
 	import '$lib/app.scss';
 	import bw01 from '../../../lib/images/2012india/09/2012-09-11-115811_Nik.jpg?enhanced';
 	import c01 from '../../../lib/images/2012india/09/2012-09-11-115811.jpg?enhanced';
@@ -12,11 +13,15 @@
 	import bw05 from '../../../lib/images/2012india/09/2012-09-19-060801_Nik.jpg?enhanced';
 	import c05 from '../../../lib/images/2012india/09/2012-09-19-060801.jpg?enhanced';
 
-	let imagesArray = $state([
+	let hIndex = $state(0);
+	let vIndex = $state(0);
+
+	const imagesArray = [
 		[
 			{ image: bw01, caption: 'Shoeshine man, Kolkata, West Bengal. September 2012' },
 			{ image: c01, caption: '' }
 		],
+		{ image: bw02, caption: 'no vertical' },
 		[
 			{ image: bw02, caption: 'Taxicab rank, Kolkata, West Bengal. September 2012' },
 			{ image: c02, caption: '' }
@@ -28,6 +33,7 @@
 			},
 			{ image: c03, caption: '' }
 		],
+		{ image: bw04, caption: 'no vertical' },
 		[
 			{
 				image: bw04,
@@ -42,15 +48,17 @@
 			},
 			{ image: c05, caption: '' }
 		]
-	]);
+	];
 </script>
 
 <div class="albumTitle">This Album: India, 2012 (part&nbsp;1)</div>
 
 <!-- <div class="header">space for header</div> -->
 <div class="sliderWrapper">
-	<AlbumSlider {imagesArray} />
-	<div class="caption">caption</div>
+	({hIndex}, {vIndex})
+	<NavigationController {hIndex} {vIndex} {imagesArray} />
+	<!-- <AlbumSlider {imagesArray} /> -->
+	<!-- <div class="caption">caption</div> -->
 </div>
 
 <!-- <div class="footer">space for progress bar, navigation</div> -->
@@ -77,27 +85,13 @@
 		align-items: center;
 		display: flex;
 		flex-direction: column;
-		height: 80vh;
+		height: 75vh;
 		justify-content: center;
 		margin-inline: auto;
-		margin-top: 10vh;
+		margin-top: 7.5vh;
 		width: 90%;
-
 		background: yellow;
 	}
-	// img {
-	// 	padding: 0;
-	// 	margin: 1em;
-	// 	width: 100%;
-	// 	height: auto;
-	// }
-
-	// .header {
-	// 	position: absolute;
-	// }
-	// .footer {
-	// 	bottom: 0;
-	// }
 
 	.albumTitle {
 		position: absolute;
