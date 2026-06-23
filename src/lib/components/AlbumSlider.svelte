@@ -13,7 +13,7 @@
 	<div class="caption">
 		<div>
 			<span class="bold">Image {hIndex + 1}/{imagesArray.length}. </span>&nbsp; &nbsp;
-			{imagesArray[Number(hIndex)][Number(vIndex)].caption}
+			{imagesArray[Number(hIndex)][0].caption}
 		</div>
 	</div>
 </div>
@@ -24,12 +24,12 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		width: 80%;
+		width: 70%;
 		height: 75vh;
 		max-height: 75vh;
 		margin-inline: auto;
 		margin-top: 12.5vh;
-		gap: 1em;
+		// gap: 1em;
 		// border: 1px solid red;
 	}
 	.bold {
@@ -50,7 +50,7 @@
 	// }
 	enhanced\:img {
 		height: auto;
-		max-height: calc(75vh - 3em);
+		max-height: calc(75vh - 1px);
 		max-width: 100%;
 		object-fit: contain;
 		width: 100%;
@@ -62,9 +62,10 @@
 		display: flex;
 		flex-direction: column;
 		font-family: 'captionText';
-		font-size: 85%;
+		// font-size: 85%;
 		height: 2em;
 		justify-content: center;
+		padding-top: 1em;
 		text-align: center;
 	}
 </style>
