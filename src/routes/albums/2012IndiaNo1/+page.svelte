@@ -22,21 +22,21 @@
 				image: bw01,
 				caption: 'Shoeshine man, Kolkata, West Bengal. September 2012'
 			},
-			{ image: c01, caption: '' }
+			{ image: c01, caption: ' ' }
 		],
 		[
 			{
 				image: bw02,
 				caption: 'Taxicab rank, Kolkata, West Bengal. September 2012'
 			},
-			{ image: c02, caption: '' }
+			{ image: c02, caption: ' ' }
 		],
 		[
 			{
 				image: bw03,
 				caption: 'Darjeeling Himalayan Railway Station, Darjeeling, West Bengal. September 2012'
 			},
-			{ image: c03, caption: '' }
+			{ image: c03, caption: ' ' }
 		],
 
 		[
@@ -44,14 +44,14 @@
 				image: bw04,
 				caption: 'Darjeeling Himalayan Railway Station, Darjeeling, West Bengal. September 2012'
 			},
-			{ image: c04, caption: '' }
+			{ image: c04, caption: ' ' }
 		],
 		[
 			{
 				image: bw05,
 				caption: 'Darjeeling, West Bengal. September 2012'
 			},
-			{ image: c05, caption: '' }
+			{ image: c05, caption: ' ' }
 		]
 	];
 </script>

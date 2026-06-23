@@ -15,14 +15,15 @@
 </div> -->
 <div class="wrapper">
 	<enhanced:img src={imagesArray[Number(hIndex)][Number(vIndex)].image} alt="shoe repair" />
-	{imagesArray[Number(hIndex)][Number(vIndex)].caption}
+	<div class="caption">{imagesArray[Number(hIndex)][Number(vIndex)].caption}</div>
 </div>
 
 <style lang="scss">
 	enhanced\:img {
 		width: 100%;
 		height: auto;
-		max-height: 75vh;
+		// max-height: 75vh;
+		box-shadow: 0 0 0.5em 0.15em grey;
 	}
 	.wrapper {
 		align-items: center;
@@ -37,5 +38,8 @@
 		margin-top: 12.5vh;
 
 		border: 3px solid yellow;
+	}
+	.caption {
+		height: 1em;
 	}
 </style>
