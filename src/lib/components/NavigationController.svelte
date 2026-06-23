@@ -1,8 +1,8 @@
 <script>
+	import { fade } from 'svelte/transition';
 	let { hIndex = $bindable(), vIndex = $bindable(), imagesArray } = $props();
 	// svelte-ignore state_referenced_locally
 	const hLength = imagesArray.length;
-	// let vLength = imagesArray[hIndex]?.length;
 
 	let isLeftVisible = $derived(hIndex > 0);
 	let isRightVisible = $derived(hIndex < hLength - 1);
@@ -29,21 +29,22 @@
 
 <div class="controls">
 	{#if isLeftVisible}
-		<span class="goLeft"><button onclick={goLeft}>&#9664;</button></span>
+		<span class="goLeft" transition:fade><button onclick={goLeft}>&#9664;</button></span>
 	{/if}
 	{#if isRightVisible}
-		<span class="goRight"><button onclick={goRight}>&#9654;</button></span>
+		<span class="goRight" transition:fade><button onclick={goRight}>&#9654;</button></span>
 	{/if}
 	{#if isUpVisible}
-		<span class="goUp"><button onclick={goUp}>&#9650;</button></span>
+		<span class="goUp" transition:fade><button onclick={goUp}>&#9650;</button></span>
 	{/if}
 	{#if isDownVisible}
-		<span class="goDown"><button onclick={goDown}>&#9660;</button></span>
+		<span class="goDown" transition:fade><button onclick={goDown}>&#9660;</button></span>
 	{/if}
 </div>
-<div class="test">
+
+<!-- <div class="test">
 	({hIndex}, {vIndex})
-</div>
+</div> -->
 
 <style>
 	.test {

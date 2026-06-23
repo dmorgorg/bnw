@@ -18,12 +18,17 @@
 
 	const imagesArray = [
 		[
-			{ image: bw01, caption: 'Shoeshine man, Kolkata, West Bengal. September 2012' },
-			{ image: c01, caption: '' }
+			{
+				image: bw01,
+				caption: 'Shoeshine man, Kolkata, West Bengal. September 2012'
+			},
+			{ image: '../../../lib/images/2012india/09/2012-09-11-115811.jpg?enhanced', caption: '' }
 		],
-		{ image: bw02, caption: 'no vertical' },
 		[
-			{ image: bw02, caption: 'Taxicab rank, Kolkata, West Bengal. September 2012' },
+			{
+				image: bw02,
+				caption: 'Taxicab rank, Kolkata, West Bengal. September 2012'
+			},
 			{ image: c02, caption: '' }
 		],
 		[
@@ -33,7 +38,7 @@
 			},
 			{ image: c03, caption: '' }
 		],
-		{ image: bw04, caption: 'no vertical' },
+
 		[
 			{
 				image: bw04,
@@ -53,15 +58,12 @@
 
 <div class="albumTitle">This Album: India, 2012 (part&nbsp;1)</div>
 
-<!-- <div class="header">space for header</div> -->
 <div class="sliderWrapper">
+	<NavigationController bind:hIndex bind:vIndex {imagesArray} />
+	<AlbumSlider bind:hIndex bind:vIndex {imagesArray} />
 	({hIndex}, {vIndex})
-	<NavigationController {hIndex} {vIndex} {imagesArray} />
-	<!-- <AlbumSlider {imagesArray} /> -->
 	<!-- <div class="caption">caption</div> -->
 </div>
-
-<!-- <div class="footer">space for progress bar, navigation</div> -->
 
 <!-- <div class="sliderWrapper">
 	{#each imagesArray as img, i}
@@ -82,15 +84,6 @@
 
 <style lang="scss">
 	.sliderWrapper {
-		align-items: center;
-		display: flex;
-		flex-direction: column;
-		height: 75vh;
-		justify-content: center;
-		margin-inline: auto;
-		margin-top: 7.5vh;
-		width: 90%;
-		background: yellow;
 	}
 
 	.albumTitle {
