@@ -64,9 +64,10 @@
 </div>
 
 <style lang="scss">
-	.sliderWrapper {
-		max-height: 75vh;
-	}
+	// .sliderWrapper {
+	// 	margin-top: 12.5%;
+	// 	max-height: 75vh;
+	// }
 
 	.albumTitle {
 		position: absolute;

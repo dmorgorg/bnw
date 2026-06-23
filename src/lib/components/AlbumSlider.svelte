@@ -6,65 +6,65 @@
 	console.log(imagesArray.length);
 </script>
 
-<!-- <div class="slider">
-	{#each imagesArray as img, i}
-		{#if hIndex === i}
-			<enhanced:img src={imagesArray[i][0].image} alt={bw01} />
-		{/if}
-	{/each}
-</div> -->
 <div class="wrapper">
 	<div class="imageFrame">
 		<enhanced:img src={imagesArray[Number(hIndex)][Number(vIndex)].image} alt="shoe repair" />
 	</div>
-	<div class="caption">{imagesArray[Number(hIndex)][Number(vIndex)].caption}</div>
+	<div class="caption">
+		<div>
+			<span class="bold">Image {hIndex + 1}/{imagesArray.length}. </span>&nbsp; &nbsp;
+			{imagesArray[Number(hIndex)][Number(vIndex)].caption}
+		</div>
+	</div>
 </div>
 
 <style lang="scss">
 	.wrapper {
-		// align-items: center;
-		--caption-space: 2.5rem;
-		// display: flex;
-		// flex-direction: column;
-		// gap: 0.35rem;
+		align-items: center;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
 		width: 80%;
 		height: 75vh;
 		max-height: 75vh;
-		// justify-content: center;
 		margin-inline: auto;
 		margin-top: 12.5vh;
+		gap: 1em;
+		// border: 1px solid red;
 	}
-	.imageFrame {
-		align-items: center;
-		display: flex;
-		flex: 0 1 auto;
-		justify-content: center;
-		max-height: calc(100% - var(--caption-space));
-		width: 100%;
+	.bold {
+		font-weight: bold;
 	}
-	.imageFrame :global(picture) {
-		display: block;
-		max-height: 100%;
-		max-width: 100%;
-	}
-	.imageFrame :global(img) {
+	// .imageFrame {
+	// 	align-items: center;
+	// 	display: flex;
+	// 	flex: 0 1 auto;
+	// 	justify-content: center;
+	// 	max-height: 100%;
+	// 	width: 100%;
+	// }
+	// .imageFrame :global(picture) {
+	// 	display: block;
+	// 	max-height: 100%;
+	// 	max-width: 100%;
+	// }
+	enhanced\:img {
 		height: auto;
-		max-height: calc(75vh - var(--caption-space));
+		max-height: calc(75vh - 3em);
 		max-width: 100%;
 		object-fit: contain;
-		width: auto;
+		width: 100%;
 		box-shadow: 0 0 0.5em 0.15em grey;
 		display: block;
 	}
 	.caption {
-		flex: 0 0 auto;
+		align-items: end;
+		display: flex;
+		flex-direction: column;
 		font-family: 'captionText';
 		font-size: 85%;
-		line-height: 1.2;
-		// max-width: 100%;
-		text-align: center;
-		// border: 1px solid green;
 		height: 2em;
-		padding-top: 0.5em;
+		justify-content: center;
+		text-align: center;
 	}
 </style>

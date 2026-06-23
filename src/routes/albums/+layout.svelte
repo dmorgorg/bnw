@@ -27,7 +27,7 @@
 
 <div class="outer">
 	<div class="home-icon-wrapper">
-		<HomeIcon fontSize="clamp(8px, 1.2vw, 16px)" />
+		<HomeIcon fontSize="clamp(10px, 1.2vw, 20px)" />
 	</div>
 	<AlbumsDropDown />
 
