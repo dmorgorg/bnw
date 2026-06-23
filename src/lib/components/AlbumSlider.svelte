@@ -14,15 +14,15 @@
 	{/each}
 </div> -->
 <div class="wrapper">
-	{hIndex}
-	<enhanced:img src={imagesArray[Number(hIndex)][0].image} alt="shoe repair" />
-	{imagesArray[Number(hIndex)][0].caption}
+	<enhanced:img src={imagesArray[Number(hIndex)][Number(vIndex)].image} alt="shoe repair" />
+	{imagesArray[Number(hIndex)][Number(vIndex)].caption}
 </div>
 
 <style lang="scss">
 	enhanced\:img {
 		width: 100%;
 		height: auto;
+		max-height: 75vh;
 	}
 	.wrapper {
 		align-items: center;
@@ -31,7 +31,7 @@
 		width: 80%;
 		height: 75vh;
 		max-height: 75vh;
-		object-fit: contain;
+		// object-fit: contain;
 		justify-content: center;
 		margin-inline: auto;
 		margin-top: 12.5vh;

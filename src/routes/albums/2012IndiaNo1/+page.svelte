@@ -22,7 +22,7 @@
 				image: bw01,
 				caption: 'Shoeshine man, Kolkata, West Bengal. September 2012'
 			},
-			{ image: '../../../lib/images/2012india/09/2012-09-11-115811.jpg?enhanced', caption: '' }
+			{ image: c01, caption: '' }
 		],
 		[
 			{
