@@ -10,13 +10,57 @@
 	import c03 from '../../../lib/images/2012UK/2012-08-13-175000.jpg?enhanced';
 	import bw04 from '../../../lib/images/2012UK/2012-08-16-175853_Nik.jpg?enhanced';
 	import c04 from '../../../lib/images/2012UK/2012-08-16-175853.jpg?enhanced';
-	// import bw05 from '../../../lib/images/2012UK/2012-08-18-060801_Nik.jpg?enhanced';
-	// import c05 from '../../../lib/images/2012UK/2012-08-18-060801.jpg?enhanced';
+	import bw05 from '../../../lib/images/2012UK/2012-07-18-074512_Nik.jpg?enhanced';
+	import c05 from '../../../lib/images/2012UK/2012-07-18-074512.jpg?enhanced';
+	import bw06 from '../../../lib/images/2012UK/2012-07-18-104415_Nik.jpg?enhanced';
+	import c06 from '../../../lib/images/2012UK/2012-07-18-104415.jpg?enhanced';
+	import bw07 from '../../../lib/images/2012UK/2012-07-18-130125_Nik.jpg?enhanced';
+	import c07 from '../../../lib/images/2012UK/2012-07-18-130125.jpg?enhanced';
+	import bw08 from '../../../lib/images/2012UK/2012-07-19-061746_Nik.jpg?enhanced';
+	import c08 from '../../../lib/images/2012UK/2012-07-19-061746.jpg?enhanced';
+	import bw09 from '../../../lib/images/2012UK/2012-07-21-053309_Nik.jpg?enhanced';
+	import c09 from '../../../lib/images/2012UK/2012-07-21-053309.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
 
 	const imagesArray = [
+		[
+			{
+				image: bw05,
+				caption: 'Bosigran, Cornwall. August, 2012'
+			},
+			{ image: c05, caption: ' ' }
+		],
+		[
+			{
+				image: bw06,
+				caption: 'Bosigran, Cornwall. August, 2012'
+			},
+			{ image: c06, caption: ' ' }
+		],
+		[
+			{
+				image: bw07,
+				caption: 'They were still kids then. Cornwall. August, 2012'
+			},
+			{ image: c07, caption: ' ' }
+		],
+		[
+			{
+				image: bw08,
+				caption:
+					"Memorial for a 14 year old cabin boy who was lost when the Iota, from Naples, sank just before Christmas in 1893. Saint Materiana's Church, Boscastle, Cornwall. August, 2012"
+			},
+			{ image: c08, caption: ' ' }
+		],
+		[
+			{
+				image: bw09,
+				caption: 'Exmoor, Devon. August, 2012'
+			},
+			{ image: c09, caption: ' ' }
+		],
 		[
 			{
 				image: bw01,
