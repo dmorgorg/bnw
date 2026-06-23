@@ -23,12 +23,13 @@
 				displayContent = false;
 			}}
 		>
-			<div>
+			<li><a href="/albums/2012UK">2012, UK</a></li>
+			<li>
 				2012, India:
 				<a href="/albums/2012IndiaNo1">#1</a>,
 				<a href="/albums/2012IndiaNo2">#2</a>,
 				<a href="/albums/2012IndiaNo3">#3</a>
-			</div>
+			</li>
 			<li><a href="/albums/2013Laos">2013, Laos</a></li>
 			<li>2017, Alberta, Canada</li>
 			<li>2018, US</li>
