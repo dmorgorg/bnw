@@ -61,29 +61,11 @@
 <div class="sliderWrapper">
 	<NavigationController bind:hIndex bind:vIndex {imagesArray} />
 	<AlbumSlider bind:hIndex bind:vIndex {imagesArray} />
-	({hIndex}, {vIndex})
-	<!-- <div class="caption">caption</div> -->
 </div>
-
-<!-- <div class="sliderWrapper">
-	{#each imagesArray as img, i}
-		<enhanced:img src={imagesArray[i][0].image} alt={bw01} />
-		{imagesArray[i][0].caption}
-		<enhanced:img src={imagesArray[i][1].image} alt={bw01} />
-		{imagesArray[i][1].caption}
-	{/each} -->
-
-<!-- <enhanced:img src={bw01} alt={c01} />
-	<enhanced:img src="$lib/images/2012india/09/2012-09-11-115811_Nik.jpg" alt="shoe repair" />
-	<enhanced:img src="$lib/images/2012india/09/2012-09-11-115811.jpg" alt="shoe repair" />
-	<enhanced:img src="$lib/images/2012india/09/2012-09-11-121801_Nik.jpg" alt="cab rank" />
-	<enhanced:img src="$lib/images/2012india/09/2012-09-14-130650_Nik.jpg" alt="dhr" />
-	<enhanced:img src="$lib/images/2012india/09/2012-09-14-130825_Nik.jpg" alt="dhr" />
-	<enhanced:img src="$lib/images/2012india/09/2012-09-19-060801_Nik.jpg" alt="dhr" /> -->
-<!-- </div> -->
 
 <style lang="scss">
 	.sliderWrapper {
+		max-height: 75vh;
 	}
 
 	.albumTitle {

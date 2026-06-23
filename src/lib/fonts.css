@@ -45,6 +45,11 @@
 } */
 
 @font-face {
+	font-family: 'captionText';
+	src: url($lib/fonts/AlkesRgIt.TTF) format('truetype');
+}
+
+@font-face {
 	font-family: 'CandaraItalic';
 	src: url($lib/fonts/Candara_Italic.ttf) format('truetype');
 }

@@ -37,9 +37,12 @@
 		margin-inline: auto;
 		margin-top: 12.5vh;
 
-		border: 3px solid yellow;
+		// border: 3px solid yellow;
 	}
 	.caption {
-		height: 1em;
+		padding-top: 0.5em;
+		height: 1.5em;
+		font-family: 'captionText';
+		font-size: 90%;
 	}
 </style>
