@@ -22,15 +22,15 @@
 
 <style lang="scss">
 	.wrapper {
-		align-items: center;
+		// align-items: center;
 		--caption-space: 2.5rem;
-		display: flex;
-		flex-direction: column;
-		gap: 0.35rem;
+		// display: flex;
+		// flex-direction: column;
+		// gap: 0.35rem;
 		width: 80%;
 		height: 75vh;
 		max-height: 75vh;
-		justify-content: center;
+		// justify-content: center;
 		margin-inline: auto;
 		margin-top: 12.5vh;
 	}
@@ -59,9 +59,12 @@
 	.caption {
 		flex: 0 0 auto;
 		font-family: 'captionText';
-		font-size: 90%;
+		font-size: 85%;
 		line-height: 1.2;
-		max-width: 100%;
+		// max-width: 100%;
 		text-align: center;
+		// border: 1px solid green;
+		height: 2em;
+		padding-top: 0.5em;
 	}
 </style>
