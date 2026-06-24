@@ -2,16 +2,16 @@
 	import AlbumSlider from '$lib/components/AlbumSlider.svelte';
 	import NavigationController from '$lib/components/NavigationController.svelte';
 	import '$lib/app.scss';
-	import bw01 from '../../../lib/images/2012india/09/2012-09-11-115811_Nik.jpg?enhanced';
-	import c01 from '../../../lib/images/2012india/09/2012-09-11-115811.jpg?enhanced';
-	import bw02 from '../../../lib/images/2012india/09/2012-09-11-121801_Nik.jpg?enhanced';
-	import c02 from '../../../lib/images/2012india/09/2012-09-11-121801.jpg?enhanced';
-	import bw03 from '../../../lib/images/2012india/09/2012-09-14-130650_Nik.jpg?enhanced';
-	import c03 from '../../../lib/images/2012india/09/2012-09-14-130650.jpg?enhanced';
-	import bw04 from '../../../lib/images/2012india/09/2012-09-14-130825_Nik.jpg?enhanced';
-	import c04 from '../../../lib/images/2012india/09/2012-09-14-130825.jpg?enhanced';
-	import bw05 from '../../../lib/images/2012india/09/2012-09-19-060801_Nik.jpg?enhanced';
-	import c05 from '../../../lib/images/2012india/09/2012-09-19-060801.jpg?enhanced';
+	import bw01 from '../../../lib/images/2012India/09/2012-09-11-115811_Nik.jpg?enhanced';
+	import c01 from '../../../lib/images/2012India/09/2012-09-11-115811.jpg?enhanced';
+	import bw02 from '../../../lib/images/2012India/09/2012-09-11-121801_Nik.jpg?enhanced';
+	import c02 from '../../../lib/images/2012India/09/2012-09-11-121801.jpg?enhanced';
+	import bw03 from '../../../lib/images/2012India/09/2012-09-14-130650_Nik.jpg?enhanced';
+	import c03 from '../../../lib/images/2012India/09/2012-09-14-130650.jpg?enhanced';
+	import bw04 from '../../../lib/images/2012India/09/2012-09-14-130825_Nik.jpg?enhanced';
+	import c04 from '../../../lib/images/2012India/09/2012-09-14-130825.jpg?enhanced';
+	import bw05 from '../../../lib/images/2012India/09/2012-09-19-060801_Nik.jpg?enhanced';
+	import c05 from '../../../lib/images/2012India/09/2012-09-19-060801.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
