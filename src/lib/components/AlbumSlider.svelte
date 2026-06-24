@@ -33,7 +33,7 @@
 
 	enhanced\:img {
 		height: auto;
-		max-height: calc(75vh - 1px);
+		max-height: 75vh;
 		max-width: 100%;
 		object-fit: contain;
 		width: 100%;

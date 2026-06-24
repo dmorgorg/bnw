@@ -20,6 +20,10 @@
 	import c08 from '../../../lib/images/2012UK/2012-07-19-061746.jpg?enhanced';
 	import bw09 from '../../../lib/images/2012UK/2012-07-21-054951_Nik.jpg?enhanced';
 	import c09 from '../../../lib/images/2012UK/2012-07-21-054951.jpg?enhanced';
+	import bw10 from '../../../lib/images/2012UK/2012-07-21-081143_Nik.jpg?enhanced';
+	import c10 from '../../../lib/images/2012UK/2012-07-21-081143.jpg?enhanced';
+	import bw11 from '../../../lib/images/2012UK/2012-07-21-081424_Nik.jpg?enhanced';
+	import c11 from '../../../lib/images/2012UK/2012-07-21-081424.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -60,6 +64,20 @@
 				caption: 'Exmoor, Devon. August, 2012'
 			},
 			{ image: c09, caption: ' ' }
+		],
+		[
+			{
+				image: bw10,
+				caption: 'Exmoor, Devon. August, 2012'
+			},
+			{ image: c10, caption: ' ' }
+		],
+		[
+			{
+				image: bw11,
+				caption: 'Exmoor, Devon. August, 2012'
+			},
+			{ image: c11, caption: ' ' }
 		],
 		[
 			{
