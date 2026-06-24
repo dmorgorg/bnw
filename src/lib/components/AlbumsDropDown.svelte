@@ -30,14 +30,14 @@
 				<a href="/albums/2012IndiaNo2">#2</a>,
 				<a href="/albums/2012IndiaNo3">#3</a>
 			</li>
-			<li><a href="/albums/2013Laos">2013, Laos</a></li>
-			<li>2017, Alberta, Canada</li>
-			<li>2018, US</li>
+			<!-- <li><a href="/albums/2013Laos">2013, Laos</a></li> -->
+			<li><a href="/albums/misc">Miscellany</a></li>
+			<!-- <li>2018, US</li>
 			<li>2018/19, Mexico</li>
 			<li>2023, Spain</li>
 			<li>2024, Sri Lanka</li>
 			<li>2024, Spain</li>
-			<li>2025/26, Spain</li>
+			<li>2025/26, Spain</li> -->
 		</ul>
 	{/if}
 </section>
