@@ -8,7 +8,11 @@
 
 <div class="wrapper">
 	<div class="imageFrame">
-		<enhanced:img src={imagesArray[Number(hIndex)][Number(vIndex)].image} alt="shoe repair" />
+		<enhanced:img
+			src={imagesArray[Number(hIndex)][Number(vIndex)].image}
+			sizes="(min-width:1920px) 1280px, (min-width:1080px) 640px, (min-width:768px) 400px"
+			alt=""
+		/>
 	</div>
 	<div class="caption">
 		<div>
