@@ -11,15 +11,15 @@
 	const imagesArray = [
 		[
 			{
-				image: bw05,
+				image: bw01,
 				caption: 'Exposing the kids to my old stomping grounds. Bosigran, Cornwall. August, 2012'
 			},
-			{ image: c05, caption: ' ' }
+			{ image: c01, caption: ' ' }
 		]
 	];
 </script>
 
-<div class="albumTitle">This Album: United Kingdom, 2012</div>
+<div class="albumTitle">This Album: United States, 2018</div>
 
 <div class="sliderWrapper">
 	<NavigationController bind:hIndex bind:vIndex {imagesArray} />

@@ -11,10 +11,10 @@
 	const imagesArray = [
 		[
 			{
-				image: bw05,
+				image: bw01,
 				caption: 'Exposing the kids to my old stomping grounds. Bosigran, Cornwall. August, 2012'
 			},
-			{ image: c05, caption: ' ' }
+			{ image: c01, caption: ' ' }
 		]
 	];
 </script>
@@ -25,10 +25,3 @@
 	<NavigationController bind:hIndex bind:vIndex {imagesArray} />
 	<AlbumSlider bind:hIndex bind:vIndex {imagesArray} />
 </div>
-
-<style lang="scss">
-	// .sliderWrapper {
-	// 	margin-top: 12.5%;
-	// 	max-height: 75vh;
-	// }
-</style>

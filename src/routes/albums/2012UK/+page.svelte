@@ -108,13 +108,6 @@
 			},
 			{ image: c04, caption: ' ' }
 		]
-		// [
-		// 	{
-		// 		image: bw05,
-		// 		caption: 'Darjeeling, West Bengal. September 2012'
-		// 	},
-		// 	{ image: c05, caption: ' ' }
-		// ]
 	];
 </script>
 
@@ -124,22 +117,3 @@
 	<NavigationController bind:hIndex bind:vIndex {imagesArray} />
 	<AlbumSlider bind:hIndex bind:vIndex {imagesArray} />
 </div>
-
-<style lang="scss">
-	// .sliderWrapper {
-	// 	margin-top: 12.5%;
-	// 	max-height: 75vh;
-	// }
-
-	.albumTitle {
-		position: absolute;
-		font-family: cordelius;
-		font-size: 137.5%;
-		font-weight: bold;
-		top: clamp(1%, 3vh, 4%);
-		left: 50%;
-		text-align: center;
-		transform: translate(-50%, 0);
-		width: 70%;
-	}
-</style>
