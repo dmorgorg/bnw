@@ -41,13 +41,15 @@
 		display: block;
 	}
 	.caption {
-		align-items: end;
+		align-items: center;
 		display: flex;
 		flex-direction: column;
 		font-family: 'captionText';
 		height: 2em;
-		justify-content: center;
-		padding-top: 1em;
+		justify-content: start;
+		margin-top: 0.5em;
+		// padding-top: 1em;
 		text-align: center;
+		// border: 1px solid black;
 	}
 </style>
