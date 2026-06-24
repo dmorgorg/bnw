@@ -4,6 +4,8 @@
 	import '$lib/app.scss';
 	import bw01 from '../../../lib/images/misc/2012-07-29-082556_Nik.jpg?enhanced';
 	import c01 from '../../../lib/images/misc/2012-07-29-082556.jpg?enhanced';
+	import bw02 from '../../../lib/images/misc/2012-07-29-084921_Nik.jpg?enhanced';
+	import c02 from '../../../lib/images/misc/2012-07-29-084921.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -15,6 +17,13 @@
 				caption: 'Germany. July, 2012'
 			},
 			{ image: c01, caption: ' ' }
+		],
+		[
+			{
+				image: bw02,
+				caption: 'Germany. July, 2012'
+			},
+			{ image: c02, caption: ' ' }
 		]
 	];
 </script>
