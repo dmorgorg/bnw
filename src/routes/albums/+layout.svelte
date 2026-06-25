@@ -46,7 +46,7 @@
 
 <style lang="scss">
 	.outer {
-		border: 1px solid white; // not sure why i need this...to get correct height
+		// border: 1px solid white; // not sure why i need this...to get correct height
 		height: 100vh;
 		max-height: 100vh;
 		overflow: hidden;

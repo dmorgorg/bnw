@@ -37,11 +37,29 @@
 	import c16 from '../../../lib/images/2018US/2018-12-11-130110.jpg?enhanced';
 	import bw17 from '../../../lib/images/2018US/2018-12-11-150829_Nik.jpg?enhanced';
 	import c17 from '../../../lib/images/2018US/2018-12-11-150829.jpg?enhanced';
+	import bw18 from '../../../lib/images/2018US/2018-11-17-142159_Nik.jpg?enhanced';
+	import c18 from '../../../lib/images/2018US/2018-11-17-142159.jpg?enhanced';
+	// import bw19 from '../../../lib/images/2018US/2018-11-21-160303_Nik.jpg?enhanced';
+	// import c19 from '../../../lib/images/2018US/2018-11-21-160303.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
 
 	const imagesArray = [
+		[
+			{
+				image: bw18,
+				caption: 'Dell, Montana. November, 2018'
+			},
+			{ image: c18, caption: ' ' }
+		],
+		// [
+		// 	{
+		// 		image: bw19,
+		// 		caption: 'Utah. November, 2018'
+		// 	},
+		// 	{ image: c19, caption: ' ' }
+		// ],
 		[
 			{
 				image: bw01,

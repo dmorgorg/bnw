@@ -32,7 +32,7 @@
 		height: 75vh;
 		max-height: 75vh;
 		margin-inline: auto;
-		margin-top: 12.5vh;
+		margin-top: max(12.5vh, 3.5em);
 	}
 
 	enhanced\:img {
