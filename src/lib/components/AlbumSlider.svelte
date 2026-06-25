@@ -10,7 +10,7 @@
 	<div class="imageFrame">
 		<enhanced:img
 			src={imagesArray[Number(hIndex)][Number(vIndex)].image}
-			sizes="(min-width:1920px) 1280px, (min-width:1080px) 640px, (min-width:768px) 400px"
+			sizes="(min-width:1920px) 1800px, (min-width:1080px) 1080px, (min-width:768px) 768px"
 			alt=""
 		/>
 	</div>

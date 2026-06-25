@@ -11,8 +11,6 @@
 	import c03 from '../../../lib/images/2018US/2018-12-03-125743.jpg?enhanced';
 	import bw04 from '../../../lib/images/2018US/2018-12-04-153901_Nik.jpg?enhanced';
 	import c04 from '../../../lib/images/2018US/2018-12-04-153901.jpg?enhanced';
-	import bw10 from '../../../lib/images/2018US/2018-12-05-150823_Nik.jpg?enhanced';
-	import c10 from '../../../lib/images/2018US/2018-12-05-150823.jpg?enhanced';
 	import bw05 from '../../../lib/images/2018US/2018-12-13-154106_Nik-1.jpg?enhanced';
 	import c05 from '../../../lib/images/2018US/2018-12-13-154106.jpg?enhanced';
 	import bw06 from '../../../lib/images/2018US/2018-12-13-164525_Nik.jpg?enhanced';
@@ -23,6 +21,16 @@
 	import c08 from '../../../lib/images/2018US/2018-12-13-172307.jpg?enhanced';
 	import bw09 from '../../../lib/images/2018US/2018-12-15-130409_Nik.jpg?enhanced';
 	import c09 from '../../../lib/images/2018US/2018-12-15-130409.jpg?enhanced';
+	import bw10 from '../../../lib/images/2018US/2018-12-05-150823_Nik.jpg?enhanced';
+	import c10 from '../../../lib/images/2018US/2018-12-05-150823.jpg?enhanced';
+	import bw11 from '../../../lib/images/2018US/2018-12-07-110031_Nik.jpg?enhanced';
+	import c11 from '../../../lib/images/2018US/2018-12-07-110031.jpg?enhanced';
+	import bw12 from '../../../lib/images/2018US/2018-12-10-150747_Nik.jpg?enhanced';
+	import c12 from '../../../lib/images/2018US/2018-12-10-150747.jpg?enhanced';
+	import bw13 from '../../../lib/images/2018US/2018-12-11-093615_Nik.jpg?enhanced';
+	import c13 from '../../../lib/images/2018US/2018-12-11-093615.jpg?enhanced';
+	import bw14 from '../../../lib/images/2018US/2018-12-11-093826_Nik.jpg?enhanced';
+	import c14 from '../../../lib/images/2018US/2018-12-11-093826.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -63,7 +71,34 @@
 			},
 			{ image: c10, caption: ' ' }
 		],
-
+		[
+			{
+				image: bw11,
+				caption: 'Some corner in Winslow, Arizona. December, 2018'
+			},
+			{ image: c11, caption: ' ' }
+		],
+		[
+			{
+				image: bw12,
+				caption: 'Petroglyphs, Arizona. December, 2018'
+			},
+			{ image: c12, caption: ' ' }
+		],
+		[
+			{
+				image: bw13,
+				caption: 'Petroglyphs, Arizona. December, 2018'
+			},
+			{ image: c13, caption: ' ' }
+		],
+		[
+			{
+				image: bw14,
+				caption: 'In the desert, things jump out and grab you. Arizona. December, 2018'
+			},
+			{ image: c14, caption: ' ' }
+		],
 		[
 			{
 				image: bw05,
@@ -85,13 +120,13 @@
 			},
 			{ image: bw07, caption: ' ' }
 		],
-		[
-			{
-				image: bw07,
-				caption: 'Joshua Tree National Park, California. December, 2018'
-			},
-			{ image: bw07, caption: ' ' }
-		],
+		// [
+		// 	{
+		// 		image: bw07,
+		// 		caption: 'Joshua Tree National Park, California. December, 2018'
+		// 	},
+		// 	{ image: bw07, caption: ' ' }
+		// ],
 		[
 			{
 				image: bw08,
