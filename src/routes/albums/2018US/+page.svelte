@@ -11,6 +11,8 @@
 	import c03 from '../../../lib/images/2018US/2018-12-03-125743.jpg?enhanced';
 	import bw04 from '../../../lib/images/2018US/2018-12-04-153901_Nik.jpg?enhanced';
 	import c04 from '../../../lib/images/2018US/2018-12-04-153901.jpg?enhanced';
+	import bw10 from '../../../lib/images/2018US/2018-12-05-150823_Nik.jpg?enhanced';
+	import c10 from '../../../lib/images/2018US/2018-12-05-150823.jpg?enhanced';
 	import bw05 from '../../../lib/images/2018US/2018-12-13-154106_Nik-1.jpg?enhanced';
 	import c05 from '../../../lib/images/2018US/2018-12-13-154106.jpg?enhanced';
 	import bw06 from '../../../lib/images/2018US/2018-12-13-164525_Nik.jpg?enhanced';
@@ -54,6 +56,14 @@
 			},
 			{ image: c04, caption: ' ' }
 		],
+		[
+			{
+				image: bw10,
+				caption: 'Arizona. December, 2018'
+			},
+			{ image: c10, caption: ' ' }
+		],
+
 		[
 			{
 				image: bw05,
