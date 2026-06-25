@@ -35,6 +35,8 @@
 	import c15 from '../../../lib/images/2018US/2018-12-11-125837.jpg?enhanced';
 	import bw16 from '../../../lib/images/2018US/2018-12-11-130110_Nik.jpg?enhanced';
 	import c16 from '../../../lib/images/2018US/2018-12-11-130110.jpg?enhanced';
+	import bw17 from '../../../lib/images/2018US/2018-12-11-150829_Nik.jpg?enhanced';
+	import c17 from '../../../lib/images/2018US/2018-12-11-150829.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -116,6 +118,13 @@
 				caption: 'Arizona. December, 2018'
 			},
 			{ image: c16, caption: ' ' }
+		],
+		[
+			{
+				image: bw17,
+				caption: 'Arizona. December, 2018'
+			},
+			{ image: c17, caption: ' ' }
 		],
 		[
 			{
