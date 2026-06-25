@@ -131,7 +131,7 @@
 				image: bw05,
 				caption: 'Joshua Tree National Park, California. December, 2018'
 			},
-			{ image: bw05, caption: ' ' }
+			{ image: c05, caption: ' ' }
 		],
 		[
 			{
