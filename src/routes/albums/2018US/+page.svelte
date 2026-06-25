@@ -31,6 +31,10 @@
 	import c13 from '../../../lib/images/2018US/2018-12-11-093615.jpg?enhanced';
 	import bw14 from '../../../lib/images/2018US/2018-12-11-093826_Nik.jpg?enhanced';
 	import c14 from '../../../lib/images/2018US/2018-12-11-093826.jpg?enhanced';
+	import bw15 from '../../../lib/images/2018US/2018-12-11-125837_Nik.jpg?enhanced';
+	import c15 from '../../../lib/images/2018US/2018-12-11-125837.jpg?enhanced';
+	import bw16 from '../../../lib/images/2018US/2018-12-11-130110_Nik.jpg?enhanced';
+	import c16 from '../../../lib/images/2018US/2018-12-11-130110.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -95,9 +99,23 @@
 		[
 			{
 				image: bw14,
-				caption: 'In the desert, things jump out and grab you. Arizona. December, 2018'
+				caption: 'In the desert, things just jump out and grab you. Arizona. December, 2018'
 			},
 			{ image: c14, caption: ' ' }
+		],
+		[
+			{
+				image: bw15,
+				caption: ' Arizona. December, 2018'
+			},
+			{ image: c15, caption: ' ' }
+		],
+		[
+			{
+				image: bw16,
+				caption: 'Arizona. December, 2018'
+			},
+			{ image: c16, caption: ' ' }
 		],
 		[
 			{
