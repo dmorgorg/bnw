@@ -19,10 +19,10 @@
 	import c07 from '../../../lib/images/2015Spain/2015-07-14-184336.jpg?enhanced';
 	import bw08 from '../../../lib/images/2015Spain/2015-07-16-160020_Nik.jpg?enhanced';
 	import c08 from '../../../lib/images/2015Spain/2015-07-16-160020.jpg?enhanced';
-	// import bw09 from '../../../lib/images/2015Spain/2015-12-15-130409_Nik.jpg?enhanced';
-	// import c09 from '../../../lib/images/2015Spain/2015-12-15-130409.jpg?enhanced';
-	// import bw10 from '../../../lib/images/2015Spain/2015-12-05-150823_Nik.jpg?enhanced';
-	// import c10 from '../../../lib/images/2015Spain/2015-12-05-150823.jpg?enhanced';
+	import bw09 from '../../../lib/images/2015Spain/2015-07-11-162235_Nik.jpg?enhanced';
+	import c09 from '../../../lib/images/2015Spain/2015-07-11-162235.jpg?enhanced';
+	import bw10 from '../../../lib/images/2015Spain/2015-07-16-140611_Nik.jpg?enhanced';
+	import c10 from '../../../lib/images/2015Spain/2015-07-16-140611.jpg?enhanced';
 	// import bw11 from '../../../lib/images/2015Spain/2015-12-07-110031_Nik.jpg?enhanced';
 	// import c11 from '../../../lib/images/2015Spain/2015-12-07-110031.jpg?enhanced';
 	// import bw12 from '../../../lib/images/2015Spain/2015-12-10-150747_Nik.jpg?enhanced';
@@ -48,8 +48,15 @@
 	const imagesArray = [
 		[
 			{
+				image: bw09,
+				caption: ' July, 2015'
+			},
+			{ image: c09, caption: ' ' }
+		],
+		[
+			{
 				image: bw04,
-				caption: 'Albergue, Bilbao, Biscay. July, 2015'
+				caption: ' July, 2015'
 			},
 			{ image: c04, caption: ' ' }
 		],
@@ -83,8 +90,16 @@
 		],
 		[
 			{
+				image: bw09,
+				caption: ' July, 2015'
+			},
+			{ image: c09, caption: ' ' }
+		],
+
+		[
+			{
 				image: bw01,
-				caption: 'The Guggenheim Museum, Bilbao, Biscay. July, 2015'
+				caption: 'The Guggenheim Museum, Bilbao, Basque Country. July, 2015'
 			},
 			{ image: c01, caption: ' ' }
 		],

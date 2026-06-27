@@ -24,6 +24,10 @@
 	import c10 from '../../../lib/images/2012UK/2012-07-21-081143.jpg?enhanced';
 	import bw11 from '../../../lib/images/2012UK/2012-07-21-081424_Nik.jpg?enhanced';
 	import c11 from '../../../lib/images/2012UK/2012-07-21-081424.jpg?enhanced';
+	import bw12 from '../../../lib/images/2012UK/2012-08-14-163440_Nik.jpg?enhanced';
+	import c12 from '../../../lib/images/2012UK/2012-08-14-163440.jpg?enhanced';
+	import bw13 from '../../../lib/images/2012UK/2012-08-14-161347_Nik.jpg?enhanced';
+	import c13 from '../../../lib/images/2012UK/2012-08-14-161347.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -32,21 +36,21 @@
 		[
 			{
 				image: bw05,
-				caption: 'Exposing the kids to my old stomping grounds. Bosigran, Cornwall. August, 2012'
+				caption: 'Exposing the kids to my old stomping grounds. Bosigran, Cornwall. July, 2012'
 			},
 			{ image: c05, caption: ' ' }
 		],
 		[
 			{
 				image: bw06,
-				caption: 'Bosigran, Cornwall. August, 2012'
+				caption: 'Bosigran, Cornwall. July, 2012'
 			},
 			{ image: c06, caption: ' ' }
 		],
 		[
 			{
 				image: bw07,
-				caption: 'They were still kids then. Cornwall. August, 2012'
+				caption: 'They were still kids then. Cornwall. July, 2012'
 			},
 			{ image: c07, caption: ' ' }
 		],
@@ -54,28 +58,28 @@
 			{
 				image: bw08,
 				caption:
-					"Memorial for a 14 year old cabin boy who was lost when the Iota, from Naples, sank just before Christmas in 1893. Saint Materiana's Church, Boscastle, Cornwall. August, 2012"
+					"Memorial for a 14 year old cabin boy who was lost when the Iota, from Naples, sank just before Christmas in 1893. Saint Materiana's Church, Boscastle, Cornwall. July, 2012"
 			},
 			{ image: c08, caption: ' ' }
 		],
 		[
 			{
 				image: bw09,
-				caption: 'Exmoor, Devon. August, 2012'
+				caption: 'Exmoor, Devon. July, 2012'
 			},
 			{ image: c09, caption: ' ' }
 		],
 		[
 			{
 				image: bw10,
-				caption: 'Exmoor, Devon. August, 2012'
+				caption: 'Exmoor, Devon. July, 2012'
 			},
 			{ image: c10, caption: ' ' }
 		],
 		[
 			{
 				image: bw11,
-				caption: 'Exmoor, Devon. August, 2012'
+				caption: 'Exmoor, Devon. July, 2012'
 			},
 			{ image: c11, caption: ' ' }
 		],
@@ -100,13 +104,27 @@
 			},
 			{ image: c03, caption: ' ' }
 		],
-
 		[
 			{
 				image: bw04,
 				caption: 'Family day on Stanage Edge, Derbyshire. August, 2012'
 			},
 			{ image: c04, caption: ' ' }
+		],
+		[
+			{
+				image: bw12,
+				caption: "In 'The Peapod', Curbar Edge, Derbyshire. August, 2012"
+			},
+			{ image: c12, caption: ' ' }
+		],
+		[
+			{
+				image: bw13,
+				caption:
+					"The rock that we're climbing on is gritstone, specifically Millstone Grit. Derbyshire. August, 2012"
+			},
+			{ image: c13, caption: ' ' }
 		]
 	];
 </script>
