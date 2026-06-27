@@ -43,6 +43,12 @@
 	import c19 from '../../../lib/images/2015Spain/2015-07-28-065021.jpg?enhanced';
 	import bw20 from '../../../lib/images/2015Spain/2015-07-19-070649_Nik.jpg?enhanced';
 	import c20 from '../../../lib/images/2015Spain/2015-07-19-070649.jpg?enhanced';
+	import bw21 from '../../../lib/images/2015Spain/2015-08-11-193253_Nik.jpg?enhanced';
+	import c21 from '../../../lib/images/2015Spain/2015-07-19-070649.jpg?enhanced';
+	import bw22 from '../../../lib/images/2015Spain/2015-08-17-173450_Nik.jpg?enhanced';
+	import c22 from '../../../lib/images/2015Spain/2015-08-17-173450.jpg?enhanced';
+	import bw23 from '../../../lib/images/2015Spain/2015-08-17-173450_Nik.jpg?enhanced';
+	import c23 from '../../../lib/images/2015Spain/2015-08-17-173450.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -147,27 +153,27 @@
 			},
 			{ image: c13, caption: ' ' }
 		],
-		[
-			{
-				image: bw14,
-				caption: '. July, 2015'
-			},
-			{ image: c14, caption: ' ' }
-		],
-		[
-			{
-				image: bw15,
-				caption: '. July, 2015'
-			},
-			{ image: c15, caption: ' ' }
-		],
-		[
-			{
-				image: bw16,
-				caption: '. July, 2015'
-			},
-			{ image: c16, caption: ' ' }
-		],
+		// [
+		// 	{
+		// 		image: bw14,
+		// 		caption: '. July, 2015'
+		// 	},
+		// 	{ image: c14, caption: ' ' }
+		// ],
+		// [
+		// 	{
+		// 		image: bw15,
+		// 		caption: '. July, 2015'
+		// 	},
+		// 	{ image: c15, caption: ' ' }
+		// ],
+		// [
+		// 	{
+		// 		image: bw16,
+		// 		caption: '. July, 2015'
+		// 	},
+		// 	{ image: c16, caption: ' ' }
+		// ],
 		[
 			{
 				image: bw17,
@@ -188,6 +194,27 @@
 				caption: 'A h&oacute;rreo, elevated and rodent-proof grain storage. July, 2015'
 			},
 			{ image: c19, caption: ' ' }
+		],
+		[
+			{
+				image: bw21,
+				caption: 'church. August, 2015'
+			},
+			{ image: c21, caption: ' ' }
+		],
+		[
+			{
+				image: bw22,
+				caption: 'Arch broken. August, 2015'
+			},
+			{ image: c22, caption: ' ' }
+		],
+		[
+			{
+				image: bw22,
+				caption: 'shadows. August, 2015'
+			},
+			{ image: c22, caption: ' ' }
 		]
 	];
 </script>

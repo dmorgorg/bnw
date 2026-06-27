@@ -17,7 +17,7 @@
 	<div class="caption">
 		<div>
 			<strong>Image {hIndex + 1}/{imagesArray.length}. </strong> &nbsp;
-			{imagesArray[Number(hIndex)][0].caption}
+			{@html imagesArray[Number(hIndex)][0].caption}
 		</div>
 	</div>
 </div>
