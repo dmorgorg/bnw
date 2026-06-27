@@ -39,8 +39,8 @@
 	import c17 from '../../../lib/images/2015Spain/2015-07-27-031849.jpg?enhanced';
 	import bw18 from '../../../lib/images/2015Spain/2015-07-27-073509_Nik.jpg?enhanced';
 	import c18 from '../../../lib/images/2015Spain/2015-07-27-073509.jpg?enhanced';
-	// import bw19 from '../../../lib/images/2015Spain/2015-11-21-160303_Nik.jpg?enhanced';
-	// import c19 from '../../../lib/images/2015Spain/2015-11-21-160303.jpg?enhanced';
+	import bw19 from '../../../lib/images/2015Spain/2015-07-28-065021_Nik.jpg?enhanced';
+	import c19 from '../../../lib/images/2015Spain/2015-07-28-065021.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -172,6 +172,13 @@
 				caption: '. July, 2015'
 			},
 			{ image: c18, caption: ' ' }
+		],
+		[
+			{
+				image: bw19,
+				caption: 'A h&oacute;rreo, elevated and rodent-proof grain storage. July, 2015'
+			},
+			{ image: c19, caption: ' ' }
 		]
 	];
 </script>
