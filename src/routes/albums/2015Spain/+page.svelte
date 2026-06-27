@@ -41,6 +41,8 @@
 	import c18 from '../../../lib/images/2015Spain/2015-07-27-073509.jpg?enhanced';
 	import bw19 from '../../../lib/images/2015Spain/2015-07-28-065021_Nik.jpg?enhanced';
 	import c19 from '../../../lib/images/2015Spain/2015-07-28-065021.jpg?enhanced';
+	import bw20 from '../../../lib/images/2015Spain/2015-07-19-070649_Nik.jpg?enhanced';
+	import c20 from '../../../lib/images/2015Spain/2015-07-19-070649.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -116,6 +118,13 @@
 				caption: 'The Guggenheim Museum, Bilbao, Biscay. July, 2015'
 			},
 			{ image: c03, caption: ' ' }
+		],
+		[
+			{
+				image: bw20,
+				caption: 'The transporter bridge to Portugalete, Bilbao, Biscay. July, 2015'
+			},
+			{ image: c20, caption: ' ' }
 		],
 		[
 			{
