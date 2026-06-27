@@ -23,22 +23,22 @@
 	import c09 from '../../../lib/images/2015Spain/2015-07-11-162235.jpg?enhanced';
 	import bw10 from '../../../lib/images/2015Spain/2015-07-16-140611_Nik.jpg?enhanced';
 	import c10 from '../../../lib/images/2015Spain/2015-07-16-140611.jpg?enhanced';
-	// import bw11 from '../../../lib/images/2015Spain/2015-12-07-110031_Nik.jpg?enhanced';
-	// import c11 from '../../../lib/images/2015Spain/2015-12-07-110031.jpg?enhanced';
-	// import bw12 from '../../../lib/images/2015Spain/2015-12-10-150747_Nik.jpg?enhanced';
-	// import c12 from '../../../lib/images/2015Spain/2015-12-10-150747.jpg?enhanced';
-	// import bw13 from '../../../lib/images/2015Spain/2015-12-11-093615_Nik.jpg?enhanced';
-	// import c13 from '../../../lib/images/2015Spain/2015-12-11-093615.jpg?enhanced';
-	// import bw14 from '../../../lib/images/2015Spain/2015-12-11-093826_Nik.jpg?enhanced';
-	// import c14 from '../../../lib/images/2015Spain/2015-12-11-093826.jpg?enhanced';
-	// import bw15 from '../../../lib/images/2015Spain/2015-12-11-125837_Nik.jpg?enhanced';
-	// import c15 from '../../../lib/images/2015Spain/2015-12-11-125837.jpg?enhanced';
-	// import bw16 from '../../../lib/images/2015Spain/2015-12-11-130110_Nik.jpg?enhanced';
-	// import c16 from '../../../lib/images/2015Spain/2015-12-11-130110.jpg?enhanced';
-	// import bw17 from '../../../lib/images/2015Spain/2015-12-11-150829_Nik.jpg?enhanced';
-	// import c17 from '../../../lib/images/2015Spain/2015-12-11-150829.jpg?enhanced';
-	// import bw18 from '../../../lib/images/2015Spain/2015-11-17-142159_Nik.jpg?enhanced';
-	// import c18 from '../../../lib/images/2015Spain/2015-11-17-142159.jpg?enhanced';
+	import bw11 from '../../../lib/images/2015Spain/2015-07-22-042307_Nik.jpg?enhanced';
+	import c11 from '../../../lib/images/2015Spain/2015-07-22-042307.jpg?enhanced';
+	import bw12 from '../../../lib/images/2015Spain/2015-07-24-100526_Nik.jpg?enhanced';
+	import c12 from '../../../lib/images/2015Spain/2015-07-24-100526.jpg?enhanced';
+	import bw13 from '../../../lib/images/2015Spain/2015-07-24-111859_Nik.jpg?enhanced';
+	import c13 from '../../../lib/images/2015Spain/2015-07-24-111859.jpg?enhanced';
+	import bw14 from '../../../lib/images/2015Spain/2015-07-26-054522_Nik.jpg?enhanced';
+	import c14 from '../../../lib/images/2015Spain/2015-07-26-054522.jpg?enhanced';
+	import bw15 from '../../../lib/images/2015Spain/2015-07-26-071843_Nik.jpg?enhanced';
+	import c15 from '../../../lib/images/2015Spain/2015-07-26-071843.jpg?enhanced';
+	import bw16 from '../../../lib/images/2015Spain/2015-07-27-015058_Nik.jpg?enhanced';
+	import c16 from '../../../lib/images/2015Spain/2015-07-27-015058.jpg?enhanced';
+	import bw17 from '../../../lib/images/2015Spain/2015-07-27-031849_Nik.jpg?enhanced';
+	import c17 from '../../../lib/images/2015Spain/2015-07-27-031849.jpg?enhanced';
+	import bw18 from '../../../lib/images/2015Spain/2015-07-27-073509_Nik.jpg?enhanced';
+	import c18 from '../../../lib/images/2015Spain/2015-07-27-073509.jpg?enhanced';
 	// import bw19 from '../../../lib/images/2015Spain/2015-11-21-160303_Nik.jpg?enhanced';
 	// import c19 from '../../../lib/images/2015Spain/2015-11-21-160303.jpg?enhanced';
 
@@ -83,17 +83,17 @@
 		],
 		[
 			{
+				image: bw10,
+				caption: ' July, 2015'
+			},
+			{ image: c10, caption: ' ' }
+		],
+		[
+			{
 				image: bw08,
 				caption: ' July, 2015'
 			},
 			{ image: c08, caption: ' ' }
-		],
-		[
-			{
-				image: bw09,
-				caption: ' July, 2015'
-			},
-			{ image: c09, caption: ' ' }
 		],
 
 		[
@@ -116,6 +116,62 @@
 				caption: 'The Guggenheim Museum, Bilbao, Biscay. July, 2015'
 			},
 			{ image: c03, caption: ' ' }
+		],
+		[
+			{
+				image: bw11,
+				caption: 'Raindrops kept falling on our heads. July, 2015'
+			},
+			{ image: c11, caption: ' ' }
+		],
+		[
+			{
+				image: bw12,
+				caption: '. July, 2015'
+			},
+			{ image: c12, caption: ' ' }
+		],
+		[
+			{
+				image: bw13,
+				caption: '. July, 2015'
+			},
+			{ image: c13, caption: ' ' }
+		],
+		[
+			{
+				image: bw14,
+				caption: '. July, 2015'
+			},
+			{ image: c14, caption: ' ' }
+		],
+		[
+			{
+				image: bw15,
+				caption: '. July, 2015'
+			},
+			{ image: c15, caption: ' ' }
+		],
+		[
+			{
+				image: bw16,
+				caption: '. July, 2015'
+			},
+			{ image: c16, caption: ' ' }
+		],
+		[
+			{
+				image: bw17,
+				caption: '. July, 2015'
+			},
+			{ image: c17, caption: ' ' }
+		],
+		[
+			{
+				image: bw18,
+				caption: '. July, 2015'
+			},
+			{ image: c18, caption: ' ' }
 		]
 	];
 </script>
