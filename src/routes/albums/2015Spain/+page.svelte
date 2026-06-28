@@ -64,7 +64,7 @@
 		[
 			{
 				image: bw04,
-				caption: ' July, 2015'
+				caption: 'Conventu de San Jos&eacute; in Ondarroa, Basque Country. July, 2015'
 			},
 			{ image: c04, caption: ' ' }
 		],
@@ -85,7 +85,7 @@
 		[
 			{
 				image: bw07,
-				caption: ' July, 2015'
+				caption: 'Basque Country, July, 2015'
 			},
 			{ image: c07, caption: ' ' }
 		],

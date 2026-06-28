@@ -28,7 +28,7 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		width: 70%;
+		width: 80%;
 		height: 75vh;
 		max-height: 75vh;
 		margin-inline: auto;
