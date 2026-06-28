@@ -57,7 +57,7 @@
 		[
 			{
 				image: bw09,
-				caption: ' July, 2015'
+				caption: 'Village of Asquizio, Basque Country. July, 2015'
 			},
 			{ image: c09, caption: ' ' }
 		],
@@ -71,14 +71,14 @@
 		[
 			{
 				image: bw05,
-				caption: ' July, 2015'
+				caption: 'Zumaya, Basque Country. July, 2015'
 			},
 			{ image: c05, caption: ' ' }
 		],
 		[
 			{
 				image: bw06,
-				caption: ' July, 2015'
+				caption: 'Basque Country. July, 2015'
 			},
 			{ image: c06, caption: ' ' }
 		],
