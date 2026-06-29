@@ -51,7 +51,7 @@
 	}
 	.dropDown {
 		position: absolute;
-		font-size: clamp(10px, 1.25vw, 20px);
+		font-size: clamp(12px, 1.25vw, 20px);
 		right: 2%;
 		top: clamp(5px, 0.875vw, 25px);
 		top: 1%;

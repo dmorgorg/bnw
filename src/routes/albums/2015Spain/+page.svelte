@@ -49,6 +49,8 @@
 	import c22 from '../../../lib/images/2015Spain/2015-08-17-173450.jpg?enhanced';
 	import bw23 from '../../../lib/images/2015Spain/2015-08-17-173450_Nik.jpg?enhanced';
 	import c23 from '../../../lib/images/2015Spain/2015-08-17-173450.jpg?enhanced';
+	import bw24 from '../../../lib/images/2015Spain/2015-07-31-141626_Nik.jpg?enhanced';
+	import c24 from '../../../lib/images/2015Spain/2015-07-31-141626.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -85,21 +87,21 @@
 		[
 			{
 				image: bw07,
-				caption: 'Basque Country, July, 2015'
+				caption: 'Basque Country. July, 2015'
 			},
 			{ image: c07, caption: ' ' }
 		],
 		[
 			{
 				image: bw10,
-				caption: ' July, 2015'
+				caption: 'Meakaur, Basque Country. July, 2015'
 			},
 			{ image: c10, caption: ' ' }
 		],
 		[
 			{
 				image: bw08,
-				caption: ' July, 2015'
+				caption: 'Basque Country, July, 2015'
 			},
 			{ image: c08, caption: ' ' }
 		],
@@ -114,21 +116,22 @@
 		[
 			{
 				image: bw02,
-				caption: 'The Guggenheim Museum, Bilbao, Biscay. July, 2015'
+				caption: 'The Guggenheim Museum, Bilbao, Basque Country. July, 2015'
 			},
 			{ image: c02, caption: ' ' }
 		],
 		[
 			{
 				image: bw03,
-				caption: 'The Guggenheim Museum, Bilbao, Biscay. July, 2015'
+				caption: 'The Guggenheim Museum, Bilbao, Basque Country. July, 2015'
 			},
 			{ image: c03, caption: ' ' }
 		],
 		[
 			{
 				image: bw20,
-				caption: 'The transporter bridge to Portugalete, Bilbao, Biscay. July, 2015'
+				caption:
+					'The Vizcaya transporter bridge to Portugalete. Opened in 1893. <br/>Bilbao, Basque Country. July, 2015'
 			},
 			{ image: c20, caption: ' ' }
 		],
@@ -142,17 +145,17 @@
 		[
 			{
 				image: bw12,
-				caption: '. July, 2015'
+				caption: 'Cantabria. July, 2015'
 			},
 			{ image: c12, caption: ' ' }
 		],
-		[
-			{
-				image: bw13,
-				caption: '. July, 2015'
-			},
-			{ image: c13, caption: ' ' }
-		],
+		// [
+		// 	{
+		// 		image: bw13,
+		// 		caption: '. July, 2015'
+		// 	},
+		// 	{ image: c13, caption: ' ' }
+		// ],
 		// [
 		// 	{
 		// 		image: bw14,
@@ -174,26 +177,40 @@
 		// 	},
 		// 	{ image: c16, caption: ' ' }
 		// ],
-		[
-			{
-				image: bw17,
-				caption: '. July, 2015'
-			},
-			{ image: c17, caption: ' ' }
-		],
+		// [
+		// 	{
+		// 		image: bw17,
+		// 		caption: '. July, 2015'
+		// 	},
+		// 	{ image: c17, caption: ' ' }
+		// ],
 		[
 			{
 				image: bw18,
-				caption: '. July, 2015'
+				caption: 'Cantabria. July, 2015'
 			},
 			{ image: c18, caption: ' ' }
 		],
+		// [
+		// 	{
+		// 		image: bw18,
+		// 		caption: 'Cantabria. July, 2015'
+		// 	},
+		// 	{ image: c18, caption: ' ' }
+		// ],
 		[
 			{
-				image: bw19,
+				image: bw23,
 				caption: 'A h&oacute;rreo, elevated and rodent-proof grain storage. July, 2015'
 			},
-			{ image: c19, caption: ' ' }
+			{ image: c23, caption: ' ' }
+		],
+		[
+			{
+				image: bw24,
+				caption: 'Cantabria. July, 2015'
+			},
+			{ image: c24, caption: ' ' }
 		],
 		[
 			{
