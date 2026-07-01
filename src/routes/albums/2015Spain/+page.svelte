@@ -44,13 +44,15 @@
 	import bw20 from '../../../lib/images/2015Spain/2015-07-19-070649_Nik.jpg?enhanced';
 	import c20 from '../../../lib/images/2015Spain/2015-07-19-070649.jpg?enhanced';
 	import bw21 from '../../../lib/images/2015Spain/2015-08-11-193253_Nik.jpg?enhanced';
-	import c21 from '../../../lib/images/2015Spain/2015-07-19-070649.jpg?enhanced';
+	import c21 from '../../../lib/images/2015Spain/2015-08-11-193253.jpg?enhanced';
 	import bw22 from '../../../lib/images/2015Spain/2015-08-17-173450_Nik.jpg?enhanced';
 	import c22 from '../../../lib/images/2015Spain/2015-08-17-173450.jpg?enhanced';
 	import bw23 from '../../../lib/images/2015Spain/2015-08-17-173450_Nik.jpg?enhanced';
 	import c23 from '../../../lib/images/2015Spain/2015-08-17-173450.jpg?enhanced';
 	import bw24 from '../../../lib/images/2015Spain/2015-07-31-141626_Nik.jpg?enhanced';
 	import c24 from '../../../lib/images/2015Spain/2015-07-31-141626.jpg?enhanced';
+	import bw25 from '../../../lib/images/2015Spain/2015-07-31-141823_Nik.jpg?enhanced';
+	import c25 from '../../../lib/images/2015Spain/2015-07-31-141823.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -149,41 +151,14 @@
 			},
 			{ image: c12, caption: ' ' }
 		],
-		// [
-		// 	{
-		// 		image: bw13,
-		// 		caption: '. July, 2015'
-		// 	},
-		// 	{ image: c13, caption: ' ' }
-		// ],
-		// [
-		// 	{
-		// 		image: bw14,
-		// 		caption: '. July, 2015'
-		// 	},
-		// 	{ image: c14, caption: ' ' }
-		// ],
-		// [
-		// 	{
-		// 		image: bw15,
-		// 		caption: '. July, 2015'
-		// 	},
-		// 	{ image: c15, caption: ' ' }
-		// ],
-		// [
-		// 	{
-		// 		image: bw16,
-		// 		caption: '. July, 2015'
-		// 	},
-		// 	{ image: c16, caption: ' ' }
-		// ],
-		// [
-		// 	{
-		// 		image: bw17,
-		// 		caption: '. July, 2015'
-		// 	},
-		// 	{ image: c17, caption: ' ' }
-		// ],
+
+		[
+			{
+				image: bw15,
+				caption: 'Cantabria. July, 2015'
+			},
+			{ image: c15, caption: ' ' }
+		],
 		[
 			{
 				image: bw18,
@@ -191,31 +166,33 @@
 			},
 			{ image: c18, caption: ' ' }
 		],
-		// [
-		// 	{
-		// 		image: bw18,
-		// 		caption: 'Cantabria. July, 2015'
-		// 	},
-		// 	{ image: c18, caption: ' ' }
-		// ],
+
 		[
 			{
-				image: bw23,
-				caption: 'A h&oacute;rreo, elevated and rodent-proof grain storage. July, 2015'
+				image: bw19,
+				caption: 'A h&oacute;rreo, traditional elevated and rodent-proof grain storage. July, 2015'
 			},
-			{ image: c23, caption: ' ' }
+			{ image: c19, caption: ' ' }
 		],
 		[
 			{
 				image: bw24,
-				caption: 'Cantabria. July, 2015'
+				caption: 'Quiet trails through the trees. Cantabria. July, 2015'
 			},
 			{ image: c24, caption: ' ' }
 		],
 		[
 			{
+				image: bw25,
+				caption: 'Eucalyptus forest. Asturias. July, 2015'
+			},
+			{ image: c25, caption: ' ' }
+		],
+
+		[
+			{
 				image: bw21,
-				caption: 'church. August, 2015'
+				caption: 'Betanzos, Galicia. August, 2015'
 			},
 			{ image: c21, caption: ' ' }
 		],
@@ -223,13 +200,6 @@
 			{
 				image: bw22,
 				caption: 'Arch broken. August, 2015'
-			},
-			{ image: c22, caption: ' ' }
-		],
-		[
-			{
-				image: bw22,
-				caption: 'shadows. August, 2015'
 			},
 			{ image: c22, caption: ' ' }
 		]
