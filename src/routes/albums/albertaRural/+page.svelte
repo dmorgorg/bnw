@@ -9,7 +9,7 @@
 	import c02 from '../../../lib/images/albertaRural/2017-03-18-173645.jpg?enhanced';
 	import bw03 from '../../../lib/images/albertaRural/2017-03-18-154952_Nik.jpg?enhanced';
 	import c03 from '../../../lib/images/albertaRural/2017-03-18-154952.jpg?enhanced';
-	import bw04 from '../../../lib/images/albertaRural/2017-03-18-171434_Nik.jpg?enhanced';
+	import bw04 from '../../../lib/images/albertaRural/2017-03-18-171434_Nik_Nik.jpg?enhanced';
 	import c04 from '../../../lib/images/albertaRural/2017-03-18-171434.jpg?enhanced';
 	import bw05 from '../../../lib/images/albertaRural/2017-03-18-173737_Nik.jpg?enhanced';
 	import c05 from '../../../lib/images/albertaRural/2017-03-18-173737.jpg?enhanced';
