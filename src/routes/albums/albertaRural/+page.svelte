@@ -13,10 +13,16 @@
 	import c04 from '../../../lib/images/albertaRural/2017-03-18-171434.jpg?enhanced';
 	import bw05 from '../../../lib/images/albertaRural/2017-03-18-173737_Nik.jpg?enhanced';
 	import c05 from '../../../lib/images/albertaRural/2017-03-18-173737.jpg?enhanced';
-	import bw06 from '../../../lib/images/albertaRural/2017-03-18-185538_Nik.jpg?enhanced';
-	import c06 from '../../../lib/images/albertaRural/2017-03-18-185538.jpg?enhanced';
-	// import bw07 from '../../../lib/images/albertaRural/2017-03-18-185538_Nik.jpg?enhanced';
-	// import c07 from '../../../lib/images/albertaRural/2017-03-18-185538.jpg?enhanced';
+	import bw06 from '../../../lib/images/albertaRural/2017-03-18-184657_Nik.jpg?enhanced';
+	import c06 from '../../../lib/images/albertaRural/2017-03-18-184657.jpg?enhanced';
+	import bw07 from '../../../lib/images/albertaRural/2017-03-18-185538_Nik.jpg?enhanced';
+	import c07 from '../../../lib/images/albertaRural/2017-03-18-185538.jpg?enhanced';
+	import bw08 from '../../../lib/images/albertaRural/2017-03-18-190511_Nik.jpg?enhanced';
+	import c08 from '../../../lib/images/albertaRural/2017-03-18-190511.jpg?enhanced';
+	import bw09 from '../../../lib/images/albertaRural/2017-03-26-164345_Nik.jpg?enhanced';
+	import c09 from '../../../lib/images/albertaRural/2017-03-26-164345.jpg?enhanced';
+	import bw10 from '../../../lib/images/albertaRural/2017-04-16-122041_Nik.jpg?enhanced';
+	import c10 from '../../../lib/images/albertaRural/2017-04-16-122041.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -63,14 +69,35 @@
 				caption: 'March, 2017'
 			},
 			{ image: c06, caption: ' ' }
+		],
+		[
+			{
+				image: bw07,
+				caption: 'March, 2017'
+			},
+			{ image: c07, caption: ' ' }
+		],
+		[
+			{
+				image: bw08,
+				caption: 'March, 2017'
+			},
+			{ image: c08, caption: ' ' }
+		],
+		[
+			{
+				image: bw09,
+				caption: 'March, 2017'
+			},
+			{ image: c09, caption: ' ' }
+		],
+		[
+			{
+				image: bw10,
+				caption: 'April, 2017'
+			},
+			{ image: c10, caption: ' ' }
 		]
-		// [
-		// 	{
-		// 		image: bw07,
-		// 		caption: 'March, 2017'
-		// 	},
-		// 	{ image: c07, caption: ' ' }
-		// ]
 	];
 </script>
 
