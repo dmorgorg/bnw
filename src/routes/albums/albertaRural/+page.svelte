@@ -15,6 +15,8 @@
 	import c05 from '../../../lib/images/albertaRural/2017-03-18-173737.jpg?enhanced';
 	import bw06 from '../../../lib/images/albertaRural/2017-03-18-185538_Nik.jpg?enhanced';
 	import c06 from '../../../lib/images/albertaRural/2017-03-18-185538.jpg?enhanced';
+	// import bw07 from '../../../lib/images/albertaRural/2017-03-18-185538_Nik.jpg?enhanced';
+	// import c07 from '../../../lib/images/albertaRural/2017-03-18-185538.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -61,14 +63,14 @@
 				caption: 'March, 2017'
 			},
 			{ image: c06, caption: ' ' }
-		],
-		[
-			{
-				image: bw07,
-				caption: 'March, 2017'
-			},
-			{ image: c07, caption: ' ' }
 		]
+		// [
+		// 	{
+		// 		image: bw07,
+		// 		caption: 'March, 2017'
+		// 	},
+		// 	{ image: c07, caption: ' ' }
+		// ]
 	];
 </script>
 
