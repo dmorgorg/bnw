@@ -39,6 +39,7 @@
 			<!-- <li>2024, Sri Lanka</li> -->
 			<!-- <li>2024, Spain</li> -->
 			<!-- <li>2025/26, Spain</li> -->
+			<li><a href="/albums/albertaRural">Alberta - Rural</a></li>
 			<li><a href="/albums/misc">Miscellany</a></li>
 		</ul>
 	{/if}
