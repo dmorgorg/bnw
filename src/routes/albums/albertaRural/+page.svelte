@@ -45,11 +45,83 @@
 	import c20 from '../../../lib/images/albertaRural/2019-04-19-153101.jpg?enhanced';
 	import bw21 from '../../../lib/images/albertaRural/2019-04-19-153440_Nik.jpg?enhanced';
 	import c21 from '../../../lib/images/albertaRural/2019-04-19-153440.jpg?enhanced';
+	import bw22 from '../../../lib/images/albertaRural/2020-07-25-181310_Nik.jpg?enhanced';
+	import c22 from '../../../lib/images/albertaRural/2020-07-25-181310.jpg?enhanced';
+	import bw23 from '../../../lib/images/albertaRural/2020-07-26-145207_Nik.jpg?enhanced';
+	import c23 from '../../../lib/images/albertaRural/2020-07-26-145207.jpg?enhanced';
+	import bw24 from '../../../lib/images/albertaRural/2020-07-26-145608_Nik.jpg?enhanced';
+	import c24 from '../../../lib/images/albertaRural/2020-07-26-145608.jpg?enhanced';
+	import bw25 from '../../../lib/images/albertaRural/2021-05-14-163657_Nik.jpg?enhanced';
+	import c25 from '../../../lib/images/albertaRural/2021-05-14-163657.jpg?enhanced';
+	import bw26 from '../../../lib/images/albertaRural/2021-05-14-183902_Nik.jpg?enhanced';
+	import c26 from '../../../lib/images/albertaRural/2021-05-14-183902.jpg?enhanced';
+	import bw27 from '../../../lib/images/albertaRural/2021-06-01-111555_Nik.jpg?enhanced';
+	import c27 from '../../../lib/images/albertaRural/2021-06-01-111555.jpg?enhanced';
+	import bw28 from '../../../lib/images/albertaRural/2021-10-17-142806_Nik.jpg?enhanced';
+	import c28 from '../../../lib/images/albertaRural/2021-10-17-142806.jpg?enhanced';
+	import bw29 from '../../../lib/images/albertaRural/2021-10-17-151904_Nik.jpg?enhanced';
+	import c29 from '../../../lib/images/albertaRural/2021-10-17-151904.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
 
 	const imagesArray = [
+		[
+			{
+				image: bw29,
+				caption: 'October, 2021'
+			},
+			{ image: c29, caption: ' ' }
+		],
+		[
+			{
+				image: bw28,
+				caption: 'October, 2021'
+			},
+			{ image: c28, caption: ' ' }
+		],
+		[
+			{
+				image: bw27,
+				caption: 'Somewhere to rest my head tonight! June, 2021'
+			},
+			{ image: c27, caption: ' ' }
+		],
+		[
+			{
+				image: bw26,
+				caption: 'May, 2021'
+			},
+			{ image: c26, caption: ' ' }
+		],
+		[
+			{
+				image: bw25,
+				caption: 'May, 2021'
+			},
+			{ image: c25, caption: ' ' }
+		],
+		[
+			{
+				image: bw24,
+				caption: 'July, 2020'
+			},
+			{ image: c24, caption: ' ' }
+		],
+		[
+			{
+				image: bw23,
+				caption: 'July, 2020'
+			},
+			{ image: c23, caption: ' ' }
+		],
+		[
+			{
+				image: bw22,
+				caption: 'July, 2020'
+			},
+			{ image: c22, caption: ' ' }
+		],
 		[
 			{
 				image: bw03,
