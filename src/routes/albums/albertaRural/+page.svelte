@@ -39,6 +39,12 @@
 	import c17 from '../../../lib/images/albertaRural/2017-03-26-185316.jpg?enhanced';
 	import bw18 from '../../../lib/images/albertaRural/2017-04-16-165309_Nik.jpg?enhanced';
 	import c18 from '../../../lib/images/albertaRural/2017-04-16-165309.jpg?enhanced';
+	import bw19 from '../../../lib/images/albertaRural/2019-04-19-152809_Nik.jpg?enhanced';
+	import c19 from '../../../lib/images/albertaRural/2019-04-19-152809.jpg?enhanced';
+	import bw20 from '../../../lib/images/albertaRural/2019-04-19-153101_Nik.jpg?enhanced';
+	import c20 from '../../../lib/images/albertaRural/2019-04-19-153101.jpg?enhanced';
+	import bw21 from '../../../lib/images/albertaRural/2019-04-19-153440_Nik.jpg?enhanced';
+	import c21 from '../../../lib/images/albertaRural/2019-04-19-153440.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -67,6 +73,20 @@
 		],
 		[
 			{
+				image: bw21,
+				caption: 'March, 2017'
+			},
+			{ image: c21, caption: ' ' }
+		],
+		// [
+		// 	{
+		// 		image: bw19,
+		// 		caption: 'March, 2017'
+		// 	},
+		// 	{ image: c19, caption: ' ' }
+		// ],
+		[
+			{
 				image: bw04,
 				caption: 'March, 2017'
 			},
@@ -86,6 +106,13 @@
 				caption: 'March, 2017'
 			},
 			{ image: c13, caption: ' ' }
+		],
+		[
+			{
+				image: bw20,
+				caption: 'March, 2017'
+			},
+			{ image: c20, caption: ' ' }
 		],
 		[
 			{
