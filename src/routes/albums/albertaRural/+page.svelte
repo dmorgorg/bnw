@@ -9,7 +9,7 @@
 	import c02 from '../../../lib/images/albertaRural/2017-03-18-173645.jpg?enhanced';
 	import bw03 from '../../../lib/images/albertaRural/2017-03-18-154952_Nik.jpg?enhanced';
 	import c03 from '../../../lib/images/albertaRural/2017-03-18-154952.jpg?enhanced';
-	import bw04 from '../../../lib/images/albertaRural/2017-03-18-171434_Nik_Nik.jpg?enhanced';
+	import bw04 from '../../../lib/images/albertaRural/2017-03-18-171434_Nik.jpg?enhanced';
 	import c04 from '../../../lib/images/albertaRural/2017-03-18-171434.jpg?enhanced';
 	import bw05 from '../../../lib/images/albertaRural/2017-03-18-173737_Nik.jpg?enhanced';
 	import c05 from '../../../lib/images/albertaRural/2017-03-18-173737.jpg?enhanced';
@@ -23,6 +23,22 @@
 	import c09 from '../../../lib/images/albertaRural/2017-03-26-164345.jpg?enhanced';
 	import bw10 from '../../../lib/images/albertaRural/2017-04-16-122041_Nik.jpg?enhanced';
 	import c10 from '../../../lib/images/albertaRural/2017-04-16-122041.jpg?enhanced';
+	import bw11 from '../../../lib/images/albertaRural/2017-03-18-151022_Nik.jpg?enhanced';
+	import c11 from '../../../lib/images/albertaRural/2017-03-18-151022.jpg?enhanced';
+	import bw12 from '../../../lib/images/albertaRural/2017-03-18-151119_Nik.jpg?enhanced';
+	import c12 from '../../../lib/images/albertaRural/2017-03-18-151119.jpg?enhanced';
+	import bw13 from '../../../lib/images/albertaRural/2017-03-18-173856_Nik.jpg?enhanced';
+	import c13 from '../../../lib/images/albertaRural/2017-03-18-173856.jpg?enhanced';
+	import bw14 from '../../../lib/images/albertaRural/2017-03-18-183454_Nik.jpg?enhanced';
+	import c14 from '../../../lib/images/albertaRural/2017-03-18-183454.jpg?enhanced';
+	import bw15 from '../../../lib/images/albertaRural/2017-03-18-183614_Nik.jpg?enhanced';
+	import c15 from '../../../lib/images/albertaRural/2017-03-18-183614.jpg?enhanced';
+	import bw16 from '../../../lib/images/albertaRural/2017-03-26-172300_Nik.jpg?enhanced';
+	import c16 from '../../../lib/images/albertaRural/2017-03-26-172300.jpg?enhanced';
+	import bw17 from '../../../lib/images/albertaRural/2017-03-26-185316_Nik.jpg?enhanced';
+	import c17 from '../../../lib/images/albertaRural/2017-03-26-185316.jpg?enhanced';
+	import bw18 from '../../../lib/images/albertaRural/2017-04-16-165309_Nik.jpg?enhanced';
+	import c18 from '../../../lib/images/albertaRural/2017-04-16-165309.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -37,18 +53,26 @@
 		],
 		[
 			{
-				image: bw04,
-				caption: 'March, 2017'
-			},
-			{ image: c04, caption: ' ' }
-		],
-		[
-			{
 				image: bw01,
 				caption: 'March, 2017'
 			},
 			{ image: c01, caption: ' ' }
 		],
+		[
+			{
+				image: bw17,
+				caption: 'March, 2017'
+			},
+			{ image: c17, caption: ' ' }
+		],
+		[
+			{
+				image: bw04,
+				caption: 'March, 2017'
+			},
+			{ image: c04, caption: ' ' }
+		],
+
 		[
 			{
 				image: bw02,
@@ -58,11 +82,55 @@
 		],
 		[
 			{
-				image: bw05,
+				image: bw13,
 				caption: 'March, 2017'
 			},
-			{ image: c05, caption: ' ' }
+			{ image: c13, caption: ' ' }
 		],
+		[
+			{
+				image: bw14,
+				caption: 'March, 2017'
+			},
+			{ image: c14, caption: ' ' }
+		],
+		[
+			{
+				image: bw15,
+				caption: 'March, 2017'
+			},
+			{ image: c15, caption: ' ' }
+		],
+		[
+			{
+				image: bw16,
+				caption: 'March, 2017'
+			},
+			{ image: c16, caption: ' ' }
+		],
+
+		[
+			{
+				image: bw11,
+				caption: 'March, 2017'
+			},
+			{ image: c11, caption: ' ' }
+		],
+		[
+			{
+				image: bw12,
+				caption: 'March, 2017'
+			},
+			{ image: c12, caption: ' ' }
+		],
+		[
+			{
+				image: bw18,
+				caption: 'April, 2017'
+			},
+			{ image: c18, caption: ' ' }
+		],
+
 		[
 			{
 				image: bw06,
