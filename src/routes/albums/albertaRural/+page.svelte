@@ -319,7 +319,7 @@
 			},
 			{ image: c09, caption: ' ' }
 		],
-		// 27
+		// 28
 		[
 			{
 				// inside church
@@ -327,14 +327,24 @@
 				caption: 'March, 2017'
 			},
 			{ image: c16, caption: ' ' }
-		][
-			// 28
-			({
+		],
+		// 29
+		[
+			{
 				// canada geese
 				image: bw10,
 				caption: 'March, 2017'
 			},
-			{ image: c10, caption: ' ' })
+			{ image: c10, caption: ' ' }
+		],
+		// 30
+		[
+			{
+				// line of trees
+				image: bw08,
+				caption: 'March, 2017'
+			},
+			{ image: c08, caption: ' ' }
 		]
 
 		////////////////////////////////////////////////////////////////////////////////////////////////
