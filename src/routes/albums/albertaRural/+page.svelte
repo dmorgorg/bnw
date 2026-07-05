@@ -39,10 +39,10 @@
 	import c17 from '../../../lib/images/albertaRural/2017-03-26-185316.jpg?enhanced';
 	import bw18 from '../../../lib/images/albertaRural/2017-04-16-165309_Nik.jpg?enhanced';
 	import c18 from '../../../lib/images/albertaRural/2017-04-16-165309.jpg?enhanced';
-	import bw19 from '../../../lib/images/albertaRural/2019-04-19-152809_Nik.jpg?enhanced';
-	import c19 from '../../../lib/images/albertaRural/2019-04-19-152809.jpg?enhanced';
-	import bw20 from '../../../lib/images/albertaRural/2019-04-19-153101_Nik.jpg?enhanced';
-	import c20 from '../../../lib/images/albertaRural/2019-04-19-153101.jpg?enhanced';
+	import bw19 from '../../../lib/images/albertaRural/2019-04-19-152556_Nik.jpg?enhanced';
+	import c19 from '../../../lib/images/albertaRural/2019-04-19-152556.jpg?enhanced';
+	// import bw20 from '../../../lib/images/albertaRural/2019-04-19-153101_Nik.jpg?enhanced';
+	// import c20 from '../../../lib/images/albertaRural/2019-04-19-153101.jpg?enhanced';
 	import bw21 from '../../../lib/images/albertaRural/2019-04-19-153440_Nik.jpg?enhanced';
 	import c21 from '../../../lib/images/albertaRural/2019-04-19-153440.jpg?enhanced';
 	import bw22 from '../../../lib/images/albertaRural/2020-07-25-181310_Nik.jpg?enhanced';
@@ -61,131 +61,70 @@
 	import c28 from '../../../lib/images/albertaRural/2021-10-17-142806.jpg?enhanced';
 	import bw29 from '../../../lib/images/albertaRural/2021-10-17-151904_Nik.jpg?enhanced';
 	import c29 from '../../../lib/images/albertaRural/2021-10-17-151904.jpg?enhanced';
+	import bw30 from '../../../lib/images/albertaRural/2019-04-19-153704_Nik.jpg?enhanced';
+	import c30 from '../../../lib/images/albertaRural/2019-04-19-153704.jpg?enhanced';
+	import bw31 from '../../../lib/images/albertaRural/2011-10-08-135339_Nik.jpg?enhanced';
+	import c31 from '../../../lib/images/albertaRural/2011-10-08-135339.jpg?enhanced';
+	import bw32 from '../../../lib/images/albertaRural/2011-10-08-135502_Nik.jpg?enhanced';
+	import c32 from '../../../lib/images/albertaRural/2011-10-08-135502.jpg?enhanced';
+	import bw33 from '../../../lib/images/albertaRural/2011-10-29-160104_Nik.jpg?enhanced';
+	import c33 from '../../../lib/images/albertaRural/2011-10-29-160104.jpg?enhanced';
+	import bw34 from '../../../lib/images/albertaRural/2017-03-18-155220_Nik.jpg?enhanced';
+	import c34 from '../../../lib/images/albertaRural/2017-03-18-155220.jpg?enhanced';
+	import bw35 from '../../../lib/images/albertaRural/2017-03-18-155528_Nik.jpg?enhanced';
+	import c35 from '../../../lib/images/albertaRural/2017-03-18-155528.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
 
 	const imagesArray = [
+		// 1
 		[
 			{
-				image: bw29,
-				caption: 'October, 2021'
-			},
-			{ image: c29, caption: ' ' }
-		],
-		[
-			{
+				// abandoned gambrel house, trees, dramatic sky, 4/3
 				image: bw28,
 				caption: 'October, 2021'
 			},
 			{ image: c28, caption: ' ' }
 		],
+		// 2
 		[
 			{
-				image: bw27,
-				caption: 'Somewhere to rest my head tonight! June, 2021'
+				// abandoned house, square photo, unexceptional
+				image: bw29,
+				caption: 'October, 2021'
 			},
-			{ image: c27, caption: ' ' }
-		],
-		[
-			{
-				image: bw26,
-				caption: 'May, 2021'
-			},
-			{ image: c26, caption: ' ' }
-		],
-		[
-			{
-				image: bw25,
-				caption: 'May, 2021'
-			},
-			{ image: c25, caption: ' ' }
-		],
-		[
-			{
-				image: bw24,
-				caption: 'July, 2020'
-			},
-			{ image: c24, caption: ' ' }
-		],
-		[
-			{
-				image: bw23,
-				caption: 'July, 2020'
-			},
-			{ image: c23, caption: ' ' }
-		],
-		[
-			{
-				image: bw22,
-				caption: 'July, 2020'
-			},
-			{ image: c22, caption: ' ' }
-		],
-		[
-			{
-				image: bw03,
-				caption: 'March, 2017'
-			},
-			{ image: c03, caption: ' ' }
-		],
-		[
-			{
-				image: bw01,
-				caption: 'March, 2017'
-			},
-			{ image: c01, caption: ' ' }
-		],
-		[
-			{
-				image: bw17,
-				caption: 'March, 2017'
-			},
-			{ image: c17, caption: ' ' }
-		],
-		[
-			{
-				image: bw21,
-				caption: 'March, 2017'
-			},
-			{ image: c21, caption: ' ' }
-		],
-		// [
-		// 	{
-		// 		image: bw19,
-		// 		caption: 'March, 2017'
-		// 	},
-		// 	{ image: c19, caption: ' ' }
-		// ],
-		[
-			{
-				image: bw04,
-				caption: 'March, 2017'
-			},
-			{ image: c04, caption: ' ' }
+			{ image: c29, caption: ' ' }
 		],
 
+		// 3
 		[
 			{
+				// abandoned barn, two trees, a favouring
 				image: bw02,
 				caption: 'March, 2017'
 			},
 			{ image: c02, caption: ' ' }
 		],
+		// 4
 		[
 			{
+				// same barn, full frontal
 				image: bw13,
 				caption: 'March, 2017'
 			},
 			{ image: c13, caption: ' ' }
 		],
+		// 5
 		[
 			{
-				image: bw20,
+				// same barn, powerful sky
+				image: bw05,
 				caption: 'March, 2017'
 			},
-			{ image: c20, caption: ' ' }
+			{ image: c05, caption: ' ' }
 		],
+		// 6
 		[
 			{
 				image: bw14,
@@ -193,78 +132,212 @@
 			},
 			{ image: c14, caption: ' ' }
 		],
+		// 7
 		[
 			{
+				// house, modern barn, wind generator
 				image: bw15,
 				caption: 'March, 2017'
 			},
 			{ image: c15, caption: ' ' }
 		],
+		// 8
 		[
 			{
-				image: bw16,
-				caption: 'March, 2017'
+				// with range outside
+				image: bw30,
+				caption: 'April, 2019'
 			},
-			{ image: c16, caption: ' ' }
+			{ image: c30, caption: ' ' }
 		],
-
+		// 9
 		[
 			{
+				image: bw19,
+				caption: 'April, 2019'
+			},
+			{ image: c19, caption: ' ' }
+		],
+		// 10
+		[
+			{
+				// interior abandoned meh
 				image: bw11,
 				caption: 'March, 2017'
 			},
 			{ image: c11, caption: ' ' }
 		],
+		// 11
 		[
 			{
+				// interior
 				image: bw12,
 				caption: 'March, 2017'
 			},
 			{ image: c12, caption: ' ' }
 		],
+		// 12
 		[
 			{
+				// abandoned clothes
 				image: bw18,
-				caption: 'April, 2017'
+				caption: 'There must be a story here... April, 2017'
 			},
 			{ image: c18, caption: ' ' }
 		],
-
+		// 13
 		[
 			{
+				// pump, prairie
+				image: bw25,
+				caption: 'May, 2021'
+			},
+			{ image: c25, caption: ' ' }
+		],
+		// 14
+		[
+			{
+				// owl
+				image: bw24,
+				caption: 'July, 2020'
+			},
+			{ image: c24, caption: ' ' }
+		],
+		// 15
+		[
+			{
+				// old farm machinery
+				image: bw21,
+				caption: 'April, 2019'
+			},
+			{ image: c21, caption: ' ' }
+		],
+		// 16
+		[
+			{
+				image: bw03,
+				caption: 'March, 2017'
+			},
+			{ image: c03, caption: ' ' }
+		],
+		// 17
+		[
+			{
+				// cotter pin close up
+				image: bw01,
+				caption: 'March, 2017'
+			},
+			{ image: c01, caption: ' ' }
+		],
+		// 18
+		[
+			{
+				// farm machinery, harvester?
+				image: bw17,
+				caption: 'March, 2017'
+			},
+			{ image: c17, caption: ' ' }
+		],
+		// 19
+		[
+			{
+				// old car door handle
 				image: bw06,
 				caption: 'March, 2017'
 			},
 			{ image: c06, caption: ' ' }
 		],
+		// 20
 		[
 			{
+				// service station window
 				image: bw07,
 				caption: 'March, 2017'
 			},
 			{ image: c07, caption: ' ' }
 		],
+		// 21
 		[
 			{
-				image: bw08,
+				// old gas pump
+				image: bw04,
 				caption: 'March, 2017'
 			},
-			{ image: c08, caption: ' ' }
+			{ image: c04, caption: ' ' }
 		],
+		// 22
 		[
 			{
+				// grain field with bales
+				image: bw31,
+				caption: 'October, 2011'
+			},
+			{ image: c31, caption: ' ' }
+		],
+		// 23
+		[
+			{
+				// grain field with bales
+				image: bw32,
+				caption: 'October, 2011'
+			},
+			{ image: c32, caption: ' ' }
+		],
+		// 24
+		[
+			{
+				// tree with mountains
+				image: bw33,
+				caption: 'October, 2011'
+			},
+			{ image: c33, caption: ' ' }
+		],
+		// 25
+		[
+			{
+				// grain elevators
+				image: bw34,
+				caption: 'October, 2011'
+			},
+			{ image: c34, caption: ' ' }
+		],
+		// 26
+		[
+			{
+				// grain elevator
+				image: bw35,
+				caption: 'October, 2011'
+			},
+			{ image: c35, caption: ' ' }
+		],
+		// 27
+		[
+			{
+				// old mine?
 				image: bw09,
 				caption: 'March, 2017'
 			},
 			{ image: c09, caption: ' ' }
 		],
+		// 27
 		[
 			{
-				image: bw10,
-				caption: 'April, 2017'
+				// inside church
+				image: bw16,
+				caption: 'March, 2017'
 			},
-			{ image: c10, caption: ' ' }
+			{ image: c16, caption: ' ' }
+		][
+			// 28
+			({
+				// canada geese
+				image: bw10,
+				caption: 'March, 2017'
+			},
+			{ image: c10, caption: ' ' })
 		]
+
+		////////////////////////////////////////////////////////////////////////////////////////////////
 	];
 </script>
 
