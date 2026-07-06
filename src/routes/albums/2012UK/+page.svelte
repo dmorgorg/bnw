@@ -58,7 +58,7 @@
 			{
 				image: bw08,
 				caption:
-					"Memorial for a 14 year old cabin boy who was lost when the Iota, from Naples, sank just before Christmas in 1893. <br/>Saint Materiana's Church, Boscastle, Cornwall. July, 2012"
+					"Memorial for a 14 year old cabin boy who was lost when the Iota, from Naples, sank just before Christmas in 1893. <br/> Saint Materiana's Church, Boscastle, Cornwall. July, 2012"
 			},
 			{ image: c08, caption: ' ' }
 		],
