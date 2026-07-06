@@ -297,7 +297,7 @@
 			{
 				// grain elevators
 				image: bw34,
-				caption: 'October, 2011'
+				caption: 'March, 2017'
 			},
 			{ image: c34, caption: ' ' }
 		],
@@ -306,7 +306,7 @@
 			{
 				// grain elevator
 				image: bw35,
-				caption: 'October, 2011'
+				caption: 'March, 2017'
 			},
 			{ image: c35, caption: ' ' }
 		],
@@ -333,7 +333,7 @@
 			{
 				// canada geese
 				image: bw10,
-				caption: 'March, 2017'
+				caption: 'April, 2017'
 			},
 			{ image: c10, caption: ' ' }
 		],
