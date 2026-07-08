@@ -73,6 +73,8 @@
 	import c34 from '../../../lib/images/albertaRural/2017-03-18-155220.jpg?enhanced';
 	import bw35 from '../../../lib/images/albertaRural/2017-03-18-155528_Nik.jpg?enhanced';
 	import c35 from '../../../lib/images/albertaRural/2017-03-18-155528.jpg?enhanced';
+	import bw36 from '../../../lib/images/albertaRural/2021-10-17-152517_Nik.jpg?enhanced';
+	import c36 from '../../../lib/images/albertaRural/2021-10-17-152517.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -141,7 +143,9 @@
 			},
 			{ image: c15, caption: ' ' }
 		],
+
 		// 8
+
 		[
 			{
 				// with range outside
@@ -159,6 +163,14 @@
 			{ image: c19, caption: ' ' }
 		],
 		// 10
+		[
+			{
+				// another barn, with a fence
+				image: bw36,
+				caption: 'October, 2021'
+			},
+			{ image: c36, caption: ' ' }
+		],
 		[
 			{
 				// interior abandoned meh
