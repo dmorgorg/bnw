@@ -1,4 +1,5 @@
 <script>
+	import { fade } from 'svelte/transition';
 	let { hIndex, vIndex, imagesArray } = $props();
 
 	// svelte-ignore state_referenced_locally
@@ -6,21 +7,23 @@
 	console.log(imagesArray.length);
 </script>
 
-<div class="wrapper">
-	<div class="imageFrame">
-		<enhanced:img
-			src={imagesArray[Number(hIndex)][Number(vIndex)].image}
-			sizes="(min-width:1920px) 1800px, (min-width:1080px) 1080px, (min-width:768px) 768px"
-			alt=""
-		/>
-	</div>
-	<div class="caption">
-		<div>
-			<strong>Image {hIndex + 1}/{imagesArray.length}. </strong> &nbsp;
-			{@html imagesArray[Number(hIndex)][0].caption}
+{#key `${hIndex}-${vIndex}`}
+	<div class="wrapper" out:fade={{ duration: 500 }} in:fade={{ duration: 1000, delay: 500 }}>
+		<div class="imageFrame">
+			<enhanced:img
+				src={imagesArray[Number(hIndex)][Number(vIndex)].image}
+				sizes="(min-width:1920px) 1800px, (min-width:1080px) 1080px, (min-width:768px) 768px"
+				alt=""
+			/>
+		</div>
+		<div class="caption">
+			<div>
+				<strong>Image {hIndex + 1}/{imagesArray.length}. </strong> &nbsp;
+				{@html imagesArray[Number(hIndex)][0].caption}
+			</div>
 		</div>
 	</div>
-</div>
+{/key}
 
 <style lang="scss">
 	.wrapper {
@@ -34,6 +37,10 @@
 		margin-inline: auto;
 		margin-top: max(12.5vh, 3.5em);
 	}
+
+	// .imageFrame {
+	// 	border: 3px red solid;
+	// }
 
 	enhanced\:img {
 		height: auto;

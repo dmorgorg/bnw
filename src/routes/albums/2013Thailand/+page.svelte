@@ -31,14 +31,14 @@
 		[
 			{
 				image: bw02,
-				caption: 'Prachuap Kiri Khan.. May, 2013'
+				caption: 'Prachuap Kiri Khan. May, 2013'
 			},
 			{ image: c02, caption: ' ' }
 		],
 		[
 			{
 				image: bw03,
-				caption: 'Prachuap Kiri Khan., 2013'
+				caption: 'Prachuap Kiri Khan. May, 2013'
 			},
 			{ image: c03, caption: ' ' }
 		]
