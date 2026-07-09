@@ -16,6 +16,10 @@
 	import c06 from '../../../lib/images/2013India/2013-05-15-175029.jpg?enhanced';
 	import bw07 from '../../../lib/images/2013India/2013-05-23-142227_Nik.jpg?enhanced';
 	import c07 from '../../../lib/images/2013India/2013-05-23-142227.jpg?enhanced';
+	import bw08 from '../../../lib/images/2013India/2013-05-13-144002_Nik.jpg?enhanced';
+	import c08 from '../../../lib/images/2013India/2013-05-13-144002.jpg?enhanced';
+	import bw09 from '../../../lib/images/2013India/2013-05-13-144948_Nik.jpg?enhanced';
+	import c09 from '../../../lib/images/2013India/2013-05-13-144948.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -34,6 +38,20 @@
 				caption: 'School bus in Delhi. May, 2013'
 			},
 			{ image: c02, caption: ' ' }
+		],
+		[
+			{
+				image: bw08,
+				caption: 'A reasonable lunch of roti. Simla. May, 2013'
+			},
+			{ image: c08, caption: ' ' }
+		],
+		[
+			{
+				image: bw09,
+				caption: 'Simla. May, 2013'
+			},
+			{ image: c09, caption: ' ' }
 		],
 		[
 			{
