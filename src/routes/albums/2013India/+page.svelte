@@ -28,6 +28,8 @@
 	import c12 from '../../../lib/images/2013India/2013-05-17-170845.jpg?enhanced';
 	import bw13 from '../../../lib/images/2013India/2013-05-18-110809_Nik.jpg?enhanced';
 	import c13 from '../../../lib/images/2013India/2013-05-18-110809.jpg?enhanced';
+	import bw14 from '../../../lib/images/2013India/2013-05-18-111050_Nik.jpg?enhanced';
+	import c14 from '../../../lib/images/2013India/2013-05-18-111050.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -46,20 +48,6 @@
 				caption: 'School bus in Delhi. May, 2013'
 			},
 			{ image: c02, caption: ' ' }
-		],
-		[
-			{
-				image: bw08,
-				caption: 'Shimla. May, 2013'
-			},
-			{ image: c08, caption: ' ' }
-		],
-		[
-			{
-				image: bw09,
-				caption: 'A reasonable lunch of roti from this kind gentleman. Shimla. May, 2013'
-			},
-			{ image: c09, caption: ' ' }
 		],
 		[
 			{
@@ -82,6 +70,21 @@
 			},
 			{ image: c05, caption: ' ' }
 		],
+		[
+			{
+				image: bw08,
+				caption: 'Shimla. May, 2013'
+			},
+			{ image: c08, caption: ' ' }
+		],
+		[
+			{
+				image: bw09,
+				caption: 'A reasonable lunch of roti from this kind gentleman. Shimla. May, 2013'
+			},
+			{ image: c09, caption: ' ' }
+		],
+
 		[
 			{
 				image: bw06,
@@ -116,6 +119,13 @@
 				caption: 'Is this my bus? Shimla. May, 2013'
 			},
 			{ image: c13, caption: ' ' }
+		],
+		[
+			{
+				image: bw14,
+				caption: 'On the bus to Dharmshala. May, 2013'
+			},
+			{ image: c14, caption: ' ' }
 		],
 		[
 			{
