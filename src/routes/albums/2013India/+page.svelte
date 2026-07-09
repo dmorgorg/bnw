@@ -20,6 +20,14 @@
 	import c08 from '../../../lib/images/2013India/2013-05-13-144002.jpg?enhanced';
 	import bw09 from '../../../lib/images/2013India/2013-05-13-144948_Nik.jpg?enhanced';
 	import c09 from '../../../lib/images/2013India/2013-05-13-144948.jpg?enhanced';
+	import bw10 from '../../../lib/images/2013India/2013-05-17-135254_Nik.jpg?enhanced';
+	import c10 from '../../../lib/images/2013India/2013-05-17-135254.jpg?enhanced';
+	import bw11 from '../../../lib/images/2013India/2013-05-17-141954_Nik.jpg?enhanced';
+	import c11 from '../../../lib/images/2013India/2013-05-17-141954.jpg?enhanced';
+	import bw12 from '../../../lib/images/2013India/2013-05-17-170845_Nik.jpg?enhanced';
+	import c12 from '../../../lib/images/2013India/2013-05-17-170845.jpg?enhanced';
+	import bw13 from '../../../lib/images/2013India/2013-05-18-110809_Nik.jpg?enhanced';
+	import c13 from '../../../lib/images/2013India/2013-05-18-110809.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -42,44 +50,72 @@
 		[
 			{
 				image: bw08,
-				caption: 'A reasonable lunch of roti. Simla. May, 2013'
+				caption: 'Shimla. May, 2013'
 			},
 			{ image: c08, caption: ' ' }
 		],
 		[
 			{
 				image: bw09,
-				caption: 'Simla. May, 2013'
+				caption: 'A reasonable lunch of roti from this kind gentleman. Shimla. May, 2013'
 			},
 			{ image: c09, caption: ' ' }
 		],
 		[
 			{
 				image: bw03,
-				caption: 'Simla. May, 2013'
+				caption: 'Shimla. May, 2013'
 			},
 			{ image: c03, caption: ' ' }
 		],
 		[
 			{
 				image: bw04,
-				caption: 'Simla. May, 2013'
+				caption: 'Shimla. May, 2013'
 			},
 			{ image: c04, caption: ' ' }
 		],
 		[
 			{
 				image: bw05,
-				caption: 'Simla. May, 2013'
+				caption: 'Shimla. May, 2013'
 			},
 			{ image: c05, caption: ' ' }
 		],
 		[
 			{
 				image: bw06,
-				caption: 'Simla. May, 2013'
+				caption: 'Shimla. May, 2013'
 			},
 			{ image: c06, caption: ' ' }
+		],
+		[
+			{
+				image: bw10,
+				caption: 'Peppers, limes and ginger. Shimla. May, 2013'
+			},
+			{ image: c10, caption: ' ' }
+		],
+		[
+			{
+				image: bw11,
+				caption: 'Sign painter. Shimla. May, 2013'
+			},
+			{ image: c11, caption: ' ' }
+		],
+		[
+			{
+				image: bw12,
+				caption: 'Some of the local constabulary. Shimla. May, 2013'
+			},
+			{ image: c12, caption: ' ' }
+		],
+		[
+			{
+				image: bw13,
+				caption: 'Is this my bus? Shimla. May, 2013'
+			},
+			{ image: c13, caption: ' ' }
 		],
 		[
 			{
