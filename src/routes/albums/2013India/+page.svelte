@@ -30,6 +30,12 @@
 	import c13 from '../../../lib/images/2013India/2013-05-18-110809.jpg?enhanced';
 	import bw14 from '../../../lib/images/2013India/2013-05-18-111050_Nik.jpg?enhanced';
 	import c14 from '../../../lib/images/2013India/2013-05-18-111050.jpg?enhanced';
+	import bw15 from '../../../lib/images/2013India/2013-05-18-162510_Nik.jpg?enhanced';
+	import c15 from '../../../lib/images/2013India/2013-05-18-162510.jpg?enhanced';
+	import bw16 from '../../../lib/images/2013India/2013-05-20-144015_Nik.jpg?enhanced';
+	import c16 from '../../../lib/images/2013India/2013-05-20-144015.jpg?enhanced';
+	import bw17 from '../../../lib/images/2013India/2013-05-23-142227_Nik.jpg?enhanced';
+	import c17 from '../../../lib/images/2013India/2013-05-23-142227.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -116,21 +122,45 @@
 		[
 			{
 				image: bw13,
-				caption: 'Is this my bus? Shimla. May, 2013'
+				caption: 'Is this my bus?  Shimla. May, 2013'
 			},
 			{ image: c13, caption: ' ' }
 		],
 		[
 			{
 				image: bw14,
-				caption: 'On the bus to Dharmshala. May, 2013'
+				caption: 'On the bus to Dharamshala. May, 2013'
 			},
 			{ image: c14, caption: ' ' }
 		],
 		[
 			{
+				image: bw15,
+				caption:
+					"Bus travel is less relaxing than taking the train - but the train doesn't go everywhere. Between Shimla and Dharamshala. <br/> Himachal Pradesh. May, 2013"
+			},
+			{ image: c15, caption: ' ' }
+		],
+		[
+			{
+				image: bw16,
+				caption:
+					"Bus travel is less relaxing than taking the train - but the train doesn't go everywhere. Between Shimla and Dharamshala. <br/> Himachal Pradesh. May, 2013"
+			},
+			{ image: c16, caption: ' ' }
+		],
+		[
+			{
+				image: bw17,
+				caption:
+					"Bus travel is less relaxing than taking the train - but the train doesn't go everywhere. Between Shimla and Dharamshala. <br/> Himachal Pradesh. May, 2013"
+			},
+			{ image: c17, caption: ' ' }
+		],
+		[
+			{
 				image: bw07,
-				caption: 'Triund, above Dharamsala. May, 2013'
+				caption: 'Triund, above Dharamshala. May, 2013'
 			},
 			{ image: c07, caption: ' ' }
 		]
