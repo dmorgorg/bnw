@@ -8,7 +8,7 @@
 </script>
 
 {#key `${hIndex}-${vIndex}`}
-	<div class="wrapper" out:fade={{ duration: 500 }} in:fade={{ duration: 1000, delay: 500 }}>
+	<div class="wrapper" out:fade={{ duration: 500 }} in:fade={{ duration: 1500, delay: 500 }}>
 		<div class="imageFrame">
 			<enhanced:img
 				src={imagesArray[Number(hIndex)][Number(vIndex)].image}
