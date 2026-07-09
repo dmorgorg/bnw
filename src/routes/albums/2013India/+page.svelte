@@ -40,6 +40,14 @@
 	import c18 from '../../../lib/images/2013India/2013-05-21-180337.jpg?enhanced';
 	import bw19 from '../../../lib/images/2013India/2013-05-21-192724_Nik.jpg?enhanced';
 	import c19 from '../../../lib/images/2013India/2013-05-21-192724.jpg?enhanced';
+	import bw20 from '../../../lib/images/2013India/2013-05-23-162815_Nik.jpg?enhanced';
+	import c20 from '../../../lib/images/2013India/2013-05-23-162815.jpg?enhanced';
+	import bw21 from '../../../lib/images/2013India/2013-05-27-161937_Nik.jpg?enhanced';
+	import c21 from '../../../lib/images/2013India/2013-05-27-161937.jpg?enhanced';
+	import bw22 from '../../../lib/images/2013India/2013-05-27-163723_Nik.jpg?enhanced';
+	import c22 from '../../../lib/images/2013India/2013-05-27-163723.jpg?enhanced';
+	import bw23 from '../../../lib/images/2013India/2013-05-29-150251_Nik.jpg?enhanced';
+	import c23 from '../../../lib/images/2013India/2013-05-29-150251.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -133,7 +141,7 @@
 		[
 			{
 				image: bw14,
-				caption: 'On the bus to Dharamshala. May, 2013'
+				caption: 'On the bus to Dharamsala. May, 2013'
 			},
 			{ image: c14, caption: ' ' }
 		],
@@ -141,7 +149,7 @@
 			{
 				image: bw15,
 				caption:
-					"Bus travel is less relaxing than taking the train - but the train doesn't go everywhere.<br/> Between Shimla and Dharamshala, Himachal Pradesh. May, 2013"
+					"Bus travel is less relaxing than taking the train - but the train doesn't go everywhere.<br/> Between Shimla and Dharamsala, Himachal Pradesh. May, 2013"
 			},
 			{ image: c15, caption: ' ' }
 		],
@@ -149,37 +157,65 @@
 			{
 				image: bw16,
 				caption:
-					'Dharamshala is home to the Dalai Lama; there is a sizeable community of Tibetan refugees.  They are an enterprising lot. <br/>Dharamshala. May, 2013'
+					'Dharamsala is home to the Dalai Lama; there is a sizeable community of Tibetan refugees. And Westerners into Buddhism. <br/>Dharamsala. May, 2013'
 			},
 			{ image: c16, caption: ' ' }
 		],
 		[
 			{
 				image: bw17,
-				caption: ' <br/> Shiva Caf&eacute;, Dharamshala. May, 2013'
+				caption: ' <br/> Shiva Caf&eacute;, Dharamsala. May, 2013'
 			},
 			{ image: c17, caption: ' ' }
 		],
 		[
 			{
 				image: bw18,
-				caption: ' <br/> Shiva Caf&eacute;, Dharamshala. May, 2013'
+				caption: ' <br/> Shiva Caf&eacute;, Dharamsala. May, 2013'
 			},
 			{ image: c18, caption: ' ' }
 		],
 		[
 			{
 				image: bw19,
-				caption: " <br/> A variation on shove-ha'penny? Dharamshala. May, 2013"
+				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
 			},
 			{ image: c19, caption: ' ' }
 		],
 		[
 			{
+				image: bw20,
+				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
+			},
+			{ image: c20, caption: ' ' }
+		],
+		[
+			{
 				image: bw07,
-				caption: 'Triund, above Dharamshala. May, 2013'
+				caption: 'Triund, above Dharamsala. May, 2013'
 			},
 			{ image: c07, caption: ' ' }
+		],
+		[
+			{
+				image: bw21,
+				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
+			},
+			{ image: c21, caption: ' ' }
+		],
+		[
+			{
+				image: bw22,
+				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
+			},
+			{ image: c22, caption: ' ' }
+		],
+		[
+			{
+				image: bw23,
+				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
+			},
+			{ image: c23, caption: ' ' }
 		]
 	];
 </script>
