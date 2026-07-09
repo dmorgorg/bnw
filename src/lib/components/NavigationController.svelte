@@ -89,7 +89,7 @@
 		/* color: red; */
 		cursor: pointer;
 		border: none;
-		font-size: 3.5vh;
+		font-size: clamp(12px, 3.5vh, 30px);
 		margin: 0;
 		outline: inherit;
 		padding: 0;

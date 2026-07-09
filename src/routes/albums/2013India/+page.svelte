@@ -98,7 +98,8 @@
 		[
 			{
 				image: bw09,
-				caption: 'A reasonable lunch of roti from this kind gentleman. Shimla. May, 2013'
+				caption:
+					'A reasonable lunch of roti and curd was provided by this kind gentleman. Shimla. May, 2013'
 			},
 			{ image: c09, caption: ' ' }
 		],
@@ -157,21 +158,21 @@
 			{
 				image: bw16,
 				caption:
-					'Dharamsala is home to the Dalai Lama; there is a sizeable community of Tibetan refugees. And Westerners into Buddhism. <br/>Dharamsala. May, 2013'
+					'Dharamsala is home to the Dalai Lama; there is a sizeable community of Tibetan refugees. <br/>And Westerners into Buddhism. Dharamsala. May, 2013'
 			},
 			{ image: c16, caption: ' ' }
 		],
 		[
 			{
 				image: bw17,
-				caption: ' <br/> Shiva Caf&eacute;, Dharamsala. May, 2013'
+				caption: ' <br/> Near Shiva Caf&eacute;, Dharamsala. May, 2013'
 			},
 			{ image: c17, caption: ' ' }
 		],
 		[
 			{
 				image: bw18,
-				caption: ' <br/> Shiva Caf&eacute;, Dharamsala. May, 2013'
+				caption: ' <br/> Near Shiva Caf&eacute;, Dharamsala. May, 2013'
 			},
 			{ image: c18, caption: ' ' }
 		],
@@ -185,7 +186,7 @@
 		[
 			{
 				image: bw20,
-				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
+				caption: ' <br/> Getting a new look for the summer. Dharamsala. May, 2013'
 			},
 			{ image: c20, caption: ' ' }
 		],
@@ -199,21 +200,21 @@
 		[
 			{
 				image: bw21,
-				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
+				caption: 'Dharamsala. May, 2013'
 			},
 			{ image: c21, caption: ' ' }
 		],
 		[
 			{
 				image: bw22,
-				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
+				caption: 'Tibetan Prayer Wheels. Dharamsala. May, 2013'
 			},
 			{ image: c22, caption: ' ' }
 		],
 		[
 			{
 				image: bw23,
-				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
+				caption: 'Dharamsala. May,&nbsp;2013'
 			},
 			{ image: c23, caption: ' ' }
 		]
