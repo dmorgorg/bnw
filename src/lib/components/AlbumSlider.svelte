@@ -9,20 +9,21 @@
 
 {#key `${hIndex}-${vIndex}`}
 	<div class="wrapper" out:fade={{ duration: 500 }} in:fade={{ duration: 1500, delay: 500 }}>
-		<div class="imageFrame">
-			<enhanced:img
-				src={imagesArray[Number(hIndex)][Number(vIndex)].image}
-				sizes="(min-width:1920px) 1800px, (min-width:1080px) 1080px, (min-width:768px) 768px"
-				alt=""
-			/>
-		</div>
+		<!-- <div class="imageFrame"> -->
+		<enhanced:img
+			src={imagesArray[Number(hIndex)][Number(vIndex)].image}
+			sizes="(min-width:1920px) 1800px, (min-width:1080px) 1080px, (min-width:768px) 768px"
+			alt=""
+		/>
+
 		<div class="caption">
-			<div>
-				<strong>Image {hIndex + 1}/{imagesArray.length}. </strong> &nbsp;
-				{@html imagesArray[Number(hIndex)][0].caption}
-			</div>
+			<!-- <div> -->
+			<strong>Image {hIndex + 1}/{imagesArray.length}. </strong> &nbsp;
+			{@html imagesArray[Number(hIndex)][0].caption}
 		</div>
 	</div>
+	<!-- </div> -->
+	<!-- </div> -->
 {/key}
 
 <style lang="scss">
@@ -47,17 +48,17 @@
 		max-height: 75vh;
 		max-width: 100%;
 		object-fit: contain;
-		width: 100%;
+		width: fit-content;
 		box-shadow: 0 0 0.5em 0.15em grey;
 		display: block;
 	}
 	.caption {
-		align-items: center;
-		display: flex;
-		flex-direction: column;
+		// align-items: center;
+		// display: flex;
+		// flex-direction: column;
 		font-family: 'captionText';
 		height: 2em;
-		justify-content: start;
+		// justify-content: start;
 		margin-top: 0.5em;
 		// padding-top: 1em;
 		text-align: center;
