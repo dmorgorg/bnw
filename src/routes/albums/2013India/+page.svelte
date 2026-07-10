@@ -48,6 +48,20 @@
 	import c22 from '../../../lib/images/2013India/2013-05-27-163723.jpg?enhanced';
 	import bw23 from '../../../lib/images/2013India/2013-05-29-150251_Nik.jpg?enhanced';
 	import c23 from '../../../lib/images/2013India/2013-05-29-150251.jpg?enhanced';
+	import bw24 from '../../../lib/images/2013India/2013-05-31-132658_Nik.jpg?enhanced';
+	import c24 from '../../../lib/images/2013India/2013-05-31-132658.jpg?enhanced';
+	import bw25 from '../../../lib/images/2013India/2013-05-31-144703_Nik.jpg?enhanced';
+	import c25 from '../../../lib/images/2013India/2013-05-31-144703.jpg?enhanced';
+	import bw26 from '../../../lib/images/2013India/2013-05-29-165958_Nik.jpg?enhanced';
+	import c26 from '../../../lib/images/2013India/2013-05-29-165958.jpg?enhanced';
+	import bw27 from '../../../lib/images/2013India/2013-05-31-195804_Nik.jpg?enhanced';
+	import c27 from '../../../lib/images/2013India/2013-05-31-195804.jpg?enhanced';
+	import bw28 from '../../../lib/images/2013India/2013-06-01-183057_Nik.jpg?enhanced';
+	import c28 from '../../../lib/images/2013India/2013-06-01-183057.jpg?enhanced';
+	import bw29 from '../../../lib/images/2013India/2013-06-01-191825_Nik.jpg?enhanced';
+	import c29 from '../../../lib/images/2013India/2013-06-01-191825.jpg?enhanced';
+	import bw30 from '../../../lib/images/2013India/2013-06-02-082401_Nik.jpg?enhanced';
+	import c30 from '../../../lib/images/2013India/2013-06-02-082401.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -217,6 +231,56 @@
 				caption: 'Dharamsala. May,&nbsp;2013'
 			},
 			{ image: c23, caption: ' ' }
+		],
+		[
+			{
+				image: bw26,
+				caption: 'Dharamsala. May,&nbsp;2013'
+			},
+			{ image: c26, caption: ' ' }
+		],
+		[
+			{
+				image: bw24,
+				caption:
+					'On the narrow-gauge railway from Pathenkot (Punjab) to Joginder Nagar (Himachal Pradesh). I first rode this train in 1993 and knew I had to come back. May,&nbsp;2013'
+			},
+			{ image: c24, caption: ' ' }
+		],
+		[
+			{
+				image: bw25,
+				caption: 'Pathenkot to Joginder Nagar. May,&nbsp;2013'
+			},
+			{ image: c25, caption: ' ' }
+		],
+		[
+			{
+				image: bw27,
+				caption: 'Pathenkot to Joginder Nagar. May,&nbsp;2013'
+			},
+			{ image: c27, caption: ' ' }
+		],
+		[
+			{
+				image: bw28,
+				caption: 'Time for a shave. Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
+			},
+			{ image: c28, caption: ' ' }
+		],
+		[
+			{
+				image: bw29,
+				caption: 'Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
+			},
+			{ image: c29, caption: ' ' }
+		],
+		[
+			{
+				image: bw30,
+				caption: 'Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
+			},
+			{ image: c30, caption: ' ' }
 		]
 	];
 </script>
