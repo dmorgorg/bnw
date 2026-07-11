@@ -137,7 +137,7 @@
 			{
 				image: bw13,
 				caption:
-					'Often, traffic passed vehicles going in the opposite direction with millimetres to spare. Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+					'Often, traffic edged past vehicles going in the opposite direction with millimetres to spare. Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
 			},
 			{ image: c13, caption: ' ' }
 		],
@@ -193,7 +193,7 @@
 	];
 </script>
 
-<div class="albumTitle">This Album: India, 2013</div>
+<div class="albumTitle">This Album: India (II), 2013</div>
 
 <div class="sliderWrapper">
 	<NavigationController bind:hIndex bind:vIndex {imagesArray} />

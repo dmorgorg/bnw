@@ -349,7 +349,7 @@
 	];
 </script>
 
-<div class="albumTitle">This Album: India, 2013</div>
+<div class="albumTitle">This Album: India (I), 2013</div>
 
 <div class="sliderWrapper">
 	<NavigationController bind:hIndex bind:vIndex {imagesArray} />
