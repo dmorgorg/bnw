@@ -3,30 +3,20 @@
 	import NavigationController from '$lib/components/NavigationController.svelte';
 	import '$lib/app.scss';
 
-	import bw21 from '../../../lib/images/2013India/2013-05-27-161937_Nik.jpg?enhanced';
-	import c21 from '../../../lib/images/2013India/2013-05-27-161937.jpg?enhanced';
-	import bw22 from '../../../lib/images/2013India/2013-05-27-163723_Nik.jpg?enhanced';
-	import c22 from '../../../lib/images/2013India/2013-05-27-163723.jpg?enhanced';
-	import bw23 from '../../../lib/images/2013India/2013-05-29-150251_Nik.jpg?enhanced';
-	import c23 from '../../../lib/images/2013India/2013-05-29-150251.jpg?enhanced';
-	import bw24 from '../../../lib/images/2013India/2013-05-31-132658_Nik.jpg?enhanced';
-	import c24 from '../../../lib/images/2013India/2013-05-31-132658.jpg?enhanced';
-	import bw25 from '../../../lib/images/2013India/2013-05-31-144703_Nik.jpg?enhanced';
-	import c25 from '../../../lib/images/2013India/2013-05-31-144703.jpg?enhanced';
-	import bw26 from '../../../lib/images/2013India/2013-05-29-165958_Nik.jpg?enhanced';
-	import c26 from '../../../lib/images/2013India/2013-05-29-165958.jpg?enhanced';
-	import bw27 from '../../../lib/images/2013India/2013-05-31-195804_Nik.jpg?enhanced';
-	import c27 from '../../../lib/images/2013India/2013-05-31-195804.jpg?enhanced';
-	import bw28 from '../../../lib/images/2013India/2013-06-01-183057_Nik.jpg?enhanced';
-	import c28 from '../../../lib/images/2013India/2013-06-01-183057.jpg?enhanced';
-	import bw29 from '../../../lib/images/2013India/2013-06-01-191825_Nik.jpg?enhanced';
-	import c29 from '../../../lib/images/2013India/2013-06-01-191825.jpg?enhanced';
-	import bw30 from '../../../lib/images/2013India/2013-06-02-082401_Nik.jpg?enhanced';
-	import c30 from '../../../lib/images/2013India/2013-06-02-082401.jpg?enhanced';
-	import bw31 from '../../../lib/images/2013India/2013-06-02-104102_Nik.jpg?enhanced';
-	import c31 from '../../../lib/images/2013India/2013-06-02-104102.jpg?enhanced';
-	import bw32 from '../../../lib/images/2013India/2013-06-02-120028_Nik.jpg?enhanced';
-	import c32 from '../../../lib/images/2013India/2013-06-02-120028.jpg?enhanced';
+	import bw01 from '../../../lib/images/2013India/2013-06-03-185556_Nik.jpg?enhanced';
+	import c01 from '../../../lib/images/2013India/2013-06-03-185556.jpg?enhanced';
+	import bw02 from '../../../lib/images/2013India/2013-06-03-192034_Nik.jpg?enhanced';
+	import c02 from '../../../lib/images/2013India/2013-06-03-192034.jpg?enhanced';
+	import bw03 from '../../../lib/images/2013India/2013-06-05-091014_Nik.jpg?enhanced';
+	import c03 from '../../../lib/images/2013India/2013-06-05-091014.jpg?enhanced';
+	import bw04 from '../../../lib/images/2013India/2013-06-05-091647_Nik.jpg?enhanced';
+	import c04 from '../../../lib/images/2013India/2013-06-05-091647.jpg?enhanced';
+	import bw05 from '../../../lib/images/2013India/2013-06-05-115551_Nik.jpg?enhanced';
+	import c05 from '../../../lib/images/2013India/2013-06-05-115551.jpg?enhanced';
+	import bw06 from '../../../lib/images/2013India/2013-06-05-115614_Nik.jpg?enhanced';
+	import c06 from '../../../lib/images/2013India/2013-06-05-115614.jpg?enhanced';
+	import bw07 from '../../../lib/images/2013India/2013-06-05-115810_Nik.jpg?enhanced';
+	import c07 from '../../../lib/images/2013India/2013-06-05-115810.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -34,89 +24,59 @@
 	const imagesArray = [
 		[
 			{
-				image: bw21,
-				caption: 'Dharamsala. May, 2013'
+				image: bw01,
+				caption: 'Fresh coconut, anyone? On the train north from Pathankot, Punjab. June, 2013'
 			},
-			{ image: c21, caption: ' ' }
+			{ image: c01, caption: ' ' }
 		],
 		[
 			{
-				image: bw22,
-				caption: 'Tibetan Prayer Wheels. Dharamsala. May, 2013'
+				image: bw02,
+				caption: 'On the train north from Pathankot, Punjab. June, 2013'
 			},
-			{ image: c22, caption: ' ' }
+			{ image: c02, caption: ' ' }
 		],
 		[
 			{
-				image: bw23,
-				caption: 'Dharamsala. May,&nbsp;2013'
+				image: bw03,
+				caption: 'Dal Lake, Srinagar. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c23, caption: ' ' }
+			{ image: c03, caption: ' ' }
 		],
 		[
 			{
-				image: bw26,
-				caption: 'Dharamsala. May,&nbsp;2013'
+				image: bw04,
+				caption: 'Dal Lake, Srinagar. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c26, caption: ' ' }
+			{ image: c04, caption: ' ' }
 		],
 		[
 			{
-				image: bw24,
-				caption:
-					'On the narrow-gauge railway from Pathankot (Punjab) to Joginder Nagar (Himachal Pradesh). I first rode this train in 1993 and knew I had to come back. May,&nbsp;2013'
+				image: bw05,
+				caption: 'Srinagar is a largely Muslim city. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c24, caption: ' ' }
+			{ image: c05, caption: ' ' }
 		],
 		[
 			{
-				image: bw25,
-				caption: 'Between Pathankot and Joginder Nagar. May,&nbsp;2013'
+				image: bw06,
+				caption: 'Srinagar, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c25, caption: ' ' }
+			{ image: c06, caption: ' ' }
 		],
 		[
 			{
-				image: bw27,
-				caption: 'Between Pathankot and Joginder Nagar. May,&nbsp;2013'
+				image: bw07,
+				caption: 'Srinagar, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c27, caption: ' ' }
+			{ image: c07, caption: ' ' }
 		],
 		[
 			{
-				image: bw31,
-				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
+				image: bw01,
+				caption: 'Comma holder. June, 2013'
 			},
-			{ image: c31, caption: ' ' }
-		],
-		[
-			{
-				image: bw32,
-				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
-			},
-			{ image: c32, caption: ' ' }
-		],
-		[
-			{
-				image: bw28,
-				caption: 'Time for a shave. Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
-			},
-			{ image: c28, caption: ' ' }
-		],
-		[
-			{
-				image: bw29,
-				caption: 'Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
-			},
-			{ image: c29, caption: ' ' }
-		],
-
-		[
-			{
-				image: bw30,
-				caption: 'Waiting for the train, Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
-			},
-			{ image: c30, caption: ' ' }
+			{ image: c01, caption: ' ' }
 		]
 	];
 </script>

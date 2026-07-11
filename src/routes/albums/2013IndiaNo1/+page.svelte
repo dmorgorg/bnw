@@ -74,6 +74,8 @@
 	import c35 from '../../../lib/images/2013India/2013-06-02-173305.jpg?enhanced';
 	import bw36 from '../../../lib/images/2013India/2013-06-02-174854_Nik.jpg?enhanced';
 	import c36 from '../../../lib/images/2013India/2013-06-02-174854.jpg?enhanced';
+	import bw37 from '../../../lib/images/2013India/2013-05-16-094305_Nik.jpg?enhanced';
+	import c37 from '../../../lib/images/2013India/2013-05-16-094305.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -128,6 +130,13 @@
 					'A reasonable lunch of roti and curd was provided by this kind gentleman. Shimla. May, 2013'
 			},
 			{ image: c09, caption: ' ' }
+		],
+		[
+			{
+				image: bw37,
+				caption: 'The railway station at Shimla. May, 2013'
+			},
+			{ image: c37, caption: ' ' }
 		],
 
 		[
