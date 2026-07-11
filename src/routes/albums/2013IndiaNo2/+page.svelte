@@ -29,6 +29,18 @@
 	import c12 from '../../../lib/images/2013India/2013-06-06-141248.jpg?enhanced';
 	import bw13 from '../../../lib/images/2013India/2013-06-06-170821_Nik.jpg?enhanced';
 	import c13 from '../../../lib/images/2013India/2013-06-06-170821.jpg?enhanced';
+	import bw14 from '../../../lib/images/2013India/2013-06-06-173358_Nik.jpg?enhanced';
+	import c14 from '../../../lib/images/2013India/2013-06-06-173358.jpg?enhanced';
+	import bw15 from '../../../lib/images/2013India/2013-06-06-175502_Nik.jpg?enhanced';
+	import c15 from '../../../lib/images/2013India/2013-06-06-175502.jpg?enhanced';
+	import bw16 from '../../../lib/images/2013India/2013-06-06-175614_Nik.jpg?enhanced';
+	import c16 from '../../../lib/images/2013India/2013-06-06-175614.jpg?enhanced';
+	import bw17 from '../../../lib/images/2013India/2013-06-06-180834_Nik.jpg?enhanced';
+	import c17 from '../../../lib/images/2013India/2013-06-06-180834.jpg?enhanced';
+	import bw18 from '../../../lib/images/2013India/2013-06-06-184609_Nik.jpg?enhanced';
+	import c18 from '../../../lib/images/2013India/2013-06-06-184609.jpg?enhanced';
+	import bw19 from '../../../lib/images/2013India/2013-06-06-185438_Nik.jpg?enhanced';
+	import c19 from '../../../lib/images/2013India/2013-06-06-185438.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -124,9 +136,52 @@
 		[
 			{
 				image: bw13,
-				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+				caption:
+					'Often, traffic passed vehicles going in the opposite direction with millimetres to spare. Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
 			},
 			{ image: c13, caption: ' ' }
+		],
+		[
+			{
+				image: bw14,
+				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+			},
+			{ image: c14, caption: ' ' }
+		],
+		[
+			{
+				image: bw15,
+				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+			},
+			{ image: c15, caption: ' ' }
+		],
+		[
+			{
+				image: bw16,
+				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+			},
+			{ image: c16, caption: ' ' }
+		],
+		[
+			{
+				image: bw17,
+				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+			},
+			{ image: c17, caption: ' ' }
+		],
+		[
+			{
+				image: bw18,
+				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+			},
+			{ image: c18, caption: ' ' }
+		],
+		[
+			{
+				image: bw19,
+				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+			},
+			{ image: c19, caption: ' ' }
 		],
 		[
 			{
