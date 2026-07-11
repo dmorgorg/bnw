@@ -129,7 +129,7 @@
 		[
 			{
 				image: bw12,
-				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c12, caption: ' ' }
 		],
@@ -137,35 +137,35 @@
 			{
 				image: bw13,
 				caption:
-					'Often, trucks edged carefully past truck going in the opposite direction on the narrow road with only millimetres to spare. Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+					'Often, trucks edged carefully past truck going in the opposite direction on the narrow road with only millimetres to spare. Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c13, caption: ' ' }
 		],
 		[
 			{
 				image: bw14,
-				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c14, caption: ' ' }
 		],
 		[
 			{
 				image: bw15,
-				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c15, caption: ' ' }
 		],
 		[
 			{
 				image: bw16,
-				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c16, caption: ' ' }
 		],
 		[
 			{
 				image: bw17,
-				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c17, caption: ' ' }
 		],

@@ -9,21 +9,19 @@
 
 {#key `${hIndex}-${vIndex}`}
 	<div class="wrapper" out:fade={{ duration: 500 }} in:fade={{ duration: 1000, delay: 600 }}>
-		<!-- <div class="imageFrame"> -->
-		<enhanced:img
-			src={imagesArray[Number(hIndex)][Number(vIndex)].image}
-			sizes="(min-width:1920px) 1800px, (min-width:1080px) 1080px, (min-width:768px) 768px"
-			alt=""
-		/>
+		<div class="media">
+			<enhanced:img
+				src={imagesArray[Number(hIndex)][Number(vIndex)].image}
+				sizes="(min-width:1920px) 1800px, (min-width:1080px) 1080px, (min-width:768px) 768px"
+				alt=""
+			/>
 
-		<div class="caption">
-			<!-- <div> -->
-			<strong>Image {hIndex + 1}/{imagesArray.length}. </strong> &nbsp;
-			{@html imagesArray[Number(hIndex)][0].caption}
+			<div class="caption">
+				<strong>Image {hIndex + 1}/{imagesArray.length}. </strong> &nbsp;
+				{@html imagesArray[Number(hIndex)][0].caption}
+			</div>
 		</div>
 	</div>
-	<!-- </div> -->
-	<!-- </div> -->
 {/key}
 
 <style lang="scss">
@@ -39,29 +37,27 @@
 		margin-top: max(12.5vh, 3.5em);
 	}
 
-	// .imageFrame {
-	// 	border: 3px red solid;
-	// }
+	.media {
+		display: inline-flex;
+		flex-direction: column;
+		align-items: center;
+		max-width: 100%;
+	}
 
 	enhanced\:img {
 		height: auto;
 		max-height: 75vh;
 		max-width: 100%;
 		object-fit: contain;
-		width: fit-content;
+		width: auto;
 		box-shadow: 0 0 0.5em 0.15em grey;
 		display: block;
 	}
 	.caption {
-		// align-items: center;
-		// display: flex;
-		// flex-direction: column;
 		font-family: 'captionText';
 		height: 2em;
-		// justify-content: start;
 		margin-top: 0.5em;
-		// padding-top: 1em;
 		text-align: center;
-		// border: 1px solid black;
+		width: 90%;
 	}
 </style>
