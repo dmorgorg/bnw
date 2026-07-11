@@ -66,6 +66,14 @@
 	import c31 from '../../../lib/images/2013India/2013-06-02-104102.jpg?enhanced';
 	import bw32 from '../../../lib/images/2013India/2013-06-02-120028_Nik.jpg?enhanced';
 	import c32 from '../../../lib/images/2013India/2013-06-02-120028.jpg?enhanced';
+	import bw33 from '../../../lib/images/2013India/2013-06-02-124414_Nik.jpg?enhanced';
+	import c33 from '../../../lib/images/2013India/2013-06-02-124414.jpg?enhanced';
+	import bw34 from '../../../lib/images/2013India/2013-06-02-164123_Nik.jpg?enhanced';
+	import c34 from '../../../lib/images/2013India/2013-06-02-164123.jpg?enhanced';
+	import bw35 from '../../../lib/images/2013India/2013-06-02-173305_Nik.jpg?enhanced';
+	import c35 from '../../../lib/images/2013India/2013-06-02-173305.jpg?enhanced';
+	import bw36 from '../../../lib/images/2013India/2013-06-02-174854_Nik.jpg?enhanced';
+	import c36 from '../../../lib/images/2013India/2013-06-02-174854.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -74,7 +82,7 @@
 		[
 			{
 				image: bw01,
-				caption: 'School bus in Delhi. May, 2013'
+				caption: 'School bus in Paharganj, Old Delhi. May, 2013'
 			},
 			{ image: c01, caption: ' ' }
 		],
@@ -278,6 +286,34 @@
 				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
 			},
 			{ image: c32, caption: ' ' }
+		],
+		[
+			{
+				image: bw33,
+				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
+			},
+			{ image: c33, caption: ' ' }
+		],
+		[
+			{
+				image: bw34,
+				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
+			},
+			{ image: c34, caption: ' ' }
+		],
+		[
+			{
+				image: bw35,
+				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
+			},
+			{ image: c35, caption: ' ' }
+		],
+		[
+			{
+				image: bw36,
+				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
+			},
+			{ image: c36, caption: ' ' }
 		],
 		[
 			{
