@@ -114,7 +114,7 @@
 			{
 				image: bw10,
 				caption:
-					'The NH1 is slow going. On the road very early and it was still getting dark as we approached Kargil, little more than 200 km from Srinagar. Jammu and Kashmir. June, 2013'
+					'The NH1 is slow going. On the road very early and it was still getting dark as we approached Leh, little more than 400 km from Srinagar. Jammu and Kashmir. June, 2013'
 			},
 			{ image: c10, caption: ' ' }
 		],
@@ -172,14 +172,14 @@
 		[
 			{
 				image: bw18,
-				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Kargil, Ladakh. June, 2013'
 			},
 			{ image: c18, caption: ' ' }
 		],
 		[
 			{
 				image: bw19,
-				caption: 'Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Kargil, Ladakh. June, 2013'
 			},
 			{ image: c19, caption: ' ' }
 		],
