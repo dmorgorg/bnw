@@ -62,6 +62,10 @@
 	import c29 from '../../../lib/images/2013India/2013-06-01-191825.jpg?enhanced';
 	import bw30 from '../../../lib/images/2013India/2013-06-02-082401_Nik.jpg?enhanced';
 	import c30 from '../../../lib/images/2013India/2013-06-02-082401.jpg?enhanced';
+	import bw31 from '../../../lib/images/2013India/2013-06-02-104102_Nik.jpg?enhanced';
+	import c31 from '../../../lib/images/2013India/2013-06-02-104102.jpg?enhanced';
+	import bw32 from '../../../lib/images/2013India/2013-06-02-120028_Nik.jpg?enhanced';
+	import c32 from '../../../lib/images/2013India/2013-06-02-120028.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -243,42 +247,57 @@
 			{
 				image: bw24,
 				caption:
-					'On the narrow-gauge railway from Pathenkot (Punjab) to Joginder Nagar (Himachal Pradesh). I first rode this train in 1993 and knew I had to come back. May,&nbsp;2013'
+					'On the narrow-gauge railway from Pathankot (Punjab) to Joginder Nagar (Himachal Pradesh). I first rode this train in 1993 and knew I had to come back. May,&nbsp;2013'
 			},
 			{ image: c24, caption: ' ' }
 		],
 		[
 			{
 				image: bw25,
-				caption: 'Pathenkot to Joginder Nagar. May,&nbsp;2013'
+				caption: 'Between Pathankot and Joginder Nagar. May,&nbsp;2013'
 			},
 			{ image: c25, caption: ' ' }
 		],
 		[
 			{
 				image: bw27,
-				caption: 'Pathenkot to Joginder Nagar. May,&nbsp;2013'
+				caption: 'Between Pathankot and Joginder Nagar. May,&nbsp;2013'
 			},
 			{ image: c27, caption: ' ' }
 		],
 		[
 			{
+				image: bw31,
+				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
+			},
+			{ image: c31, caption: ' ' }
+		],
+		[
+			{
+				image: bw32,
+				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
+			},
+			{ image: c32, caption: ' ' }
+		],
+		[
+			{
 				image: bw28,
-				caption: 'Time for a shave. Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
+				caption: 'Time for a shave. Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
 			},
 			{ image: c28, caption: ' ' }
 		],
 		[
 			{
 				image: bw29,
-				caption: 'Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
+				caption: 'Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
 			},
 			{ image: c29, caption: ' ' }
 		],
+
 		[
 			{
 				image: bw30,
-				caption: 'Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
+				caption: 'Waiting for the train, Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
 			},
 			{ image: c30, caption: ' ' }
 		]
