@@ -137,7 +137,7 @@
 			{
 				image: bw13,
 				caption:
-					'Often, traffic edged past vehicles going in the opposite direction with millimetres to spare. Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
+					'Often, trucks edged carefully past truck going in the opposite direction on the narrow road with only millimetres to spare. Between Srinagar and Kargil. Jammu and Kashmir. June, 2013'
 			},
 			{ image: c13, caption: ' ' }
 		],
