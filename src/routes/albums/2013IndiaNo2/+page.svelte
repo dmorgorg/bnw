@@ -206,13 +206,7 @@
 			},
 			{ image: c20, caption: ' ' }
 		],
-		[
-			{
-				image: bw21,
-				caption: 'Prayer flags. Leh, Ladakh. June, 2013'
-			},
-			{ image: c21, caption: ' ' }
-		],
+
 		[
 			{
 				image: bw22,
@@ -223,10 +217,18 @@
 		[
 			{
 				image: bw23,
-				caption: 'Leh, Ladakh. June, 2013'
+				caption: 'Prayer flags. Leh, Ladakh. June, 2013'
 			},
 			{ image: c23, caption: ' ' }
 		],
+		[
+			{
+				image: bw21,
+				caption: 'Around Leh, Ladakh. June, 2013'
+			},
+			{ image: c21, caption: ' ' }
+		],
+
 		[
 			{
 				image: bw24,
@@ -237,14 +239,15 @@
 		[
 			{
 				image: bw25,
-				caption: 'Leh, Ladakh. June, 2013'
+				caption: 'The entrance to Zorawar Fort. Leh, Ladakh. June, 2013'
 			},
 			{ image: c25, caption: ' ' }
 		],
 		[
 			{
 				image: bw26,
-				caption: 'Leh, Ladakh. June, 2013'
+				caption:
+					'The narrow, shady lanes of Leh, Ladakh. Pleasant, gentle walking while your body adjusts to the thin air. June, 2013'
 			},
 			{ image: c26, caption: ' ' }
 		],
