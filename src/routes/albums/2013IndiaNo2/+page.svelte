@@ -41,6 +41,22 @@
 	import c18 from '../../../lib/images/2013India/2013-06-06-184609.jpg?enhanced';
 	import bw19 from '../../../lib/images/2013India/2013-06-06-185438_Nik.jpg?enhanced';
 	import c19 from '../../../lib/images/2013India/2013-06-06-185438.jpg?enhanced';
+	import bw20 from '../../../lib/images/2013India/2013-06-07-102929_Nik.jpg?enhanced';
+	import c20 from '../../../lib/images/2013India/2013-06-07-102929.jpg?enhanced';
+	import bw21 from '../../../lib/images/2013India/2013-06-07-132606_Nik.jpg?enhanced';
+	import c21 from '../../../lib/images/2013India/2013-06-07-132606.jpg?enhanced';
+	import bw22 from '../../../lib/images/2013India/2013-06-07-133255_Nik.jpg?enhanced';
+	import c22 from '../../../lib/images/2013India/2013-06-07-133255.jpg?enhanced';
+	import bw23 from '../../../lib/images/2013India/2013-06-07-133606_Nik.jpg?enhanced';
+	import c23 from '../../../lib/images/2013India/2013-06-07-133606.jpg?enhanced';
+	import bw24 from '../../../lib/images/2013India/2013-06-07-141952_Nik.jpg?enhanced';
+	import c24 from '../../../lib/images/2013India/2013-06-07-141952.jpg?enhanced';
+	import bw25 from '../../../lib/images/2013India/2013-06-07-145426_Nik.jpg?enhanced';
+	import c25 from '../../../lib/images/2013India/2013-06-07-145426.jpg?enhanced';
+	import bw26 from '../../../lib/images/2013India/2013-06-07-150644_Nik.jpg?enhanced';
+	import c26 from '../../../lib/images/2013India/2013-06-07-150644.jpg?enhanced';
+	import bw27 from '../../../lib/images/2013India/2013-06-08-191833_Nik.jpg?enhanced';
+	import c27 from '../../../lib/images/2013India/2013-06-08-191833.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -129,7 +145,7 @@
 		[
 			{
 				image: bw12,
-				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c12, caption: ' ' }
 		],
@@ -137,52 +153,109 @@
 			{
 				image: bw13,
 				caption:
-					'Often, trucks edged carefully past truck going in the opposite direction on the narrow road with only millimetres to spare. Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
+					'Often, trucks edged carefully past truck going in the opposite direction on the narrow road with only millimetres to spare. Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c13, caption: ' ' }
 		],
 		[
 			{
 				image: bw14,
-				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c14, caption: ' ' }
 		],
 		[
 			{
 				image: bw15,
-				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c15, caption: ' ' }
 		],
 		[
 			{
 				image: bw16,
-				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c16, caption: ' ' }
 		],
 		[
 			{
 				image: bw17,
-				caption: 'Between Srinagar and Kargil, Jammu and Kashmir. June, 2013'
+				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
 			{ image: c17, caption: ' ' }
 		],
 		[
 			{
 				image: bw18,
-				caption: 'Between Srinagar and Kargil, Ladakh. June, 2013'
+				caption: 'Between Srinagar and Leh, Ladakh. June, 2013'
 			},
 			{ image: c18, caption: ' ' }
 		],
 		[
 			{
 				image: bw19,
-				caption: 'Between Srinagar and Kargil, Ladakh. June, 2013'
+				caption: 'Between Srinagar and Leh, Ladakh. June, 2013'
 			},
 			{ image: c19, caption: ' ' }
 		],
+		[
+			{
+				image: bw20,
+				caption: 'Prayer flags. Leh, Ladakh. June, 2013'
+			},
+			{ image: c20, caption: ' ' }
+		],
+		[
+			{
+				image: bw21,
+				caption: 'Prayer flags. Leh, Ladakh. June, 2013'
+			},
+			{ image: c21, caption: ' ' }
+		],
+		[
+			{
+				image: bw22,
+				caption: 'Prayer flags. Leh, Ladakh. June, 2013'
+			},
+			{ image: c22, caption: ' ' }
+		],
+		[
+			{
+				image: bw23,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c23, caption: ' ' }
+		],
+		[
+			{
+				image: bw24,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c24, caption: ' ' }
+		],
+		[
+			{
+				image: bw25,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c25, caption: ' ' }
+		],
+		[
+			{
+				image: bw26,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c26, caption: ' ' }
+		],
+		[
+			{
+				image: bw27,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c27, caption: ' ' }
+		],
+
 		[
 			{
 				image: bw01,
