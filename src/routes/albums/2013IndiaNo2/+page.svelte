@@ -57,6 +57,16 @@
 	import c26 from '../../../lib/images/2013India/2013-06-07-150644.jpg?enhanced';
 	import bw27 from '../../../lib/images/2013India/2013-06-08-191833_Nik.jpg?enhanced';
 	import c27 from '../../../lib/images/2013India/2013-06-08-191833.jpg?enhanced';
+	import bw28 from '../../../lib/images/2013India/2013-06-08-192002_Nik.jpg?enhanced';
+	import c28 from '../../../lib/images/2013India/2013-06-08-192002.jpg?enhanced';
+	import bw29 from '../../../lib/images/2013India/2013-06-08-194026_Nik.jpg?enhanced';
+	import c29 from '../../../lib/images/2013India/2013-06-08-194026.jpg?enhanced';
+	import bw30 from '../../../lib/images/2013India/2013-06-08-194759_Nik.jpg?enhanced';
+	import c30 from '../../../lib/images/2013India/2013-06-08-194759.jpg?enhanced';
+	import bw31 from '../../../lib/images/2013India/2013-06-08-194916_Nik.jpg?enhanced';
+	import c31 from '../../../lib/images/2013India/2013-06-08-194916.jpg?enhanced';
+	import bw32 from '../../../lib/images/2013India/2013-06-09-130233_Nik.jpg?enhanced';
+	import c32 from '../../../lib/images/2013India/2013-06-09-130233.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -258,14 +268,49 @@
 			},
 			{ image: c27, caption: ' ' }
 		],
-
 		[
 			{
-				image: bw01,
-				caption: 'Comma holder. June, 2013'
+				image: bw28,
+				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c01, caption: ' ' }
+			{ image: c28, caption: ' ' }
+		],
+		[
+			{
+				image: bw29,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c29, caption: ' ' }
+		],
+		[
+			{
+				image: bw30,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c30, caption: ' ' }
+		],
+		[
+			{
+				image: bw31,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c31, caption: ' ' }
+		],
+		[
+			{
+				image: bw32,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c32, caption: ' ' }
 		]
+
+		// [
+		// 	{
+		// 		image: bw01,
+		// 		caption: 'Comma holder. June, 2013'
+		// 	},
+		// 	{ image: c01, caption: ' ' }
+		// ]
 	];
 </script>
 
