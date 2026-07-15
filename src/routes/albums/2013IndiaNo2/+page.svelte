@@ -67,6 +67,22 @@
 	import c31 from '../../../lib/images/2013India/2013-06-08-194916.jpg?enhanced';
 	import bw32 from '../../../lib/images/2013India/2013-06-09-130233_Nik.jpg?enhanced';
 	import c32 from '../../../lib/images/2013India/2013-06-09-130233.jpg?enhanced';
+	import bw33 from '../../../lib/images/2013India/2013-06-09-133135_Nik.jpg?enhanced';
+	import c33 from '../../../lib/images/2013India/2013-06-09-133135.jpg?enhanced';
+	import bw34 from '../../../lib/images/2013India/2013-06-09-133200_Nik.jpg?enhanced';
+	import c34 from '../../../lib/images/2013India/2013-06-09-133200.jpg?enhanced';
+	import bw35 from '../../../lib/images/2013India/2013-06-09-134540_Nik.jpg?enhanced';
+	import c35 from '../../../lib/images/2013India/2013-06-09-134540.jpg?enhanced';
+	import bw36 from '../../../lib/images/2013India/2013-06-09-161701_Nik.jpg?enhanced';
+	import c36 from '../../../lib/images/2013India/2013-06-09-161701.jpg?enhanced';
+	import bw37 from '../../../lib/images/2013India/2013-06-10-163834_Nik.jpg?enhanced';
+	import c37 from '../../../lib/images/2013India/2013-06-10-163834.jpg?enhanced';
+	import bw38 from '../../../lib/images/2013India/2013-06-10-170235_Nik.jpg?enhanced';
+	import c38 from '../../../lib/images/2013India/2013-06-10-170235.jpg?enhanced';
+	import bw39 from '../../../lib/images/2013India/2013-06-10-172557_Nik.jpg?enhanced';
+	import c39 from '../../../lib/images/2013India/2013-06-10-172557.jpg?enhanced';
+	import bw40 from '../../../lib/images/2013India/2013-06-10-173618_Nik.jpg?enhanced';
+	import c40 from '../../../lib/images/2013India/2013-06-10-173618.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -302,15 +318,63 @@
 				caption: 'Leh, Ladakh. June, 2013'
 			},
 			{ image: c32, caption: ' ' }
+		],
+		[
+			{
+				image: bw33,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c33, caption: ' ' }
+		],
+		[
+			{
+				image: bw34,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c34, caption: ' ' }
+		],
+		[
+			{
+				image: bw35,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c35, caption: ' ' }
+		],
+		[
+			{
+				image: bw36,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c36, caption: ' ' }
+		],
+		[
+			{
+				image: bw37,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c37, caption: ' ' }
+		],
+		[
+			{
+				image: bw38,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c38, caption: ' ' }
+		],
+		[
+			{
+				image: bw39,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c39, caption: ' ' }
+		],
+		[
+			{
+				image: bw40,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c40, caption: ' ' }
 		]
-
-		// [
-		// 	{
-		// 		image: bw01,
-		// 		caption: 'Comma holder. June, 2013'
-		// 	},
-		// 	{ image: c01, caption: ' ' }
-		// ]
 	];
 </script>
 
