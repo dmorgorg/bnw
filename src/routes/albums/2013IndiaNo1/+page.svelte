@@ -188,7 +188,7 @@
 			{
 				image: bw15,
 				caption:
-					"Bus travel is less relaxing than taking the train - but the train doesn't go everywhere.<br/> Between Shimla and Dharamsala, Himachal Pradesh. May, 2013"
+					"Bus travel is less relaxing than taking the train - but the train doesn't go everywhere.Between Shimla and Dharamsala, Himachal Pradesh. May, 2013"
 			},
 			{ image: c15, caption: ' ' }
 		],
@@ -196,7 +196,7 @@
 			{
 				image: bw16,
 				caption:
-					'Dharamsala is home to the Dalai Lama; there is a sizeable community of Tibetan refugees. <br/>And Westerners into Buddhism. Dharamsala. May, 2013'
+					'Dharamsala is home to the Dalai Lama; there is a sizeable community of Tibetan refugees. And Westerners into Buddhism. Dharamsala. May, 2013'
 			},
 			{ image: c16, caption: ' ' }
 		],
@@ -313,20 +313,20 @@
 			},
 			{ image: c34, caption: ' ' }
 		],
-		[
-			{
-				image: bw35,
-				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
-			},
-			{ image: c35, caption: ' ' }
-		],
-		[
-			{
-				image: bw36,
-				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
-			},
-			{ image: c36, caption: ' ' }
-		],
+		// [
+		// 	{
+		// 		image: bw35,
+		// 		caption: 'Joginder Nagar. June,&nbsp;2013'
+		// 	},
+		// 	{ image: c35, caption: ' ' }
+		// ],
+		// [
+		// 	{
+		// 		image: bw36,
+		// 		caption: 'Joginder Nagar. June,&nbsp;2013'
+		// 	},
+		// 	{ image: c36, caption: ' ' }
+		// ],
 		[
 			{
 				image: bw37,
