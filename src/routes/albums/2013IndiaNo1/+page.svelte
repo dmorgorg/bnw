@@ -12,14 +12,14 @@
 	import c04 from '../../../lib/images/2013India/2013-05-13-152352.jpg?enhanced';
 	import bw05 from '../../../lib/images/2013India/2013-05-13-194755_Nik.jpg?enhanced';
 	import c05 from '../../../lib/images/2013India/2013-05-13-194755.jpg?enhanced';
-	import bw06 from '../../../lib/images/2013India/2013-05-15-175029_Nik.jpg?enhanced';
-	import c06 from '../../../lib/images/2013India/2013-05-15-175029.jpg?enhanced';
-	import bw07 from '../../../lib/images/2013India/2013-05-23-142227_Nik.jpg?enhanced';
-	import c07 from '../../../lib/images/2013India/2013-05-23-142227.jpg?enhanced';
-	import bw08 from '../../../lib/images/2013India/2013-05-13-144002_Nik.jpg?enhanced';
-	import c08 from '../../../lib/images/2013India/2013-05-13-144002.jpg?enhanced';
-	import bw09 from '../../../lib/images/2013India/2013-05-13-144948_Nik.jpg?enhanced';
-	import c09 from '../../../lib/images/2013India/2013-05-13-144948.jpg?enhanced';
+	import bw06 from '../../../lib/images/2013India/2013-05-13-144002_Nik.jpg?enhanced';
+	import c06 from '../../../lib/images/2013India/2013-05-13-144002.jpg?enhanced';
+	import bw07 from '../../../lib/images/2013India/2013-05-13-144948_Nik.jpg?enhanced';
+	import c07 from '../../../lib/images/2013India/2013-05-13-144948.jpg?enhanced';
+	import bw08 from '../../../lib/images/2013India/2013-05-16-094305_Nik.jpg?enhanced';
+	import c08 from '../../../lib/images/2013India/2013-05-16-094305.jpg?enhanced';
+	import bw09 from '../../../lib/images/2013India/2013-05-15-175029_Nik.jpg?enhanced';
+	import c09 from '../../../lib/images/2013India/2013-05-15-175029.jpg?enhanced';
 	import bw10 from '../../../lib/images/2013India/2013-05-17-135254_Nik.jpg?enhanced';
 	import c10 from '../../../lib/images/2013India/2013-05-17-135254.jpg?enhanced';
 	import bw11 from '../../../lib/images/2013India/2013-05-17-141954_Nik.jpg?enhanced';
@@ -42,26 +42,26 @@
 	import c19 from '../../../lib/images/2013India/2013-05-21-192724.jpg?enhanced';
 	import bw20 from '../../../lib/images/2013India/2013-05-23-162815_Nik.jpg?enhanced';
 	import c20 from '../../../lib/images/2013India/2013-05-23-162815.jpg?enhanced';
-	import bw21 from '../../../lib/images/2013India/2013-05-27-161937_Nik.jpg?enhanced';
-	import c21 from '../../../lib/images/2013India/2013-05-27-161937.jpg?enhanced';
-	import bw22 from '../../../lib/images/2013India/2013-05-27-163723_Nik.jpg?enhanced';
-	import c22 from '../../../lib/images/2013India/2013-05-27-163723.jpg?enhanced';
-	import bw23 from '../../../lib/images/2013India/2013-05-29-150251_Nik.jpg?enhanced';
-	import c23 from '../../../lib/images/2013India/2013-05-29-150251.jpg?enhanced';
-	import bw24 from '../../../lib/images/2013India/2013-05-31-132658_Nik.jpg?enhanced';
-	import c24 from '../../../lib/images/2013India/2013-05-31-132658.jpg?enhanced';
-	import bw25 from '../../../lib/images/2013India/2013-05-31-144703_Nik.jpg?enhanced';
-	import c25 from '../../../lib/images/2013India/2013-05-31-144703.jpg?enhanced';
-	import bw26 from '../../../lib/images/2013India/2013-05-29-165958_Nik.jpg?enhanced';
-	import c26 from '../../../lib/images/2013India/2013-05-29-165958.jpg?enhanced';
+	import bw21 from '../../../lib/images/2013India/2013-05-23-142227_Nik.jpg?enhanced';
+	import c21 from '../../../lib/images/2013India/2013-05-23-142227.jpg?enhanced';
+	import bw22 from '../../../lib/images/2013India/2013-05-27-161937_Nik.jpg?enhanced';
+	import c22 from '../../../lib/images/2013India/2013-05-27-161937.jpg?enhanced';
+	import bw23 from '../../../lib/images/2013India/2013-05-27-163723_Nik.jpg?enhanced';
+	import c23 from '../../../lib/images/2013India/2013-05-27-163723.jpg?enhanced';
+	import bw24 from '../../../lib/images/2013India/2013-05-29-150251_Nik.jpg?enhanced';
+	import c24 from '../../../lib/images/2013India/2013-05-29-150251.jpg?enhanced';
+	import bw25 from '../../../lib/images/2013India/2013-05-29-165958_Nik.jpg?enhanced';
+	import c25 from '../../../lib/images/2013India/2013-05-29-165958.jpg?enhanced';
+	import bw26 from '../../../lib/images/2013India/2013-05-31-132658_Nik.jpg?enhanced';
+	import c26 from '../../../lib/images/2013India/2013-05-31-132658.jpg?enhanced';
 	import bw27 from '../../../lib/images/2013India/2013-05-31-195804_Nik.jpg?enhanced';
 	import c27 from '../../../lib/images/2013India/2013-05-31-195804.jpg?enhanced';
-	import bw28 from '../../../lib/images/2013India/2013-06-01-183057_Nik.jpg?enhanced';
-	import c28 from '../../../lib/images/2013India/2013-06-01-183057.jpg?enhanced';
-	import bw29 from '../../../lib/images/2013India/2013-06-01-191825_Nik.jpg?enhanced';
-	import c29 from '../../../lib/images/2013India/2013-06-01-191825.jpg?enhanced';
-	import bw30 from '../../../lib/images/2013India/2013-06-02-082401_Nik.jpg?enhanced';
-	import c30 from '../../../lib/images/2013India/2013-06-02-082401.jpg?enhanced';
+	import bw28 from '../../../lib/images/2013India/2013-05-31-144703_Nik.jpg?enhanced';
+	import c28 from '../../../lib/images/2013India/2013-05-31-144703.jpg?enhanced';
+	import bw29 from '../../../lib/images/2013India/2013-06-01-195422_Nik.jpg?enhanced';
+	import c29 from '../../../lib/images/2013India/2013-06-01-195422.jpg?enhanced';
+	import bw30 from '../../../lib/images/2013India/2013-06-01-200058_Nik.jpg?enhanced';
+	import c30 from '../../../lib/images/2013India/2013-06-01-200058.jpg?enhanced';
 	import bw31 from '../../../lib/images/2013India/2013-06-02-104102_Nik.jpg?enhanced';
 	import c31 from '../../../lib/images/2013India/2013-06-02-104102.jpg?enhanced';
 	import bw32 from '../../../lib/images/2013India/2013-06-02-120028_Nik.jpg?enhanced';
@@ -74,8 +74,12 @@
 	import c35 from '../../../lib/images/2013India/2013-06-02-173305.jpg?enhanced';
 	import bw36 from '../../../lib/images/2013India/2013-06-02-174854_Nik.jpg?enhanced';
 	import c36 from '../../../lib/images/2013India/2013-06-02-174854.jpg?enhanced';
-	import bw37 from '../../../lib/images/2013India/2013-05-16-094305_Nik.jpg?enhanced';
-	import c37 from '../../../lib/images/2013India/2013-05-16-094305.jpg?enhanced';
+	import bw37 from '../../../lib/images/2013India/2013-06-01-183057_Nik.jpg?enhanced';
+	import c37 from '../../../lib/images/2013India/2013-06-01-183057.jpg?enhanced';
+	import bw38 from '../../../lib/images/2013India/2013-06-01-191825_Nik.jpg?enhanced';
+	import c38 from '../../../lib/images/2013India/2013-06-01-191825.jpg?enhanced';
+	import bw39 from '../../../lib/images/2013India/2013-06-02-082401_Nik.jpg?enhanced';
+	import c39 from '../../../lib/images/2013India/2013-06-02-082401.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -118,33 +122,32 @@
 		],
 		[
 			{
-				image: bw08,
+				image: bw06,
 				caption: 'Shimla. May, 2013'
+			},
+			{ image: c06, caption: ' ' }
+		],
+		[
+			{
+				image: bw07,
+				caption:
+					'A reasonable lunch of roti and curd was provided by this kind gentleman. Shimla. May, 2013'
+			},
+			{ image: c07, caption: ' ' }
+		],
+		[
+			{
+				image: bw08,
+				caption: 'The railway station at Shimla. May, 2013'
 			},
 			{ image: c08, caption: ' ' }
 		],
 		[
 			{
 				image: bw09,
-				caption:
-					'A reasonable lunch of roti and curd was provided by this kind gentleman. Shimla. May, 2013'
-			},
-			{ image: c09, caption: ' ' }
-		],
-		[
-			{
-				image: bw37,
-				caption: 'The railway station at Shimla. May, 2013'
-			},
-			{ image: c37, caption: ' ' }
-		],
-
-		[
-			{
-				image: bw06,
 				caption: 'Shimla. May, 2013'
 			},
-			{ image: c06, caption: ' ' }
+			{ image: c09, caption: ' ' }
 		],
 		[
 			{
@@ -200,80 +203,73 @@
 		[
 			{
 				image: bw17,
-				caption: ' <br/> Near Shiva Caf&eacute;, Dharamsala. May, 2013'
+				caption: 'Near Shiva Caf&eacute;, Dharamsala. May, 2013'
 			},
 			{ image: c17, caption: ' ' }
 		],
 		[
 			{
 				image: bw18,
-				caption: ' <br/> Near Shiva Caf&eacute;, Dharamsala. May, 2013'
+				caption: 'Near Shiva Caf&eacute;, Dharamsala. May, 2013'
 			},
 			{ image: c18, caption: ' ' }
 		],
 		[
 			{
 				image: bw19,
-				caption: " <br/> A variation on shove-ha'penny? Dharamsala. May, 2013"
+				caption: "A variation on shove-ha'penny? Dharamsala. May, 2013"
 			},
 			{ image: c19, caption: ' ' }
 		],
 		[
 			{
 				image: bw20,
-				caption: ' <br/> Getting a new look for the summer. Dharamsala. May, 2013'
+				caption: 'Getting a new look for the summer. Dharamsala. May, 2013'
 			},
 			{ image: c20, caption: ' ' }
 		],
 		[
 			{
-				image: bw07,
-				caption: 'Triund, above Dharamsala. May, 2013'
-			},
-			{ image: c07, caption: ' ' }
-		],
-		[
-			{
 				image: bw21,
-				caption: 'Dharamsala. May, 2013'
+				caption: 'Triund, above Dharamsala. May, 2013'
 			},
 			{ image: c21, caption: ' ' }
 		],
 		[
 			{
 				image: bw22,
-				caption: 'Tibetan Prayer Wheels. Dharamsala. May, 2013'
+				caption: 'Dharamsala. May, 2013'
 			},
 			{ image: c22, caption: ' ' }
 		],
 		[
 			{
 				image: bw23,
-				caption: 'Dharamsala. May,&nbsp;2013'
+				caption: 'Tibetan Prayer Wheels. Dharamsala. May, 2013'
 			},
 			{ image: c23, caption: ' ' }
 		],
 		[
 			{
-				image: bw26,
-				caption: 'Dharamsala. May,&nbsp;2013'
-			},
-			{ image: c26, caption: ' ' }
-		],
-		[
-			{
 				image: bw24,
-				caption:
-					'On the narrow-gauge railway from Pathankot (Punjab) to Joginder Nagar (Himachal Pradesh). I first rode this train in 1993 and knew I had to come back. May,&nbsp;2013'
+				caption: 'Dharamsala. May,&nbsp;2013'
 			},
 			{ image: c24, caption: ' ' }
 		],
 		[
 			{
 				image: bw25,
-				caption: 'Between Pathankot and Joginder Nagar. May,&nbsp;2013'
+				caption: 'Dharamsala. May,&nbsp;2013'
 			},
 			{ image: c25, caption: ' ' }
+		],
+		[
+			{
+				image: bw26,
+				caption:
+					'On the narrow-gauge railway from Pathankot (Punjab) to Joginder Nagar (Himachal Pradesh). I first rode this train in 1993 and knew I had to come back. May,&nbsp;2013'
+			},
+			{ image: c26, caption: ' ' }
 		],
 		[
 			{
@@ -281,6 +277,13 @@
 				caption: 'Between Pathankot and Joginder Nagar. May,&nbsp;2013'
 			},
 			{ image: c27, caption: ' ' }
+		],
+		[
+			{
+				image: bw28,
+				caption: 'Between Pathankot and Joginder Nagar. May,&nbsp;2013'
+			},
+			{ image: c28, caption: ' ' }
 		],
 		[
 			{
@@ -326,25 +329,25 @@
 		],
 		[
 			{
-				image: bw28,
+				image: bw37,
 				caption: 'Time for a shave. Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
 			},
-			{ image: c28, caption: ' ' }
+			{ image: c37, caption: ' ' }
 		],
 		[
 			{
-				image: bw29,
+				image: bw38,
 				caption: 'Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
 			},
-			{ image: c29, caption: ' ' }
+			{ image: c38, caption: ' ' }
 		],
 
 		[
 			{
-				image: bw30,
+				image: bw39,
 				caption: 'Waiting for the train, Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
 			},
-			{ image: c30, caption: ' ' }
+			{ image: c39, caption: ' ' }
 		]
 	];
 </script>

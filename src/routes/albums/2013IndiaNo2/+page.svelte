@@ -3,86 +3,86 @@
 	import NavigationController from '$lib/components/NavigationController.svelte';
 	import '$lib/app.scss';
 
-	import bw01 from '../../../lib/images/2013India/2013-06-03-185556_Nik.jpg?enhanced';
-	import c01 from '../../../lib/images/2013India/2013-06-03-185556.jpg?enhanced';
-	import bw02 from '../../../lib/images/2013India/2013-06-03-192034_Nik.jpg?enhanced';
-	import c02 from '../../../lib/images/2013India/2013-06-03-192034.jpg?enhanced';
-	import bw03 from '../../../lib/images/2013India/2013-06-05-091014_Nik.jpg?enhanced';
-	import c03 from '../../../lib/images/2013India/2013-06-05-091014.jpg?enhanced';
-	import bw04 from '../../../lib/images/2013India/2013-06-05-091647_Nik.jpg?enhanced';
-	import c04 from '../../../lib/images/2013India/2013-06-05-091647.jpg?enhanced';
-	import bw05 from '../../../lib/images/2013India/2013-06-05-115551_Nik.jpg?enhanced';
-	import c05 from '../../../lib/images/2013India/2013-06-05-115551.jpg?enhanced';
-	import bw06 from '../../../lib/images/2013India/2013-06-05-115614_Nik.jpg?enhanced';
-	import c06 from '../../../lib/images/2013India/2013-06-05-115614.jpg?enhanced';
-	import bw07 from '../../../lib/images/2013India/2013-06-05-115810_Nik.jpg?enhanced';
-	import c07 from '../../../lib/images/2013India/2013-06-05-115810.jpg?enhanced';
-	import bw08 from '../../../lib/images/2013India/2013-06-06-111753_Nik.jpg?enhanced';
-	import c08 from '../../../lib/images/2013India/2013-06-06-111753.jpg?enhanced';
-	import bw09 from '../../../lib/images/2013India/2013-06-06-112629_Nik.jpg?enhanced';
-	import c09 from '../../../lib/images/2013India/2013-06-06-112629.jpg?enhanced';
-	import bw10 from '../../../lib/images/2013India/2013-06-06-114218_Nik.jpg?enhanced';
-	import c10 from '../../../lib/images/2013India/2013-06-06-114218.jpg?enhanced';
-	import bw11 from '../../../lib/images/2013India/2013-06-06-114816_Nik.jpg?enhanced';
-	import c11 from '../../../lib/images/2013India/2013-06-06-114816.jpg?enhanced';
-	import bw12 from '../../../lib/images/2013India/2013-06-06-141248_Nik.jpg?enhanced';
-	import c12 from '../../../lib/images/2013India/2013-06-06-141248.jpg?enhanced';
-	import bw13 from '../../../lib/images/2013India/2013-06-06-170821_Nik.jpg?enhanced';
-	import c13 from '../../../lib/images/2013India/2013-06-06-170821.jpg?enhanced';
-	import bw14 from '../../../lib/images/2013India/2013-06-06-173358_Nik.jpg?enhanced';
-	import c14 from '../../../lib/images/2013India/2013-06-06-173358.jpg?enhanced';
-	import bw15 from '../../../lib/images/2013India/2013-06-06-175502_Nik.jpg?enhanced';
-	import c15 from '../../../lib/images/2013India/2013-06-06-175502.jpg?enhanced';
-	import bw16 from '../../../lib/images/2013India/2013-06-06-175614_Nik.jpg?enhanced';
-	import c16 from '../../../lib/images/2013India/2013-06-06-175614.jpg?enhanced';
-	import bw17 from '../../../lib/images/2013India/2013-06-06-180834_Nik.jpg?enhanced';
-	import c17 from '../../../lib/images/2013India/2013-06-06-180834.jpg?enhanced';
-	import bw18 from '../../../lib/images/2013India/2013-06-06-184609_Nik.jpg?enhanced';
-	import c18 from '../../../lib/images/2013India/2013-06-06-184609.jpg?enhanced';
-	import bw19 from '../../../lib/images/2013India/2013-06-06-185438_Nik.jpg?enhanced';
-	import c19 from '../../../lib/images/2013India/2013-06-06-185438.jpg?enhanced';
-	import bw20 from '../../../lib/images/2013India/2013-06-07-102929_Nik.jpg?enhanced';
-	import c20 from '../../../lib/images/2013India/2013-06-07-102929.jpg?enhanced';
-	import bw21 from '../../../lib/images/2013India/2013-06-07-132606_Nik.jpg?enhanced';
-	import c21 from '../../../lib/images/2013India/2013-06-07-132606.jpg?enhanced';
-	import bw22 from '../../../lib/images/2013India/2013-06-07-133255_Nik.jpg?enhanced';
-	import c22 from '../../../lib/images/2013India/2013-06-07-133255.jpg?enhanced';
-	import bw23 from '../../../lib/images/2013India/2013-06-07-133606_Nik.jpg?enhanced';
-	import c23 from '../../../lib/images/2013India/2013-06-07-133606.jpg?enhanced';
-	import bw24 from '../../../lib/images/2013India/2013-06-07-141952_Nik.jpg?enhanced';
-	import c24 from '../../../lib/images/2013India/2013-06-07-141952.jpg?enhanced';
-	import bw25 from '../../../lib/images/2013India/2013-06-07-145426_Nik.jpg?enhanced';
-	import c25 from '../../../lib/images/2013India/2013-06-07-145426.jpg?enhanced';
-	import bw26 from '../../../lib/images/2013India/2013-06-07-150644_Nik.jpg?enhanced';
-	import c26 from '../../../lib/images/2013India/2013-06-07-150644.jpg?enhanced';
-	import bw27 from '../../../lib/images/2013India/2013-06-08-191833_Nik.jpg?enhanced';
-	import c27 from '../../../lib/images/2013India/2013-06-08-191833.jpg?enhanced';
-	import bw28 from '../../../lib/images/2013India/2013-06-08-192002_Nik.jpg?enhanced';
-	import c28 from '../../../lib/images/2013India/2013-06-08-192002.jpg?enhanced';
-	import bw29 from '../../../lib/images/2013India/2013-06-08-194026_Nik.jpg?enhanced';
-	import c29 from '../../../lib/images/2013India/2013-06-08-194026.jpg?enhanced';
-	import bw30 from '../../../lib/images/2013India/2013-06-08-194759_Nik.jpg?enhanced';
-	import c30 from '../../../lib/images/2013India/2013-06-08-194759.jpg?enhanced';
-	import bw31 from '../../../lib/images/2013India/2013-06-08-194916_Nik.jpg?enhanced';
-	import c31 from '../../../lib/images/2013India/2013-06-08-194916.jpg?enhanced';
-	import bw32 from '../../../lib/images/2013India/2013-06-09-130233_Nik.jpg?enhanced';
-	import c32 from '../../../lib/images/2013India/2013-06-09-130233.jpg?enhanced';
-	import bw33 from '../../../lib/images/2013India/2013-06-09-133135_Nik.jpg?enhanced';
-	import c33 from '../../../lib/images/2013India/2013-06-09-133135.jpg?enhanced';
-	import bw34 from '../../../lib/images/2013India/2013-06-09-133200_Nik.jpg?enhanced';
-	import c34 from '../../../lib/images/2013India/2013-06-09-133200.jpg?enhanced';
-	import bw35 from '../../../lib/images/2013India/2013-06-09-134540_Nik.jpg?enhanced';
-	import c35 from '../../../lib/images/2013India/2013-06-09-134540.jpg?enhanced';
-	import bw36 from '../../../lib/images/2013India/2013-06-09-161701_Nik.jpg?enhanced';
-	import c36 from '../../../lib/images/2013India/2013-06-09-161701.jpg?enhanced';
-	import bw37 from '../../../lib/images/2013India/2013-06-10-163834_Nik.jpg?enhanced';
-	import c37 from '../../../lib/images/2013India/2013-06-10-163834.jpg?enhanced';
-	import bw38 from '../../../lib/images/2013India/2013-06-10-170235_Nik.jpg?enhanced';
-	import c38 from '../../../lib/images/2013India/2013-06-10-170235.jpg?enhanced';
-	import bw39 from '../../../lib/images/2013India/2013-06-10-172557_Nik.jpg?enhanced';
-	import c39 from '../../../lib/images/2013India/2013-06-10-172557.jpg?enhanced';
-	import bw40 from '../../../lib/images/2013India/2013-06-10-173618_Nik.jpg?enhanced';
-	import c40 from '../../../lib/images/2013India/2013-06-10-173618.jpg?enhanced';
+	import bw41 from '../../../lib/images/2013India/2013-06-03-185556_Nik.jpg?enhanced';
+	import c41 from '../../../lib/images/2013India/2013-06-03-185556.jpg?enhanced';
+	import bw42 from '../../../lib/images/2013India/2013-06-03-192034_Nik.jpg?enhanced';
+	import c42 from '../../../lib/images/2013India/2013-06-03-192034.jpg?enhanced';
+	import bw43 from '../../../lib/images/2013India/2013-06-05-091014_Nik.jpg?enhanced';
+	import c43 from '../../../lib/images/2013India/2013-06-05-091014.jpg?enhanced';
+	import bw44 from '../../../lib/images/2013India/2013-06-05-091647_Nik.jpg?enhanced';
+	import c44 from '../../../lib/images/2013India/2013-06-05-091647.jpg?enhanced';
+	import bw45 from '../../../lib/images/2013India/2013-06-05-115551_Nik.jpg?enhanced';
+	import c45 from '../../../lib/images/2013India/2013-06-05-115551.jpg?enhanced';
+	import bw46 from '../../../lib/images/2013India/2013-06-05-115614_Nik.jpg?enhanced';
+	import c46 from '../../../lib/images/2013India/2013-06-05-115614.jpg?enhanced';
+	import bw47 from '../../../lib/images/2013India/2013-06-05-115810_Nik.jpg?enhanced';
+	import c47 from '../../../lib/images/2013India/2013-06-05-115810.jpg?enhanced';
+	import bw48 from '../../../lib/images/2013India/2013-06-06-111753_Nik.jpg?enhanced';
+	import c48 from '../../../lib/images/2013India/2013-06-06-111753.jpg?enhanced';
+	import bw49 from '../../../lib/images/2013India/2013-06-06-112629_Nik.jpg?enhanced';
+	import c49 from '../../../lib/images/2013India/2013-06-06-112629.jpg?enhanced';
+	import bw50 from '../../../lib/images/2013India/2013-06-06-114218_Nik.jpg?enhanced';
+	import c50 from '../../../lib/images/2013India/2013-06-06-114218.jpg?enhanced';
+	import bw51 from '../../../lib/images/2013India/2013-06-06-114816_Nik.jpg?enhanced';
+	import c51 from '../../../lib/images/2013India/2013-06-06-114816.jpg?enhanced';
+	import bw52 from '../../../lib/images/2013India/2013-06-06-141248_Nik.jpg?enhanced';
+	import c52 from '../../../lib/images/2013India/2013-06-06-141248.jpg?enhanced';
+	import bw53 from '../../../lib/images/2013India/2013-06-06-170821_Nik.jpg?enhanced';
+	import c53 from '../../../lib/images/2013India/2013-06-06-170821.jpg?enhanced';
+	import bw54 from '../../../lib/images/2013India/2013-06-06-173358_Nik.jpg?enhanced';
+	import c54 from '../../../lib/images/2013India/2013-06-06-173358.jpg?enhanced';
+	import bw55 from '../../../lib/images/2013India/2013-06-06-175502_Nik.jpg?enhanced';
+	import c55 from '../../../lib/images/2013India/2013-06-06-175502.jpg?enhanced';
+	import bw56 from '../../../lib/images/2013India/2013-06-06-175614_Nik.jpg?enhanced';
+	import c56 from '../../../lib/images/2013India/2013-06-06-175614.jpg?enhanced';
+	import bw57 from '../../../lib/images/2013India/2013-06-06-180834_Nik.jpg?enhanced';
+	import c57 from '../../../lib/images/2013India/2013-06-06-180834.jpg?enhanced';
+	import bw58 from '../../../lib/images/2013India/2013-06-06-184609_Nik.jpg?enhanced';
+	import c58 from '../../../lib/images/2013India/2013-06-06-184609.jpg?enhanced';
+	import bw59 from '../../../lib/images/2013India/2013-06-06-185438_Nik.jpg?enhanced';
+	import c59 from '../../../lib/images/2013India/2013-06-06-185438.jpg?enhanced';
+	import bw60 from '../../../lib/images/2013India/2013-06-07-102929_Nik.jpg?enhanced';
+	import c60 from '../../../lib/images/2013India/2013-06-07-102929.jpg?enhanced';
+	import bw61 from '../../../lib/images/2013India/2013-06-07-132606_Nik.jpg?enhanced';
+	import c61 from '../../../lib/images/2013India/2013-06-07-132606.jpg?enhanced';
+	import bw62 from '../../../lib/images/2013India/2013-06-07-133255_Nik.jpg?enhanced';
+	import c62 from '../../../lib/images/2013India/2013-06-07-133255.jpg?enhanced';
+	import bw63 from '../../../lib/images/2013India/2013-06-07-133606_Nik.jpg?enhanced';
+	import c63 from '../../../lib/images/2013India/2013-06-07-133606.jpg?enhanced';
+	import bw64 from '../../../lib/images/2013India/2013-06-07-141952_Nik.jpg?enhanced';
+	import c64 from '../../../lib/images/2013India/2013-06-07-141952.jpg?enhanced';
+	import bw65 from '../../../lib/images/2013India/2013-06-07-145426_Nik.jpg?enhanced';
+	import c65 from '../../../lib/images/2013India/2013-06-07-145426.jpg?enhanced';
+	import bw66 from '../../../lib/images/2013India/2013-06-07-150644_Nik.jpg?enhanced';
+	import c66 from '../../../lib/images/2013India/2013-06-07-150644.jpg?enhanced';
+	import bw67 from '../../../lib/images/2013India/2013-06-08-191833_Nik.jpg?enhanced';
+	import c67 from '../../../lib/images/2013India/2013-06-08-191833.jpg?enhanced';
+	import bw68 from '../../../lib/images/2013India/2013-06-08-192002_Nik.jpg?enhanced';
+	import c68 from '../../../lib/images/2013India/2013-06-08-192002.jpg?enhanced';
+	import bw69 from '../../../lib/images/2013India/2013-06-08-194026_Nik.jpg?enhanced';
+	import c69 from '../../../lib/images/2013India/2013-06-08-194026.jpg?enhanced';
+	import bw70 from '../../../lib/images/2013India/2013-06-08-194759_Nik.jpg?enhanced';
+	import c70 from '../../../lib/images/2013India/2013-06-08-194759.jpg?enhanced';
+	import bw71 from '../../../lib/images/2013India/2013-06-08-194916_Nik.jpg?enhanced';
+	import c71 from '../../../lib/images/2013India/2013-06-08-194916.jpg?enhanced';
+	import bw72 from '../../../lib/images/2013India/2013-06-09-130233_Nik.jpg?enhanced';
+	import c72 from '../../../lib/images/2013India/2013-06-09-130233.jpg?enhanced';
+	import bw73 from '../../../lib/images/2013India/2013-06-09-133135_Nik.jpg?enhanced';
+	import c73 from '../../../lib/images/2013India/2013-06-09-133135.jpg?enhanced';
+	import bw74 from '../../../lib/images/2013India/2013-06-09-133200_Nik.jpg?enhanced';
+	import c74 from '../../../lib/images/2013India/2013-06-09-133200.jpg?enhanced';
+	import bw75 from '../../../lib/images/2013India/2013-06-09-134540_Nik.jpg?enhanced';
+	import c75 from '../../../lib/images/2013India/2013-06-09-134540.jpg?enhanced';
+	import bw76 from '../../../lib/images/2013India/2013-06-09-161701_Nik.jpg?enhanced';
+	import c76 from '../../../lib/images/2013India/2013-06-09-161701.jpg?enhanced';
+	import bw77 from '../../../lib/images/2013India/2013-06-10-163834_Nik.jpg?enhanced';
+	import c77 from '../../../lib/images/2013India/2013-06-10-163834.jpg?enhanced';
+	import bw78 from '../../../lib/images/2013India/2013-06-10-170235_Nik.jpg?enhanced';
+	import c78 from '../../../lib/images/2013India/2013-06-10-170235.jpg?enhanced';
+	import bw79 from '../../../lib/images/2013India/2013-06-10-172557_Nik.jpg?enhanced';
+	import c79 from '../../../lib/images/2013India/2013-06-10-172557.jpg?enhanced';
+	import bw80 from '../../../lib/images/2013India/2013-06-10-173618_Nik.jpg?enhanced';
+	import c80 from '../../../lib/images/2013India/2013-06-10-173618.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -90,290 +90,290 @@
 	const imagesArray = [
 		[
 			{
-				image: bw01,
+				image: bw41,
 				caption: 'Fresh coconut, anyone? On the train north from Pathankot, Punjab. June, 2013'
 			},
-			{ image: c01, caption: ' ' }
+			{ image: c41, caption: ' ' }
 		],
 		[
 			{
-				image: bw02,
+				image: bw42,
 				caption: 'On the train north from Pathankot, Punjab. June, 2013'
 			},
-			{ image: c02, caption: ' ' }
+			{ image: c42, caption: ' ' }
 		],
 		[
 			{
-				image: bw03,
+				image: bw43,
 				caption: 'Dal Lake, Srinagar. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c03, caption: ' ' }
+			{ image: c43, caption: ' ' }
 		],
 		[
 			{
-				image: bw04,
+				image: bw44,
 				caption: 'Dal Lake, Srinagar. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c04, caption: ' ' }
+			{ image: c44, caption: ' ' }
 		],
 		[
 			{
-				image: bw05,
+				image: bw45,
 				caption: 'Srinagar is a largely Muslim city. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c05, caption: ' ' }
+			{ image: c45, caption: ' ' }
 		],
 		[
 			{
-				image: bw06,
+				image: bw46,
 				caption: 'Srinagar, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c06, caption: ' ' }
+			{ image: c46, caption: ' ' }
 		],
 		[
 			{
-				image: bw07,
+				image: bw47,
 				caption: 'Srinagar, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c07, caption: ' ' }
+			{ image: c47, caption: ' ' }
 		],
 		[
 			{
-				image: bw08,
+				image: bw48,
 				caption:
 					'The landscapes from the NH1, from Srinagar towards Leh, are spectacular. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c08, caption: ' ' }
+			{ image: c48, caption: ' ' }
 		],
 		[
 			{
-				image: bw09,
+				image: bw49,
 				caption: 'A shepherd at the roadside whistles to his flock. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c09, caption: ' ' }
+			{ image: c49, caption: ' ' }
 		],
 		[
 			{
-				image: bw10,
+				image: bw50,
 				caption:
 					'The NH1 is slow going. On the road very early and it was still getting dark as we approached Leh, little more than 400 km from Srinagar. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c10, caption: ' ' }
+			{ image: c50, caption: ' ' }
 		],
 		[
 			{
-				image: bw11,
+				image: bw51,
 				caption:
 					'Nose to tail traffic on the NH1 from Srinagar towards Leh. Jammu and Kashmir. June, 2013'
 			},
-			{ image: c11, caption: ' ' }
+			{ image: c51, caption: ' ' }
 		],
 		[
 			{
-				image: bw12,
+				image: bw52,
 				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c12, caption: ' ' }
+			{ image: c52, caption: ' ' }
 		],
 		[
 			{
-				image: bw13,
+				image: bw53,
 				caption:
 					'Often, trucks edged carefully past truck going in the opposite direction on the narrow road with only millimetres to spare. Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c13, caption: ' ' }
+			{ image: c53, caption: ' ' }
 		],
 		[
 			{
-				image: bw14,
+				image: bw54,
 				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c14, caption: ' ' }
+			{ image: c54, caption: ' ' }
 		],
 		[
 			{
-				image: bw15,
+				image: bw55,
 				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c15, caption: ' ' }
+			{ image: c55, caption: ' ' }
 		],
 		[
 			{
-				image: bw16,
+				image: bw56,
 				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c16, caption: ' ' }
+			{ image: c56, caption: ' ' }
 		],
 		[
 			{
-				image: bw17,
+				image: bw57,
 				caption: 'Between Srinagar and Leh, Jammu and Kashmir. June, 2013'
 			},
-			{ image: c17, caption: ' ' }
+			{ image: c57, caption: ' ' }
 		],
 		[
 			{
-				image: bw18,
+				image: bw58,
 				caption: 'Between Srinagar and Leh, Ladakh. June, 2013'
 			},
-			{ image: c18, caption: ' ' }
+			{ image: c58, caption: ' ' }
 		],
 		[
 			{
-				image: bw19,
+				image: bw59,
 				caption: 'Between Srinagar and Leh, Ladakh. June, 2013'
 			},
-			{ image: c19, caption: ' ' }
+			{ image: c59, caption: ' ' }
 		],
 		[
 			{
-				image: bw20,
+				image: bw60,
 				caption: 'Prayer flags. Leh, Ladakh. June, 2013'
 			},
-			{ image: c20, caption: ' ' }
+			{ image: c60, caption: ' ' }
 		],
 
 		[
 			{
-				image: bw22,
+				image: bw62,
 				caption: 'Prayer flags. Leh, Ladakh. June, 2013'
 			},
-			{ image: c22, caption: ' ' }
+			{ image: c62, caption: ' ' }
 		],
 		[
 			{
-				image: bw23,
+				image: bw63,
 				caption: 'Prayer flags. Leh, Ladakh. June, 2013'
 			},
-			{ image: c23, caption: ' ' }
+			{ image: c63, caption: ' ' }
 		],
 		[
 			{
-				image: bw21,
+				image: bw61,
 				caption: 'Around Leh, Ladakh. June, 2013'
 			},
-			{ image: c21, caption: ' ' }
+			{ image: c61, caption: ' ' }
 		],
 
 		[
 			{
-				image: bw24,
+				image: bw64,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c24, caption: ' ' }
+			{ image: c64, caption: ' ' }
 		],
 		[
 			{
-				image: bw25,
+				image: bw65,
 				caption: 'The entrance to Zorawar Fort. Leh, Ladakh. June, 2013'
 			},
-			{ image: c25, caption: ' ' }
+			{ image: c65, caption: ' ' }
 		],
 		[
 			{
-				image: bw26,
+				image: bw66,
 				caption:
 					'The narrow, shady lanes of Leh, Ladakh. Pleasant, gentle walking while your body adjusts to the thin air. June, 2013'
 			},
-			{ image: c26, caption: ' ' }
+			{ image: c66, caption: ' ' }
 		],
 		[
 			{
-				image: bw27,
+				image: bw67,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c27, caption: ' ' }
+			{ image: c67, caption: ' ' }
 		],
 		[
 			{
-				image: bw28,
+				image: bw68,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c28, caption: ' ' }
+			{ image: c68, caption: ' ' }
 		],
 		[
 			{
-				image: bw29,
+				image: bw69,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c29, caption: ' ' }
+			{ image: c69, caption: ' ' }
 		],
 		[
 			{
-				image: bw30,
+				image: bw70,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c30, caption: ' ' }
+			{ image: c70, caption: ' ' }
 		],
 		[
 			{
-				image: bw31,
+				image: bw71,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c31, caption: ' ' }
+			{ image: c71, caption: ' ' }
 		],
 		[
 			{
-				image: bw32,
+				image: bw72,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c32, caption: ' ' }
+			{ image: c72, caption: ' ' }
 		],
 		[
 			{
-				image: bw33,
-				caption: 'Leh, Ladakh. June, 2013'
+				image: bw73,
+				caption: 'I want ice-cream! Leh, Ladakh. June, 2013'
 			},
-			{ image: c33, caption: ' ' }
+			{ image: c73, caption: ' ' }
 		],
 		[
 			{
-				image: bw34,
+				image: bw74,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c34, caption: ' ' }
+			{ image: c74, caption: ' ' }
 		],
 		[
 			{
-				image: bw35,
+				image: bw75,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c35, caption: ' ' }
+			{ image: c75, caption: ' ' }
 		],
 		[
 			{
-				image: bw36,
+				image: bw76,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c36, caption: ' ' }
+			{ image: c76, caption: ' ' }
 		],
 		[
 			{
-				image: bw37,
+				image: bw77,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c37, caption: ' ' }
+			{ image: c77, caption: ' ' }
 		],
 		[
 			{
-				image: bw38,
+				image: bw78,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c38, caption: ' ' }
+			{ image: c78, caption: ' ' }
 		],
 		[
 			{
-				image: bw39,
+				image: bw79,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c39, caption: ' ' }
+			{ image: c79, caption: ' ' }
 		],
 		[
 			{
-				image: bw40,
+				image: bw80,
 				caption: 'Leh, Ladakh. June, 2013'
 			},
-			{ image: c40, caption: ' ' }
+			{ image: c80, caption: ' ' }
 		]
 	];
 </script>
