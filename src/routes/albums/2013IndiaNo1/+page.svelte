@@ -285,6 +285,7 @@
 			},
 			{ image: c28, caption: ' ' }
 		],
+
 		[
 			{
 				image: bw31,
@@ -313,20 +314,34 @@
 			},
 			{ image: c34, caption: ' ' }
 		],
-		// [
-		// 	{
-		// 		image: bw35,
-		// 		caption: 'Joginder Nagar. June,&nbsp;2013'
-		// 	},
-		// 	{ image: c35, caption: ' ' }
-		// ],
-		// [
-		// 	{
-		// 		image: bw36,
-		// 		caption: 'Joginder Nagar. June,&nbsp;2013'
-		// 	},
-		// 	{ image: c36, caption: ' ' }
-		// ],
+		[
+			{
+				image: bw35,
+				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
+			},
+			{ image: c35, caption: ' ' }
+		],
+		[
+			{
+				image: bw36,
+				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
+			},
+			{ image: c36, caption: ' ' }
+		],
+		[
+			{
+				image: bw29,
+				caption: 'Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
+			},
+			{ image: c29, caption: ' ' }
+		],
+		[
+			{
+				image: bw30,
+				caption: 'Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
+			},
+			{ image: c30, caption: ' ' }
+		],
 		[
 			{
 				image: bw37,
@@ -341,7 +356,6 @@
 			},
 			{ image: c38, caption: ' ' }
 		],
-
 		[
 			{
 				image: bw39,
