@@ -23,6 +23,26 @@
 	import c89 from '../../../lib/images/2013India/2013-06-15-103617.jpg?enhanced';
 	import bw90 from '../../../lib/images/2013India/2013-06-15-111846_Nik.jpg?enhanced';
 	import c90 from '../../../lib/images/2013India/2013-06-15-111846.jpg?enhanced';
+	import bw91 from '../../../lib/images/2013India/2013-06-15-112248_Nik.jpg?enhanced';
+	import c91 from '../../../lib/images/2013India/2013-06-15-112248.jpg?enhanced';
+	import bw92 from '../../../lib/images/2013India/2013-06-15-112934_Nik.jpg?enhanced';
+	import c92 from '../../../lib/images/2013India/2013-06-15-112934.jpg?enhanced';
+	import bw93 from '../../../lib/images/2013India/2013-06-15-113009_Nik.jpg?enhanced';
+	import c93 from '../../../lib/images/2013India/2013-06-15-113009.jpg?enhanced';
+	import bw94 from '../../../lib/images/2013India/2013-06-15-113625_Nik.jpg?enhanced';
+	import c94 from '../../../lib/images/2013India/2013-06-15-113625.jpg?enhanced';
+	import bw95 from '../../../lib/images/2013India/2013-06-15-141455_Nik.jpg?enhanced';
+	import c95 from '../../../lib/images/2013India/2013-06-15-141455.jpg?enhanced';
+	import bw96 from '../../../lib/images/2013India/2013-06-16-113429_Nik.jpg?enhanced';
+	import c96 from '../../../lib/images/2013India/2013-06-16-113429.jpg?enhanced';
+	import bw97 from '../../../lib/images/2013India/2013-06-16-113631_Nik.jpg?enhanced';
+	import c97 from '../../../lib/images/2013India/2013-06-16-113631.jpg?enhanced';
+	import bw98 from '../../../lib/images/2013India/2013-06-16-120644_Nik.jpg?enhanced';
+	import c98 from '../../../lib/images/2013India/2013-06-16-120644.jpg?enhanced';
+	import bw99 from '../../../lib/images/2013India/2013-06-16-121819_Nik.jpg?enhanced';
+	import c99 from '../../../lib/images/2013India/2013-06-16-121819.jpg?enhanced';
+	import bw100 from '../../../lib/images/2013India/2013-06-18-171241_Nik.jpg?enhanced';
+	import c100 from '../../../lib/images/2013India/2013-06-18-171241.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -88,16 +108,86 @@
 		[
 			{
 				image: bw89,
-				caption: 'In the Nubra Valley, Ladakh. June, 2013'
+				caption: 'Khardung, Nubra Valley, Ladakh. June, 2013'
 			},
 			{ image: c89, caption: ' ' }
 		],
 		[
 			{
 				image: bw90,
-				caption: 'In the Nubra Valley, Ladakh. June, 2013'
+				caption: 'Khardung, Nubra Valley, Ladakh. June, 2013'
 			},
 			{ image: c90, caption: ' ' }
+		],
+		[
+			{
+				image: bw91,
+				caption: 'Khardung, Nubra Valley, Ladakh. June, 2013'
+			},
+			{ image: c91, caption: ' ' }
+		],
+		[
+			{
+				image: bw92,
+				caption: 'Prayer wheels, Khardung, Nubra Valley, Ladakh. June, 2013'
+			},
+			{ image: c92, caption: ' ' }
+		],
+		[
+			{
+				image: bw93,
+				caption: 'Prayer wheel, Khardung, Nubra Valley, Ladakh. June, 2013'
+			},
+			{ image: c93, caption: ' ' }
+		],
+		[
+			{
+				image: bw94,
+				caption: 'Khardung, Nubra Valley, Ladakh. June, 2013'
+			},
+			{ image: c94, caption: ' ' }
+		],
+		// [
+		// 	{
+		// 		image: bw95,
+		// 		caption: 'In the Nubra Valley, Ladakh. June, 2013'
+		// 	},
+		// 	{ image: c95, caption: ' ' }
+		// ],
+		[
+			{
+				image: bw96,
+				caption: 'Hunder, Nubra Valley, Ladakh. June, 2013'
+			},
+			{ image: c96, caption: ' ' }
+		],
+		[
+			{
+				image: bw97,
+				caption: 'Hunder, Nubra Valley, Ladakh. June, 2013'
+			},
+			{ image: c97, caption: ' ' }
+		],
+		[
+			{
+				image: bw98,
+				caption: 'Bactrian camels, Hunder, Nubra Valley, Ladakh. June, 2013'
+			},
+			{ image: c98, caption: ' ' }
+		],
+		[
+			{
+				image: bw99,
+				caption: 'Hunder, Nubra Valley, Ladakh. June, 2013'
+			},
+			{ image: c99, caption: ' ' }
+		],
+		[
+			{
+				image: bw100,
+				caption: 'Back in Leh, Ladakh. June, 2013'
+			},
+			{ image: c100, caption: ' ' }
 		]
 	];
 </script>
