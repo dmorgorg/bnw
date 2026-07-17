@@ -58,10 +58,6 @@
 	import c27 from '../../../lib/images/2013India/2013-05-31-195804.jpg?enhanced';
 	import bw28 from '../../../lib/images/2013India/2013-05-31-144703_Nik.jpg?enhanced';
 	import c28 from '../../../lib/images/2013India/2013-05-31-144703.jpg?enhanced';
-	import bw29 from '../../../lib/images/2013India/2013-06-01-195422_Nik.jpg?enhanced';
-	import c29 from '../../../lib/images/2013India/2013-06-01-195422.jpg?enhanced';
-	import bw30 from '../../../lib/images/2013India/2013-06-01-200058_Nik.jpg?enhanced';
-	import c30 from '../../../lib/images/2013India/2013-06-01-200058.jpg?enhanced';
 	import bw31 from '../../../lib/images/2013India/2013-06-02-104102_Nik.jpg?enhanced';
 	import c31 from '../../../lib/images/2013India/2013-06-02-104102.jpg?enhanced';
 	import bw32 from '../../../lib/images/2013India/2013-06-02-120028_Nik.jpg?enhanced';
@@ -72,14 +68,6 @@
 	import c34 from '../../../lib/images/2013India/2013-06-02-164123.jpg?enhanced';
 	import bw35 from '../../../lib/images/2013India/2013-06-02-173305_Nik.jpg?enhanced';
 	import c35 from '../../../lib/images/2013India/2013-06-02-173305.jpg?enhanced';
-	import bw36 from '../../../lib/images/2013India/2013-06-02-174854_Nik.jpg?enhanced';
-	import c36 from '../../../lib/images/2013India/2013-06-02-174854.jpg?enhanced';
-	import bw37 from '../../../lib/images/2013India/2013-06-01-183057_Nik.jpg?enhanced';
-	import c37 from '../../../lib/images/2013India/2013-06-01-183057.jpg?enhanced';
-	import bw38 from '../../../lib/images/2013India/2013-06-01-191825_Nik.jpg?enhanced';
-	import c38 from '../../../lib/images/2013India/2013-06-01-191825.jpg?enhanced';
-	import bw39 from '../../../lib/images/2013India/2013-06-02-082401_Nik.jpg?enhanced';
-	import c39 from '../../../lib/images/2013India/2013-06-02-082401.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -320,48 +308,6 @@
 				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
 			},
 			{ image: c35, caption: ' ' }
-		],
-		[
-			{
-				image: bw36,
-				caption: 'Between Pathankot and Joginder Nagar. June,&nbsp;2013'
-			},
-			{ image: c36, caption: ' ' }
-		],
-		[
-			{
-				image: bw29,
-				caption: 'Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
-			},
-			{ image: c29, caption: ' ' }
-		],
-		[
-			{
-				image: bw30,
-				caption: 'Joginder Nagar, Himachal Pradesh. May,&nbsp;2013'
-			},
-			{ image: c30, caption: ' ' }
-		],
-		[
-			{
-				image: bw37,
-				caption: 'Time for a shave. Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
-			},
-			{ image: c37, caption: ' ' }
-		],
-		[
-			{
-				image: bw38,
-				caption: 'Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
-			},
-			{ image: c38, caption: ' ' }
-		],
-		[
-			{
-				image: bw39,
-				caption: 'Waiting for the train, Joginder Nagar, Himachal Pradesh. June,&nbsp;2013'
-			},
-			{ image: c39, caption: ' ' }
 		]
 	];
 </script>

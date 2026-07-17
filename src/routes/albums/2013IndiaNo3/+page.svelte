@@ -3,6 +3,34 @@
 	import NavigationController from '$lib/components/NavigationController.svelte';
 	import '$lib/app.scss';
 
+	import bw67 from '../../../lib/images/2013India/2013-06-08-191833_Nik.jpg?enhanced';
+	import c67 from '../../../lib/images/2013India/2013-06-08-191833.jpg?enhanced';
+	import bw68 from '../../../lib/images/2013India/2013-06-08-192002_Nik.jpg?enhanced';
+	import c68 from '../../../lib/images/2013India/2013-06-08-192002.jpg?enhanced';
+	import bw69 from '../../../lib/images/2013India/2013-06-08-194026_Nik.jpg?enhanced';
+	import c69 from '../../../lib/images/2013India/2013-06-08-194026.jpg?enhanced';
+	import bw70 from '../../../lib/images/2013India/2013-06-08-194759_Nik.jpg?enhanced';
+	import c70 from '../../../lib/images/2013India/2013-06-08-194759.jpg?enhanced';
+	import bw71 from '../../../lib/images/2013India/2013-06-08-194916_Nik.jpg?enhanced';
+	import c71 from '../../../lib/images/2013India/2013-06-08-194916.jpg?enhanced';
+	import bw72 from '../../../lib/images/2013India/2013-06-09-130233_Nik.jpg?enhanced';
+	import c72 from '../../../lib/images/2013India/2013-06-09-130233.jpg?enhanced';
+	import bw73 from '../../../lib/images/2013India/2013-06-09-133135_Nik.jpg?enhanced';
+	import c73 from '../../../lib/images/2013India/2013-06-09-133135.jpg?enhanced';
+	import bw74 from '../../../lib/images/2013India/2013-06-09-133200_Nik.jpg?enhanced';
+	import c74 from '../../../lib/images/2013India/2013-06-09-133200.jpg?enhanced';
+	import bw75 from '../../../lib/images/2013India/2013-06-09-134540_Nik.jpg?enhanced';
+	import c75 from '../../../lib/images/2013India/2013-06-09-134540.jpg?enhanced';
+	import bw76 from '../../../lib/images/2013India/2013-06-09-161701_Nik.jpg?enhanced';
+	import c76 from '../../../lib/images/2013India/2013-06-09-161701.jpg?enhanced';
+	import bw77 from '../../../lib/images/2013India/2013-06-10-163834_Nik.jpg?enhanced';
+	import c77 from '../../../lib/images/2013India/2013-06-10-163834.jpg?enhanced';
+	import bw78 from '../../../lib/images/2013India/2013-06-10-170235_Nik.jpg?enhanced';
+	import c78 from '../../../lib/images/2013India/2013-06-10-170235.jpg?enhanced';
+	import bw79 from '../../../lib/images/2013India/2013-06-10-172557_Nik.jpg?enhanced';
+	import c79 from '../../../lib/images/2013India/2013-06-10-172557.jpg?enhanced';
+	import bw80 from '../../../lib/images/2013India/2013-06-10-173618_Nik.jpg?enhanced';
+	import c80 from '../../../lib/images/2013India/2013-06-10-173618.jpg?enhanced';
 	import bw81 from '../../../lib/images/2013India/2013-06-11-171702_Nik.jpg?enhanced';
 	import c81 from '../../../lib/images/2013India/2013-06-11-171702.jpg?enhanced';
 	import bw82 from '../../../lib/images/2013India/2013-06-13-151743_Nik.jpg?enhanced';
@@ -48,6 +76,104 @@
 	let vIndex = $state(0);
 
 	const imagesArray = [
+		[
+			{
+				image: bw67,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c67, caption: ' ' }
+		],
+		[
+			{
+				image: bw68,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c68, caption: ' ' }
+		],
+		[
+			{
+				image: bw69,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c69, caption: ' ' }
+		],
+		[
+			{
+				image: bw70,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c70, caption: ' ' }
+		],
+		[
+			{
+				image: bw71,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c71, caption: ' ' }
+		],
+		[
+			{
+				image: bw72,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c72, caption: ' ' }
+		],
+		[
+			{
+				image: bw73,
+				caption: 'I want ice-cream! Leh, Ladakh. June, 2013'
+			},
+			{ image: c73, caption: ' ' }
+		],
+		[
+			{
+				image: bw74,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c74, caption: ' ' }
+		],
+		[
+			{
+				image: bw75,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c75, caption: ' ' }
+		],
+		[
+			{
+				image: bw76,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c76, caption: ' ' }
+		],
+		[
+			{
+				image: bw77,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c77, caption: ' ' }
+		],
+		[
+			{
+				image: bw78,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c78, caption: ' ' }
+		],
+		[
+			{
+				image: bw79,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c79, caption: ' ' }
+		],
+		[
+			{
+				image: bw80,
+				caption: 'Leh, Ladakh. June, 2013'
+			},
+			{ image: c80, caption: ' ' }
+		],
 		[
 			{
 				image: bw81,
