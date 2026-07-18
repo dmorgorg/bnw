@@ -36,7 +36,8 @@
 		[
 			{
 				image: bw05,
-				caption: 'Exposing the kids to my old stomping grounds. Bosigran, Cornwall. July, 2012'
+				caption:
+					"Dragging the kids round my old stomping grounds (they didn't seem to mind too much!) Bosigran, Cornwall. July, 2012"
 			},
 			{ image: c05, caption: ' ' }
 		],
@@ -129,7 +130,7 @@
 	];
 </script>
 
-<div class="albumTitle">This Album: United Kingdom, 2012</div>
+<div class="albumTitle">This Album: Europe, 2012</div>
 
 <div class="sliderWrapper">
 	<NavigationController bind:hIndex bind:vIndex {imagesArray} />
