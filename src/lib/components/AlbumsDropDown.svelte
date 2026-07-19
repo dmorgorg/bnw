@@ -30,7 +30,8 @@
 
 			<li>
 				<span class="country">England: </span>
-				<a href="/albums/2012UK">2012</a>
+				<a href="/albums/2012UK">2012</a><br />
+				<a href="/albums/2017UK">2017</a>
 			</li>
 
 			<li>
@@ -45,7 +46,7 @@
 			</li>
 
 			<li>
-				<span class="country">Laos:</span> <a href="/albums/2013Laos">2012/13</a>
+				<strike><span class="country">Laos:</span> <a href="/albums/2013Laos">2012/13</a></strike>
 			</li>
 
 			<li>

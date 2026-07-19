@@ -28,6 +28,18 @@
 	import c12 from '../../../lib/images/2012UK/2012-08-14-163440.jpg?enhanced';
 	import bw13 from '../../../lib/images/2012UK/2012-08-14-161347_Nik.jpg?enhanced';
 	import c13 from '../../../lib/images/2012UK/2012-08-14-161347.jpg?enhanced';
+	import bw14 from '../../../lib/images/2012UK/2012-08-16-191440_Nik.jpg?enhanced';
+	import c14 from '../../../lib/images/2012UK/2012-08-16-191440.jpg?enhanced';
+	import bw15 from '../../../lib/images/2012UK/2012-08-20-141406_Nik.jpg?enhanced';
+	import c15 from '../../../lib/images/2012UK/2012-08-20-141406.jpg?enhanced';
+	import bw16 from '../../../lib/images/2012UK/2012-08-20-145455_Nik.jpg?enhanced';
+	import c16 from '../../../lib/images/2012UK/2012-08-20-145455.jpg?enhanced';
+	import bw17 from '../../../lib/images/2012UK/2012-08-20-190735_Nik.jpg?enhanced';
+	import c17 from '../../../lib/images/2012UK/2012-08-20-190735.jpg?enhanced';
+	import bw18 from '../../../lib/images/2012UK/2012-08-20-190819_Nik.jpg?enhanced';
+	import c18 from '../../../lib/images/2012UK/2012-08-20-190819.jpg?enhanced';
+	import bw19 from '../../../lib/images/2012UK/2012-08-20-191039_Nik.jpg?enhanced';
+	import c19 from '../../../lib/images/2012UK/2012-08-20-191039.jpg?enhanced';
 
 	let hIndex = $state(0);
 	let vIndex = $state(0);
@@ -126,11 +138,55 @@
 					"The rock that we're climbing on is gritstone, specifically Millstone Grit. Derbyshire. August, 2012"
 			},
 			{ image: c13, caption: ' ' }
+		],
+		[
+			{
+				image: bw14,
+				caption: 'Walking along the top of Stanage Edge, Derbyshire. August, 2012'
+			},
+			{ image: c14, caption: ' ' }
+		],
+		[
+			{
+				image: bw15,
+				caption: 'The old Deinoilen slate quarry, above Llanberis. Gwynedd, Wales. August, 2012'
+			},
+			{ image: c15, caption: ' ' }
+		],
+		[
+			{
+				image: bw16,
+				caption: 'Climbing on the slate, above Llanberis. Deinoilen, Gwynedd, Wales. August, 2012'
+			},
+			{ image: c16, caption: ' ' }
+		],
+		[
+			{
+				image: bw17,
+				caption: 'Old quarry equipment. Deinoilen, Gwynedd, Wales. August, 2012'
+			},
+			{ image: c17, caption: ' ' }
+		],
+
+		[
+			{
+				image: bw18,
+				caption:
+					'The old cable house for lowering the slate. Deinoilen, Gwynedd, Wales. August, 2012'
+			},
+			{ image: c18, caption: ' ' }
+		],
+		[
+			{
+				image: bw19,
+				caption: 'The old slate quarry. Deinoilen, Gwynedd, Wales. August, 2012'
+			},
+			{ image: c19, caption: ' ' }
 		]
 	];
 </script>
 
-<div class="albumTitle">This Album: Europe, 2012</div>
+<div class="albumTitle">This Album: England and Wales, 2012</div>
 
 <div class="sliderWrapper">
 	<NavigationController bind:hIndex bind:vIndex {imagesArray} />
