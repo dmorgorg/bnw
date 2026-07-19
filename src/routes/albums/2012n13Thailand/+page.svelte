@@ -16,6 +16,8 @@
 	import c06 from '../../../lib/images/2012Thailand/2012-09-05-103516-PR.jpg?enhanced';
 	import bw07 from '../../../lib/images/2012Thailand/2012-09-05-111556-PR_Nik.jpg?enhanced';
 	import c07 from '../../../lib/images/2012Thailand/2012-09-05-111556-PR.jpg?enhanced';
+	import bw08 from '../../../lib/images/2012Thailand/2012-09-05-114007_Nik.jpg?enhanced';
+	import c08 from '../../../lib/images/2012Thailand/2012-09-05-114007.jpg?enhanced';
 
 	import bw101 from '../../../lib/images/2013Thailand/2013-05-09-053742_Nik.jpg?enhanced';
 	import c101 from '../../../lib/images/2013Thailand/2013-05-09-053742.jpg?enhanced';
@@ -72,10 +74,10 @@
 		],
 		[
 			{
-				image: bw07,
-				caption: 'Delicious! Thonburi, Bangkok. September, 2012'
+				image: bw08,
+				caption: 'Thonburi, Bangkok. September, 2012'
 			},
-			{ image: c07, caption: ' ' }
+			{ image: c08, caption: ' ' }
 		],
 
 		[
