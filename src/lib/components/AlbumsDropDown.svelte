@@ -77,7 +77,7 @@
 
 			<li>
 				<span class="country">Thailand: </span>
-				<a href="/albums/2013Thailand"> <strike>2012/13</strike> </a>,
+				<a href="/albums/2012n13Thailand"> 2012/13 </a>,
 				<!-- <a href="/albums/2013Thailand"> 2013 </a>, -->
 			</li>
 
