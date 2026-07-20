@@ -32,6 +32,18 @@
 	import c14 from '../../../lib/images/2012Thailand/2012-09-06-102806.jpg?enhanced';
 	import bw15 from '../../../lib/images/2012Thailand/2012-09-06-103107_Nik.jpg?enhanced';
 	import c15 from '../../../lib/images/2012Thailand/2012-09-06-103107.jpg?enhanced';
+	import bw16 from '../../../lib/images/2012Thailand/2012-09-06-105219_Nik.jpg?enhanced';
+	import c16 from '../../../lib/images/2012Thailand/2012-09-06-105219.jpg?enhanced';
+	import bw17 from '../../../lib/images/2012Thailand/2012-09-08-094106_Nik.jpg?enhanced';
+	import c17 from '../../../lib/images/2012Thailand/2012-09-08-094106.jpg?enhanced';
+	import bw18 from '../../../lib/images/2012Thailand/2012-09-08-094542_Nik.jpg?enhanced';
+	import c18 from '../../../lib/images/2012Thailand/2012-09-08-094542.jpg?enhanced';
+	import bw19 from '../../../lib/images/2012Thailand/2012-09-08-094738_Nik.jpg?enhanced';
+	import c19 from '../../../lib/images/2012Thailand/2012-09-08-094738.jpg?enhanced';
+	import bw20 from '../../../lib/images/2012Thailand/2012-09-08-111321_Nik.jpg?enhanced';
+	import c20 from '../../../lib/images/2012Thailand/2012-09-08-111321.jpg?enhanced';
+	import bw21 from '../../../lib/images/2012Thailand/2012-09-08-123258_Nik.jpg?enhanced';
+	import c21 from '../../../lib/images/2012Thailand/2012-09-08-123258.jpg?enhanced';
 
 	import bw091 from '../../../lib/images/2013Thailand/2013-05-09-053742_Nik.jpg?enhanced';
 	import c091 from '../../../lib/images/2013Thailand/2013-05-09-053742.jpg?enhanced';
@@ -58,13 +70,13 @@
 			},
 			{ image: c02, caption: ' ' }
 		],
-		// [
-		// 	{
-		// 		image: bw03,
-		// 		caption: 'From the ferry to the Thonburi area of Bangkok. September, 2012'
-		// 	},
-		// 	{ image: c03, caption: ' ' }
-		// ],
+		[
+			{
+				image: bw03,
+				caption: 'From the ferry to the Thonburi area of Bangkok. September, 2012'
+			},
+			{ image: c03, caption: ' ' }
+		],
 		[
 			{
 				image: bw04,
@@ -137,19 +149,61 @@
 			},
 			{ image: c13, caption: ' ' }
 		],
-		// [
-		// 	{
-		// 		image: bw14,
-		// 		caption: 'Wat Phra Kaew, Bangkok. September, 2012'
-		// 	},
-		// 	{ image: c14, caption: ' ' }
-		// ],
+		[
+			{
+				image: bw14,
+				caption: 'Wat Phra Kaew, Bangkok. September, 2012'
+			},
+			{ image: c14, caption: ' ' }
+		],
 		[
 			{
 				image: bw15,
 				caption: 'Wat Phra Kaew, Bangkok. September, 2012'
 			},
 			{ image: c15, caption: ' ' }
+		],
+		[
+			{
+				image: bw16,
+				caption: 'Wat Phra Kaew, Bangkok. September, 2012'
+			},
+			{ image: c16, caption: ' ' }
+		],
+		[
+			{
+				image: bw17,
+				caption: 'Wat Phra Kaew, Bangkok. September, 2012'
+			},
+			{ image: c17, caption: ' ' }
+		],
+		[
+			{
+				image: bw18,
+				caption: 'Wat Phra Kaew, Bangkok. September, 2012'
+			},
+			{ image: c18, caption: ' ' }
+		],
+		[
+			{
+				image: bw19,
+				caption: 'Wat Phra Kaew, Bangkok. September, 2012'
+			},
+			{ image: c19, caption: ' ' }
+		],
+		[
+			{
+				image: bw20,
+				caption: 'Wat Phra Kaew, Bangkok. September, 2012'
+			},
+			{ image: c20, caption: ' ' }
+		],
+		[
+			{
+				image: bw21,
+				caption: 'Wat Phra Kaew, Bangkok. September, 2012'
+			},
+			{ image: c21, caption: ' ' }
 		],
 
 		[
