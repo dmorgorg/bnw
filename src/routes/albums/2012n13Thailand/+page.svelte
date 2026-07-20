@@ -58,13 +58,13 @@
 			},
 			{ image: c02, caption: ' ' }
 		],
-		[
-			{
-				image: bw03,
-				caption: 'From the ferry to the Thonburi area of Bangkok. September, 2012'
-			},
-			{ image: c03, caption: ' ' }
-		],
+		// [
+		// 	{
+		// 		image: bw03,
+		// 		caption: 'From the ferry to the Thonburi area of Bangkok. September, 2012'
+		// 	},
+		// 	{ image: c03, caption: ' ' }
+		// ],
 		[
 			{
 				image: bw04,
@@ -90,14 +90,14 @@
 		[
 			{
 				image: bw07,
-				caption: 'Thonburi, Bangkok. September, 2012'
+				caption: 'Streetfood. Thonburi, Bangkok. September, 2012'
 			},
 			{ image: c07, caption: ' ' }
 		],
 
 		[
 			{
-				image: bw09,
+				image: bw08,
 				caption: 'Thonburi, Bangkok. September, 2012'
 			},
 			{ image: c08, caption: ' ' }
@@ -137,13 +137,13 @@
 			},
 			{ image: c13, caption: ' ' }
 		],
-		[
-			{
-				image: bw14,
-				caption: 'Wat Phra Kaew, Bangkok. September, 2012'
-			},
-			{ image: c14, caption: ' ' }
-		],
+		// [
+		// 	{
+		// 		image: bw14,
+		// 		caption: 'Wat Phra Kaew, Bangkok. September, 2012'
+		// 	},
+		// 	{ image: c14, caption: ' ' }
+		// ],
 		[
 			{
 				image: bw15,
