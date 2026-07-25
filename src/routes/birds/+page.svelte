@@ -10,13 +10,20 @@
 	import b008 from '../../lib/images/birds/2026-07-13-144457.jpg?enhanced';
 	import b009 from '../../lib/images/birds/2026-07-13-144541.jpg?enhanced';
 
+	// american white pelican
+	import b012 from '../../lib/images/birds/2026-07-13-150626.jpg?enhanced';
+	import b013 from '../../lib/images/birds/2026-07-13-145801.jpg?enhanced';
+
 	// northern flicker
 	import b001 from '../../lib/images/birds/2026-07-09-181359.jpg?enhanced';
 	import b002 from '../../lib/images/birds/2026-07-09-181422.jpg?enhanced';
 	import b010 from '../../lib/images/birds/2026-07-09-181605.jpg?enhanced';
 
+	// ded-winged blackbird
+	import b003 from '../../lib/images/birds/2026-07-13-150819.jpg?enhanced';
+
 	// ruddy duck
-	import b003 from '../../lib/images/birds/2026-07-13-165427.jpg?enhanced';
+	import b014 from '../../lib/images/birds/2026-07-13-165427.jpg?enhanced';
 
 	// white-faced ibis
 	import b004 from '../../lib/images/birds/2026-07-13-153349.jpg?enhanced';
@@ -53,11 +60,25 @@
 		],
 		[
 			{
+				image: b012,
+				caption:
+					'<strong>American White Pelican</strong> (and gulls).<br/> Frank Lake, Alberta. July 2026'
+			},
+			{ image: b013, caption: 'American White Pelicans. <br/> Frank Lake, Alberta. July 2026' }
+		],
+		[
+			{
 				image: b001,
 				caption: '<strong>Northern Flicker</strong>.<br/> Calgary, Alberta. July 2026'
 			},
 			{ image: b002, caption: 'Northern Flicker. <br/> Calgary, Alberta. July 2026' },
 			{ image: b010, caption: 'Northern Flicker. <br/> Calgary, Alberta. July 2026' }
+		],
+		[
+			{
+				image: b014,
+				caption: '<strong>Red-winged Blackbird</strong>. <br/> Frank Lake, Alberta. July 2026'
+			}
 		],
 		[
 			{
