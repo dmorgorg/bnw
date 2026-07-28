@@ -46,7 +46,8 @@
 					alt=""
 				/>
 				<div class="caption" style:width={captionWidth}>
-					{label}: {hIndex + 1}.{vIndex + 1} (of {imagesArray.length}). &nbsp;
+					{label}: {hIndex + 1}.{vIndex + 1} (of {imagesArray.length}
+					{label2}). &nbsp;
 					{@html imagesArray[Number(hIndex)][vIndex].caption}
 				</div>
 			</div>

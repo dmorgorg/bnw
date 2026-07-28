@@ -14,6 +14,13 @@
 	import b012 from '../../lib/images/birds/2026-07-13-150626.jpg?enhanced';
 	import b013 from '../../lib/images/birds/2026-07-13-145801.jpg?enhanced';
 
+	// asian open bill, west bengal, 2012
+	import b015 from '../../lib/images/birds/2012-10-11-063052-PR.jpg?enhanced';
+	import b016 from '../../lib/images/birds/2012-10-11-083113-PR.jpg?enhanced';
+	import b017 from '../../lib/images/birds/2012-10-11-083129-PR.jpg?enhanced';
+	import b018 from '../../lib/images/birds/2012-10-11-083227-PR.jpg?enhanced';
+	import b019 from '../../lib/images/birds/2012-10-11-130627-PR.jpg?enhanced';
+
 	// northern flicker
 	import b001 from '../../lib/images/birds/2026-07-09-181359.jpg?enhanced';
 	import b002 from '../../lib/images/birds/2026-07-09-181422.jpg?enhanced';
@@ -56,6 +63,29 @@
 			{
 				image: b007,
 				caption: 'Juvenile American Coot. <br/> Frank Lake, Alberta. July 2026'
+			}
+		],
+		[
+			{
+				image: b017,
+				caption:
+					'<strong>Asian Openbill</strong>. <br/>A member of the stork family. Adults have a gap in the beak thought to aid in the eating of snails, their main prey. <br/>West Bengal, India. October, 2012'
+			},
+			{
+				image: b015,
+				caption: '<strong>Asian Openbill</strong>. <br/>West Bengal, India. <br/>October, 2012'
+			},
+			{
+				image: b016,
+				caption: '<strong>Asian Openbill</strong>. <br/>West Bengal, India. <br/>October, 2012'
+			},
+			{
+				image: b018,
+				caption: '<strong>Asian Openbill</strong>. <br/>West Bengal, India. <br/>October, 2012'
+			},
+			{
+				image: b019,
+				caption: '<strong>Asian Openbill</strong>. <br/>West Bengal, India. <br/>October, 2012'
 			}
 		],
 		[
@@ -105,5 +135,11 @@
 
 <div class="sliderWrapper">
 	<NavigationController bind:hIndex bind:vIndex {imagesArray} />
-	<AlbumSlider2 bind:hIndex bind:vIndex {imagesArray} label="Bird species" />
+	<AlbumSlider2
+		bind:hIndex
+		bind:vIndex
+		{imagesArray}
+		label="Bird species"
+		label2="species photographed"
+	/>
 </div>
