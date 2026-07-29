@@ -21,13 +21,21 @@
 	import b018 from '../../lib/images/birds/2012-10-11-083227-PR.jpg?enhanced';
 	import b019 from '../../lib/images/birds/2012-10-11-130627-PR.jpg?enhanced';
 
+	// great egret, west bengal, 2012
+	import b020 from '../../lib/images/birds/2012-10-17-094843-PR.jpg?enhanced';
+	import b021 from '../../lib/images/birds/2012-10-17-095006-PR.jpg?enhanced';
+	import b022 from '../../lib/images/birds/2012-10-17-095021-PR.jpg?enhanced';
+
 	// northern flicker
 	import b001 from '../../lib/images/birds/2026-07-09-181359.jpg?enhanced';
 	import b002 from '../../lib/images/birds/2026-07-09-181422.jpg?enhanced';
 	import b010 from '../../lib/images/birds/2026-07-09-181605.jpg?enhanced';
 
-	// ded-winged blackbird
+	// red-winged blackbird
 	import b003 from '../../lib/images/birds/2026-07-13-150819.jpg?enhanced';
+
+	// rose-ringed parakeet
+	import b023 from '../../lib/images/birds/2026-10-31-140508-PR.jpg?enhanced';
 
 	// ruddy duck
 	import b014 from '../../lib/images/birds/2026-07-13-165427.jpg?enhanced';
@@ -98,6 +106,20 @@
 		],
 		[
 			{
+				image: b022,
+				caption: '<strong>Great Egret</strong>.<br/> West Bengal, India. October, 2012'
+			},
+			{
+				image: b021,
+				caption: '<strong>Great Egret</strong>.<br/> West Bengal, India. October, 2012'
+			}
+			// {
+			// 	image: b020,
+			// 	caption: '<strong>Great Egret</strong>.<br/> West Bengal, India. October, 2012'
+			// }
+		],
+		[
+			{
 				image: b001,
 				caption: '<strong>Northern Flicker</strong>.<br/> Calgary, Alberta. July 2026'
 			},
@@ -108,6 +130,12 @@
 			{
 				image: b014,
 				caption: '<strong>Red-winged Blackbird</strong>. <br/> Frank Lake, Alberta. July 2026'
+			}
+		],
+		[
+			{
+				image: b023,
+				caption: '<strong>Rose-ringed Parakeet</strong>. <br/> Odisha, India. October, 2012.'
 			}
 		],
 		[
