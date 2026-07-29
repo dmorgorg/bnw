@@ -35,7 +35,7 @@
 	import b003 from '../../lib/images/birds/2026-07-13-150819.jpg?enhanced';
 
 	// rose-ringed parakeet
-	import b023 from '../../lib/images/birds/2026-10-31-140508-PR.jpg?enhanced';
+	import b023 from '../../lib/images/birds/2012-10-31-140508-PR.jpg?enhanced';
 
 	// ruddy duck
 	import b014 from '../../lib/images/birds/2026-07-13-165427.jpg?enhanced';
