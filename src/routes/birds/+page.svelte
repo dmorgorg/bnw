@@ -21,10 +21,20 @@
 	import b018 from '../../lib/images/birds/2012-10-11-083227-PR.jpg?enhanced';
 	import b019 from '../../lib/images/birds/2012-10-11-130627-PR.jpg?enhanced';
 
+	// brahminy kite, Odisha, 2012
+	import b026 from '../../lib/images/birds/2012-11-12-082216-PR.jpg?enhanced';
+	import b027 from '../../lib/images/birds/2012-11-12-082245-PR.jpg?enhanced';
+
 	// great egret, west bengal, 2012
-	import b020 from '../../lib/images/birds/2012-10-17-094843-PR.jpg?enhanced';
+	import b020 from '../../lib/images/birds/2012-11-09-113119-PR.jpg?enhanced';
 	import b021 from '../../lib/images/birds/2012-10-17-095006-PR.jpg?enhanced';
 	import b022 from '../../lib/images/birds/2012-10-17-095021-PR.jpg?enhanced';
+
+	// Little Cormorant, Odisha, 2012
+	import b028 from '../../lib/images/birds/2012-11-12-083930-PR.jpg?enhanced';
+
+	// Little Egret(s) (and Indian Pond-heron), Odisha, 2012
+	import b029 from '../../lib/images/birds/2012-11-14-125335-PR.jpg?enhanced';
 
 	// northern flicker
 	import b001 from '../../lib/images/birds/2026-07-09-181359.jpg?enhanced';
@@ -42,6 +52,10 @@
 
 	// white-faced ibis
 	import b004 from '../../lib/images/birds/2026-07-13-153349.jpg?enhanced';
+
+	// white-throated kingfisher
+	import b024 from '../../lib/images/birds/2012-11-11-095231-PR.jpg?enhanced';
+	import b025 from '../../lib/images/birds/2012-11-11-095425-PR.jpg?enhanced';
 
 	// yellow-headed blackbird
 	import b011 from '../../lib/images/birds/2026-07-13-145838.jpg?enhanced';
@@ -106,17 +120,40 @@
 		],
 		[
 			{
+				image: b026,
+				caption: '<strong>Brahminy Kite</strong>.<br/> Odisha, India. November, 2012'
+			},
+			{
+				image: b027,
+				caption: '<strong>Brahminy Kite</strong>.<br/> Odisha, India. November, 2012'
+			}
+		],
+		[
+			{
 				image: b022,
 				caption: '<strong>Great Egret</strong>.<br/> West Bengal, India. October, 2012'
 			},
 			{
 				image: b021,
 				caption: '<strong>Great Egret</strong>.<br/> West Bengal, India. October, 2012'
+			},
+			{
+				image: b020,
+				caption: '<strong>Great Egret</strong>.<br/> Odisha, India. October, 2012'
 			}
-			// {
-			// 	image: b020,
-			// 	caption: '<strong>Great Egret</strong>.<br/> West Bengal, India. October, 2012'
-			// }
+		],
+		[
+			{
+				image: b028,
+				caption: '<strong>Little Cormorant</strong>.<br/> Odisha, India. November, 2012'
+			}
+		],
+		[
+			{
+				image: b029,
+				caption:
+					'<br/>Two <strong>Little Egret</strong>s and an <strong>Indian Pond-Heron</strong>.<br/> Odisha, India. November, 2012'
+			}
 		],
 		[
 			{
@@ -128,7 +165,7 @@
 		],
 		[
 			{
-				image: b014,
+				image: b003,
 				caption: '<strong>Red-winged Blackbird</strong>. <br/> Frank Lake, Alberta. July 2026'
 			}
 		],
@@ -140,7 +177,7 @@
 		],
 		[
 			{
-				image: b003,
+				image: b014,
 				caption: '<strong>Ruddy Duck</strong>. <br/> Frank Lake, Alberta. July 2026'
 			}
 		],
@@ -148,6 +185,16 @@
 			{
 				image: b004,
 				caption: '<strong>White-faced Ibis</strong>. <br/>Frank Lake, Alberta. July 2026'
+			}
+		],
+		[
+			{
+				image: b024,
+				caption: '<strong>White-throated Kingfisher</strong>. <br/>Odisha, India. November 2012'
+			},
+			{
+				image: b025,
+				caption: '<strong>White-throated Kingfisher</strong>. <br/>Odisha, India. November 2012'
 			}
 		],
 		[
