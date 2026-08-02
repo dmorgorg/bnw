@@ -12,6 +12,9 @@
 	import b035 from '../../lib/images/birds/2026-07-22-170224.jpg?enhanced';
 	import b041 from '../../lib/images/birds/2026-07-29-180634-PR.jpg?enhanced';
 
+	// american gold finch
+	import b054 from '../../lib/images/birds/2026-07-31-181733-PR.jpg?enhanced';
+
 	// american robin
 	import b042 from '../../lib/images/birds/2026-07-29-181323-PR.jpg?enhanced';
 
@@ -32,6 +35,13 @@
 	// brahminy kite, Odisha, 2012
 	import b026 from '../../lib/images/birds/2012-11-12-082216-PR.jpg?enhanced';
 	import b027 from '../../lib/images/birds/2012-11-12-082245-PR.jpg?enhanced';
+
+	// cedar waxwing
+	import b055 from '../../lib/images/birds/2026-07-31-185322-PR.jpg?enhanced';
+
+	// double crested cormorant, 2026
+	import b052 from '../../lib/images/birds/2026-07-31-161848-PR.jpg?enhanced';
+	import b053 from '../../lib/images/birds/2026-07-31-173231-PR.jpg?enhanced';
 
 	// great egret, west bengal, 2012
 	import b020 from '../../lib/images/birds/2012-11-09-113119-PR.jpg?enhanced';
@@ -85,6 +95,10 @@
 	import b034 from '../../lib/images/birds/2026-07-22-163510.jpg?enhanced';
 	import b036 from '../../lib/images/birds/2026-07-22-165919.jpg?enhanced';
 
+	// wood duck
+	import b050 from '../../lib/images/birds/2026-07-31-163044-PR.jpg?enhanced';
+	import b051 from '../../lib/images/birds/2026-07-31-164350-PR.jpg?enhanced';
+
 	// yellow-headed blackbird
 	import b011 from '../../lib/images/birds/2026-07-13-145838.jpg?enhanced';
 	import b039 from '../../lib/images/birds/2026-07-22-171207.jpg?enhanced';
@@ -125,6 +139,13 @@
 				image: b041,
 				caption:
 					'Adult American Coot and chick. <br/> Bridlewood Wetlands, Calgary, Alberta. July 2026'
+			}
+		],
+		[
+			{
+				image: b054,
+				caption:
+					'<strong>American Goldfinch</strong>.  <br/>Inglewood Bird Sanctuary, Calgary, Alberta. July, 2026'
 			}
 		],
 		[
@@ -180,6 +201,29 @@
 			{
 				image: b027,
 				caption: '<strong>Brahminy Kite</strong>.<br/> Odisha, India. November, 2012'
+			}
+		],
+		[
+			{
+				image: b055,
+				caption:
+					'<strong>Cedar Waxwing</strong>.<br/>Big Hills Provincial Park, Alberta. July, 2026.'
+			},
+			{
+				image: b027,
+				caption: '<strong>Brahminy Kite</strong>.<br/> Odisha, India. November, 2012'
+			}
+		],
+		[
+			{
+				image: b052,
+				caption:
+					'<strong>Double-crested Cormorant</strong>.<br/> Inglewood Bird Sanctuary, Calgary, Alberta. July, 2026.'
+			},
+			{
+				image: b053,
+				caption:
+					'Double-crested Cormorant.<br/> Inglewood Bird Sanctuary, Calgary, Alberta. July, 2026.'
 			}
 		],
 		[
@@ -314,6 +358,18 @@
 			{
 				image: b036,
 				caption: "Juvenile Wilson's Phalaropes. <br/>Frank Lake, Alberta. July, 2026"
+			}
+		],
+		[
+			{
+				image: b050,
+				caption:
+					'An eclipse male <strong> Wood Duck</strong>. <br/>(Birds moult after breeding season to replace damaged feathers, so that they can still fly and maintain warmth in the winter. Ducks lose all their flight feathers in one go, leaving it vulnerable to predators for 20 to 40 days because it cannot fly. Brightly coloured male plumage takes on colouring making it difficult to distinguish it from a female so the male is without its bright colouring for a period each year. Such a male is in eclipse plumage.) <br/>Inglewood Bird Sanctuary, Calgary, Alberta. July, 2026'
+			},
+			{
+				image: b051,
+				caption:
+					'An eclipse male <strong> Wood Duck</strong>. <br/>Inglewood Bird Sanctuary, Calgary, Alberta. July, 2026'
 			}
 		],
 		[
