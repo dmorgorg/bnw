@@ -42,6 +42,10 @@
 	import b057 from '../../lib/images/birds/2026-07-30-185323-PR.jpg?enhanced';
 	import b058 from '../../lib/images/birds/2026-07-30-185702-PR.jpg?enhanced';
 	import b059 from '../../lib/images/birds/2026-07-30-191121-PR.jpg?enhanced';
+	import b060 from '../../lib/images/birds/2026-07-31-181433-PR.jpg?enhanced';
+	import b061 from '../../lib/images/birds/2026-07-31-181505-PR.jpg?enhanced';
+	import b062 from '../../lib/images/birds/2026-07-31-181837-PR.jpg?enhanced';
+	import b063 from '../../lib/images/birds/2026-07-31-182041-PR.jpg?enhanced';
 
 	// double crested cormorant, 2026
 	import b052 from '../../lib/images/birds/2026-07-31-161848-PR.jpg?enhanced';
@@ -224,6 +228,22 @@
 			{
 				image: b058,
 				caption: 'Cedar Waxwing.<br/>Big Hills Provincial Park, Alberta. July, 2026.'
+			},
+			{
+				image: b060,
+				caption: 'Cedar Waxwing.<br/>Inglewood Bird Sanctuary, Calgary, Alberta. July, 2026.'
+			},
+			{
+				image: b061,
+				caption: 'Cedar Waxwing.<br/>Inglewood Bird Sanctuary, Calgary, Alberta. July, 2026.'
+			},
+			{
+				image: b062,
+				caption: 'Cedar Waxwing.<br/>Inglewood Bird Sanctuary, Calgary, Alberta. July, 2026.'
+			},
+			{
+				image: b063,
+				caption: 'Cedar Waxwing.<br/>Inglewood Bird Sanctuary, Calgary, Alberta. July, 2026.'
 			}
 		],
 		[
