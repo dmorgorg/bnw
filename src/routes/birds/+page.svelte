@@ -37,7 +37,11 @@
 	import b027 from '../../lib/images/birds/2012-11-12-082245-PR.jpg?enhanced';
 
 	// cedar waxwing
-	import b055 from '../../lib/images/birds/2026-07-31-185322-PR.jpg?enhanced';
+	import b055 from '../../lib/images/birds/2026-07-30-184545-PR.jpg?enhanced';
+	import b056 from '../../lib/images/birds/2026-07-30-185322-PR.jpg?enhanced';
+	import b057 from '../../lib/images/birds/2026-07-30-185323-PR.jpg?enhanced';
+	import b058 from '../../lib/images/birds/2026-07-30-185702-PR.jpg?enhanced';
+	import b059 from '../../lib/images/birds/2026-07-30-191121-PR.jpg?enhanced';
 
 	// double crested cormorant, 2026
 	import b052 from '../../lib/images/birds/2026-07-31-161848-PR.jpg?enhanced';
@@ -210,8 +214,16 @@
 					'<strong>Cedar Waxwing</strong>.<br/>Big Hills Provincial Park, Alberta. July, 2026.'
 			},
 			{
-				image: b027,
-				caption: '<strong>Brahminy Kite</strong>.<br/> Odisha, India. November, 2012'
+				image: b056,
+				caption: 'Cedar Waxwing.<br/>Big Hills Provincial Park, Alberta. July, 2026.'
+			},
+			{
+				image: b057,
+				caption: 'Cedar Waxwing.<br/>Big Hills Provincial Park, Alberta. July, 2026.'
+			},
+			{
+				image: b058,
+				caption: 'Cedar Waxwing.<br/>Big Hills Provincial Park, Alberta. July, 2026.'
 			}
 		],
 		[
